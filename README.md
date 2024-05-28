@@ -20,7 +20,5 @@ I created Warthunder Bot out of sheer boredom (and perhaps a touch of curiosity)
 - "How do I spawn a tank in Ground Forces?"
 - "Tell me about the Battle of Stalingrad map."
 
-Feel free to explore Warthunder Bot's capabilities, and let me know if there's anything else you'd like it to do! 😊
-
 ---
 *Disclaimer: Warthunder Bot is purely for entertainment and informational purposes. It is not affiliated with Gaijin Entertainment or the official War Thunder wiki. I will not be updating this llm anymore. Info is up to date as of 4/13/2024. Info might not always be super accurate.*
