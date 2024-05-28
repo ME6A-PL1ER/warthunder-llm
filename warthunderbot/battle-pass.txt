@@ -1,0 +1,108 @@
+Battle Pass Seasons
+Battle Pass is an event during which you will earn progress points and use them to open new levels. Each opened level brings you a valuable reward, from Silver Lions and boosters to exclusive season prizes: decorations, profile icons and premium vehicles.
+You can join the Battle Pass seasons immediately after purchase of any researchable vehicle of rank II of any gaming nation. You can access the “Battle Pass” window through the promo block on the right side in the hangar screen.
+
+Battle Pass
+
+Battle pass allows you to pick up awards from all already opened season levels. It can be purchased for Golden Eagles in the game at any time and pick up all awards from already opened levels.
+
+You can also open levels and receive awards with the mark “Free” without the “Battle Pass”.
+
+Other benefits from Golden Eagles
+Improved battle pass - works like a normal battle pass but its purchase opens 15 season levels and prizes from them can be picked up immediately.
+
+Battle Pass season levels can be opened for Golden Eagles but this option is only available after the purchase of a Battle Pass or an improved Battle Pass.
+
+The cost of level purchasing for Golden Eagles increases according to the number of levels purchased previously.
+
+Already purchased levels(including levels from an improved Battle Pass), Level cost
+Until 15	5
+16 – 25		25
+26 – 35		75
+36 and higher	250
+
+In terms of Golden Eagles, buying levels as part of an improved Battle Pass may be more profitable than buying levels individually. For 15 levels it will be 500 Golden Eagles.
+During the first four weeks of the season you can purchase 15 levels (but not more than 150 progress points). The levels purchased as part of the improved Battle Pass or the purchase of separate levels will be taken into account. The opportunity to purchase the remaining levels of the Battle Pass will be opened from the 29th day of the season.
+
+Season
+Each Battle Pass season lasts a minimum of 13 weeks. The level lineup is endless and after receiving all exclusive awards you can continue to participate in the “Battle Pass” season and receive new awards.
+
+Seasons have exclusive awards and their duration can be adjusted to suit other game events.
+
+Battle Pass: Season XIV, "Airborne General"
+Battle Pass: Season XIII, "Tropical Storm"
+Battle Pass: Season XII, "Armour Breaking Ambusher"
+Battle Pass: Season XI, "Her Majesty's Hussar"
+Battle Pass: Season X, "Royal Guard"
+Battle Pass: Season IX, "Smell of Victory"
+Battle Pass: Season VIII, "Field Testing"
+Battle Pass: Season VII, "Armoured Elephant"
+Battle Pass: Season VI, "Firepower"
+Battle Pass: Season V, "River Hunter"
+Battle Pass: Season IV, "Fearless Voltigeur"
+Battle Pass: Season III, "Strength athletics"
+Battle Pass: Season II, "Steel Centurion"
+Battle Pass: Season I, 75th Anniversary of the Great Victory
+Progress points
+Progress points are required to open each season's levels. Each level opens for 10 progress points. Points will be awarded for entering the game daily, completing Battle tasks and Season tasks.
+
+Entering the game
+Progress points will be awarded together with daily entry rewards. The more often you visit the game during the season (only one login daily), the more progress points you will receive for the next entrances.
+
+Days logged into the game, Award in progress points
+1 – 21	1
+22 – 42	2
+43 – 63	3
+64 – 77	4
+78 – 91	5
+
+The progress points counter will work independently of the daily login counter and will not be reset if you don’t attend the game regularly.
+Battle Tasks
+Completing Battle Tasks brings you Progress points!
+
+
+Task complexity, Award in progress points
+Easy task	2
+Medium task	3
+Special task	5 + “Battle trophy” award
+
+Special tasks must first be purchased in the Warbonds shop. You can do this if you have a special permit. Special permits are issued when you complete a battle task of medium complexity. Please note that you have to complete the current special task before purchasing a new one. Permits will be collected during the season and can be used when convenient. When the season ends, unused permits and unperformed battle tasks will disappear.
+
+Season Challenges
+Season tasks are tasks of high complexity which can be performed in battles in the main game modes. Task completion will be awarded with 30 Progress points. Completion of all 14 tasks will be awarded with an additional prize of 45 Progress points.
+
+Season tasks are listed on the additional “Tasks” tab in the main “Battle Pass” window.
+
+There are 14 tasks available in one single season. They are not immediately available:
+
+At the season start, you will have 1 task.
+Each week, you will be issued one new task.
+3 tasks can be received among the prizes for opened levels.
+F.A.Q.
+Can I earn progress points and receive prizes after a season ends?
+No, after the season ends any earning of progress points will be disabled until the start of a new season. Please note also that all earned in the current season permissions for performing (Special) tasks will be reset. So you will not be able to “stockpile” them between seasons.
+
+Will it be possible to use the rewards after a season ends?
+Yes, all rewards will remain with you after a season ends. Some of the prizes are exclusive and can be received only during the season, but you can use them without any restrictions.
+
+How do I purchase a “Battle Pass”?
+The "Battle Pass" and "Improved Battle Pass" can be purchased for Golden Eagles on the special in-game page. You can also purchase “Battle Pass” levels for Golden Eagles.
+
+What will happen if I purchase a “Battle Pass” after a season has started, in the middle or at the end of the season?
+You will receive all the rewards you have earned, both exclusive and free, up to your current “Battle Pass level at the end of the event. Taking into account that the speed of earning progress points is not reliant on the purchase of a “Battle Pass” nor is it necessary to purchase a “Battle Pass” immediately. However it is not advisable to delay its purchase as a late receipt of the part of the “Battle Pass” rewards may deprive you of your well-deserved competitive advantage in the peak season.
+
+Why is it preferable to purchase the “Improved Battle Pass”? Does it give any special prize?
+An “Improved Battle Pass” doesn't give access to any special new prizes. Instead, it allows you to instantly unlock the next 15 levels of the “battle Pass” immediately. This is 20% of the entire prize table; giving you a good boost.
+
+Do I have to purchase a "Battle Pass"? Is it possible to receive rewards for free?
+It is not necessary to purchase a “Battle Pass”. In any season, a significant part of the prize fund is free, including one of the exclusive premium vehicles. Additionally, all and any Warbonds within the main prize table are free.
+
+Can I earn progress points on any vehicles and in any game modes?
+The process of earning progress points is universal in terms of awards for entering the game. Earning the Daily Battle Tasks are traditionally connected with random battles with restrictions on low rank vehicles. Accordingly, earning on Season Сhallenges of the “Battle Pass” is made by analogy with daily tasks and are also connected to random battles and has restrictions on the Battle Rating of the vehicles. 
+On some vehicle types there are no restrictions at all: you can earn progress points in all vehicle types; aircraft, ground vehicles, naval vessels and helicopters.
+
+As the known number of Warbonds that you can collect is limited. What will happen if my prize in the Warbonds exceeds this limit? Will it just “expire” to nowhere?
+No, earned Warbonds will not “expire”. The awarding of a prize will just be postponed until you have spent an amount of Warbonds to fit the limit for the selected prize.
+
+Will I be able to trade received coupons on the market?
+Yes. However, not immediately. You must first make the coupon tradable with the Coupon Upgrade prize item, then wait until the resulting tradable coupon becomes available for sale on the Gaijin Marketplace. The date the coupon becomes tradable may vary per season, but will not be less than 75 days after the upgrade.

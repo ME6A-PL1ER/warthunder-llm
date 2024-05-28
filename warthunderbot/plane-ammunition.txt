@@ -1,0 +1,63 @@
+Plane ammunition
+Aircraft ammunition is organised in 'belts' typically containing a mixture of various ammunition types. Similar ammunition can often be found on SPAAs and AAA emplacements on naval vessels, usually because they carry ground-based versions of the same weapons.
+
+In-game information for the individual round in an ammunition belt can be seen in the "Protection Analysis" mechanic in the hangar. However, the information card for the belts are limited to the belt composition and its maximum penetration capabilities as a whole. Keep this in mind as this means that not every round may be able to penetrate the same amount of armor as the highest-penetration round in the belt, and not every round may have the same amount of explosive filler as the next. Take note of the belt composition (both color-coded and listed in the information card) to choose the appropriate belt type for the situation.
+
+Ammunition belt types
+Currently, there are seven principal types of ammunition in-game, featuring slightly different shell types depending on the weapon: Universal, Air Targets, Tracer, Night, Ground Targets, Armoured Targets and Stealth.
+
+Universal ammunition, as the name suggests, is generally suitable for any engagement. These usually contain a mix of both incendiary and armor-piercing rounds.
+Air Targets ammunition is intended to destroy aircraft effectively. This belt usually contains a majority of incendiary or high-explosive rounds. Large-caliber Air Targets belts can also prove useful against non-armoured ground units like trucks, SPAAs and MG emplacements because its high-explosive properties can shrapnel or overpressure enemy crew, even with an indirect hit.
+Tracer ammunition is intended to assist in targeting enemies. This ammunition is often useful for newer players because it allows the pilot to see where shots are travelling more easily than other ammunition belts, allowing for easier aim correction. This ammunition type generally does little damage to armor of 20 mm thickness or greater, however. Some nations' machine gun rounds have very dangerous incendiary tracer belts, e.g. the .50 cal Brownings are notorious for setting fuel tanks ablaze.
+
+Night ammunition is a variation of tracer ammunition where the tracer isn't as bright, to help prevent flash blindness and preserve the pilot's night vision. Night battles are rare in War Thunder, but once in it, the usual tracer rounds shine bright like lasers in the sky, showing every pilot the location of a dogfight. A severe disadvantage in Realistic and Simulator mode. This ammunition can allow the pilot to perform stealthier attacks.
+Ground Targets ammunition is recommended for destroying ground units or heavily armoured aircraft, as it features mostly solid armour-piercing rounds which can often defeat armour more effectively than other shell types.
+Armoured Targets ammunition is usually the highest penetrating belt available for an aircraft. It is recommended to be used by bombers when defending their rear, as the front side of enemy planes are usually the thickest, meaning that some ammunition does far less damage to them than they would in other areas. Armored target rounds, however, can rip through the engine and cockpit of oncoming fighters. Armored targets ammunition is also well-used by ground attack aircraft with higher calibre guns (e.g. IL-2-37, Ju 87 G-1, Hs 129 B-2, Hs 129 B-3, etc.) as the penetration can skyrocket, allowing for easy destruction of medium and even heavy tanks. Aircraft, being much weaker than ground vehicles, will usually disintegrate upon being hit by these shells.
+Stealth ammunition is often used by more experienced pilots because the bullets fired cannot be seen by the shooter or the target since the belt does not contain any tracer rounds. Stealth ammunition is useful for ambushing enemies, as they can't see when you are firing at them until they have received damage. Another advantage is that you can see the bullet impacts better, because they aren't obscured by the bright tracers. This advantage can be used to accurately aim for certain weak spots, like engines or the cockpit. Stealth can be used more easily in Arcade Mode, due to the lead-indicating reticle. In RB and SB, pilots will need to have a thorough understanding of their guns and how much to lead the target in order to shoot accurately.
+Different nations usually have the same general ammunition belts but these may generally contain slightly different shell types in different ratios, depending on what aircraft you are flying, what era its from, and what weapons it carries.
+
+Weapon differences: ex: Aircraft that are equipped with the German 20 mm MG FF/M, for example, are able to use the infamous Minengeschoß (mine shell); a devastating high-explosive round intended to destroy bombers. Aircraft only equipped with the earlier 20 mm MG FF, however, will not have access to the Minengeschoß round because the MG FF was not compatible with the same ammunition as the MG FF/M. Weapon differences mean that not every weapon is able to shoot the same ammunition as other weapons.
+Historical availability differences (time): ex: The P-36A was built in 1935 and used by the US Army Air Corp into 1941. The Hawk is equipped with the same 12.7 mm M2 Browning heavy machine gun as the F7F-1. The Tigercat, produced in 1944 and used by the US Navy into 1954, was equipped with late-war incendiary ammunition. Although the P-36 and F7F-1 use the same weapon, the P-36A does not have access to late-war ammunition. The US did not use the P-36 long enough to use late-war ammunition in it, nor could they have used late-war ammunition (1944) in 1941 as the rounds weren't developed yet. Historical availability of ammunition due to time period means that not every gun fitted to an aircraft will have access to the same ammunition, even if the exact same gun in a later aircraft does.
+Historical availability differences (other): ex: Pokryshkin's P-39N-0 is equipped with the same 37 mm M4 cannon as the P-39N-0 in the American tech tree, but the Soviet aircraft doesn't have access to the Armored Targets belts. This is because historically, the US did not export 37 mm AP rounds to the Soviet Union, as the VVS didn't consider using the P-39 for tankbusting. Availability of ammunition due to historical reasons means that aircraft in-game may have the exact same weapon as another, but may not have access to the same ammunition due to historical reasons.
+Ammunition types
+Most of the ammunition types are self-explanatory, but can be some confusion over a few of the rarer types. Incendiary (I), Adjustment incendiary (AI), and Immediate-action incendiary (IAI) rounds all sound very similar but they affect enemy vehicles differently upon impact.
+
+Incendiary (I) will set engines and fuel tanks on fire if hit often enough and if the armour screen many planes have is penetrated. They often have tracer chemicals (IT) in the base of the round which also has incendiary properties.
+Adjustment incendiary (AI) shells feature a capped nose which upon impact will deform (like dough) and allow the rest of the bullet more contact area. Due to the effect of normalization now angling the shell more efficiently, better armour penetration results. This is especially noticeable on sleek tapered sections, such as the tail and wing surfaces from 6 o'clock (behind). Smaller calibres will bounce off even 1 mm thick duralumin. The "Adjustment incendiary" suffers less from this problem, otherwise, it works just like a normal incendiary round. Note: Only incendiary shells use this as they rely on penetrating the target to do their work. HE, FI and other explosive shell types have contact fuses and will just explode upon contact, circumventing the need to penetrate. This round can be seen in weapons like the German 15 mm MG 151.
+Immediate-action incendiary (IAI) is not as much an incendiary shell as it is a small calibre HE-I round which explodes on impact. This can be seen with weapons like the Japanese 7.7 mm Type 92, Italian 12.7 mm Breda-SAFAT, Soviet 12.7 mm Berezin UB and German 13 mm MG 131.
+The composition of the Practice shell type differs for most nations. In general, they are just full core rounds, which means they possess decent penetration depth against armour (but less than AP) and have good disabling/damaging values against heavy modules like engines; fuel tanks and radiators (better than standard AP). However against soft targets (control surfaces, crewmen) they prove themselves inferior to area-of-effect shells like HE-I, HEF and FI-T. Compared to incendiary rounds they possess more instant damage while the latter will do more damage over time.
+
+A type that may be unfamiliar to players is the Armour-piercing incendiary (cermet core) round. This round has a tough inner core made of a composite material composed of ceramic (cer) and metallic (met) materials, which give it enhanced armour penetration characteristics. AP-I(c) can be found on weapons like the Soviet 12.7 mm Berezin UB and German 15 mm MG 151.
+
+Machine gun bullets
+Ball - Omni-purpose: A round with a lead core encased in a metal jacket, a "practice round" for low-calibre weapons
+T - Tracer: Standard round with a bright pyrotechnic charge in the base for watching bullet trajectory
+I - Incendiary: Standard round with incendiary components to set the target on fire
+IT - Incendiary tracer: Incendiary round with a tracer in the base
+AI - Adjustment incendiary: Incendiary round with a deforming cap to penetrate effectively at higher angles
+IAI - Immediate-action incendiary: Incendiary round fitted with a small high-explosive charge to detonate upon hitting the target
+AP - Armour-piercing: Solid round for penetrating armor
+AP-I - Armour-piercing incendiary: Armor-piercing round with incendiary components
+AP-I(c) - Armour-piercing (cermet core): Armor-piercing round with composite ceramic/metal core for increased penetration of armor
+AP-T - Armour-piercing tracer: Armor-piercing round with a tracer in the base
+API-T - Armour-piercing incendiary tracer: Armor-piercing round with incendiary components and a tracer in the base
+Cannon shells
+P - Practice: Shell with a lead core encased in a metal jacket, a "practice round" for cannon-calibre weapons
+T - Tracer: Shell with a bright pyrotechnic charge in the base of the round for watching bullet trajectory
+IT - Incendiary tracer: Standard shell with incendiary components to set targets on fire and a tracer in the base
+IT* - Incendiary tracer (self-destroying): Incendiary Tracer shell with timed fuse to self-destruct after being fired
+FI-T - Fragmentation incendiary tracer: Incendiary Tracer shell with fragmentation components for shrapnelling effect
+FI-T* - Fragmentation incendiary tracer (self-destroying): Fragmentation incendiary tracer shell with timed fuse for self-destruction
+AP - Armor-piercing: Solid shell for penetrating armor
+AP-I - Armour-piercing incendiary: Armor-piercing shell with incendiary components
+APHE - Armour-piercing high explosive: Armor-piercing shell with high-explosive filler for increased post-penetration damage
+SAPI - Semi-armor-piercing incendiary: Semi-armor piercing shell with incendiary components
+HEI - High-explosive incendiary (Minengeschoß): German high explosive "mine-shell" with incendiary components
+HEI-T - High-explosive incendiary tracer (Minengeschoß, night tracer): German HEI(M) shell with lower-powered tracers for night fighting
+HEF - High-explosive fragmentation: High-explosive shell with fragmentation components
+HEF-I - High-explosive fragmentation incendiary: High-explosive fragmentation shell with incendiary components
+HEF-T - High-explosive fragmentation tracer: High-explosive fragmentation shell with a tracer in the base
+HEFI-T - High-explosive fragmentation incendiary tracer: High-explosive fragmentation incendiary shell with a tracer in the base
+HEFI-T* - High-explosive fragmentation incendiary tracer (self-destroying): HEFI-T shell with timed fuse for self-destruction
+HEF-SAPI - High-explosive fragmentation (Semi-armour-piercing incendiary): HEF shell with semi-armor piercing incendiary components
+HVAP-T - High-velocity armour-piercing tracer: Solid armor-piercing composite rigid shell with a tracer in the base

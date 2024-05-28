@@ -1,0 +1,120 @@
+Destruction credit mechanics
+Each type of vehicle that exists in War Thunder has its own rules for quantifying the amount of damage it receives from other players. It has been designed in this way so that the award will be distributed as clearly as possible between the players who participated in the destruction of the target.
+
+The mechanics used to quantify damage for a given type of vehicle is the same for all game modes.
+
+Aircraft
+The greatest award will be provided to the player that destroys the enemy aircraft.
+
+Instant destruction
+Destruction will be counted instantly if the target received damage which excludes further controlled flight: pilot death, fuel tanks exploding, detaching of the middle/inner section of the wing or tail etc.
+
+Damaged
+Destruction will be counted if caused damage contributed to the destruction of the target before the expiration of the damage timer and there were no other conditions which were applied.
+
+A secondary award (support) will be given to all players who caused critical damage to the destroyed vehicle before the expiration of the damage timer or serious damage before the expiration of the damage timer.
+
+A player exiting their vehicle will count as having been shot down, and the kill will be credited to the closest enemy within a 5 km radius. This will occur under the condition that there is no active damage on the vehicle capable of being counted as a kill for another player.
+
+Conditions of target destruction
+The following types of damage for aircraft exist which are divided by severity: Critical damage > Serious damage > Simple damage
+
+Emergency landing at the airfield with the possibility of further repair resets the fixed damage and does not count the destruction.
+Critical damage
+Activity timer: 90 seconds (then becomes the lowest priority).
+
+Conditions required when assigning to the target: Any damages which significantly impairs the handling or performance of the aircraft - from rudder failure to fuselage damage.
+
+Where several critical damages have been assigned to the crashed target the destruction will be credited to the player who made the heaviest critical damage.
+
+Some damage which fits the critical damage definition may have a delayed effect. For example, a damaged radiator will eventually cause the engine to overheat and later lead to complete failure, subsequent to that, critical damage will be credited to the player that damaged the radiator.
+Features:
+
+Delayed critical damage has no timer and will be “assigned” to the damaged enemy until they are destroyed or the damage is repaired. A fire does normal damage with a timer.
+When the timer expires the critical damage will still be assigned to the target but will be inferior to serious and simple damage with an active timer.
+Critical damage will be awarded with Silver Lions and Research Points regardless of the fate of the damaged enemy.
+Messages regarding critical damage will be marked red in the in-game interface and recorded to the battle log.
+Serious damage
+Activity timer: 30/60/80 seconds (AB/RB/SB) (reset at end of timer).
+
+Conditions required when assigning to the target: significant damage to various parts of the aircraft which didn’t significantly degrade the aircraft's performance. Damage resulting in leakage of working fluids (oil, water or fuel).
+
+Features:
+
+Messages regarding serious damage will be marked in gray in the in-game interface and recorded to the battle log.
+Simple damage
+Activity timer: AB 12 seconds / RB & SB 15 seconds(reset at end of timer).
+
+Conditions required when assigning to the target: Any other hits which are not serious enough for other types of damage
+
+Features:
+
+Does not bring the "Support" award after the timer expires.
+Ground vehicles
+The greatest award will be provided to the player that destroys the enemy ground vehicle.
+
+Instant destruction
+Destruction will be counted as instant if the target explodes or the crew number is no longer sufficient for simultaneous movement and firing.
+
+Damaged
+A reward will be granted if the attack on the enemy player caused one of the damage types or the destruction will be counted when the damage leads to the destruction of the target.
+
+A secondary award (support) will be given to all players who made serious or critical damage with an active timer at the time of destruction.
+
+Conditions for target destruction
+The following types of damage for ground vehicles exist which are divided by severity: Active fire > Critical damage > Serious damage > Simple damage.
+
+Voluntary exiting the vehicle leads to its destruction and the destruction will be counted for the player who made one of the following types of damage in the following sequence: Active fire > Simple damage > Critical damage > Serious damage
+
+The repair of ground vehicles doesn’t reset the active damage on the vehicle. It only returns it to combat readiness without fully recovering it.
+Active fire
+Activity timer: no timer (sets the timer of damage caused by fire to the targets).
+
+Conditions required when assigning to a target: damage/hit that caused the fire in the fuel tank or its engine. Can inflict both simple and critical damage, which is eventually credited to the player who set the target on fire.
+
+Critical damage
+Activity timer: no timer.
+
+Conditions required when assigning to a target: disabling a crew member, weapon, engine or transmission.
+
+Features:
+
+It's the only type of damage that brings the “Assist in destruction” award even after the timer has expired.
+Critical damage will be awarded with Silver Lions and Research Points once for each target.
+Messages regarding critical damage will be recorded to the battle log.
+Serious damage
+Activity timer: 30/60/80 (AB/RB/SB) seconds (reset after timer end).
+
+Conditions required when assigning to a target: failure of the engine, transmission, barrel or breech of the gun
+
+Features:
+
+Can lead to the destruction of a target. For example as a result of detonation of the shell in the bore of the barrel and so will be counted as destroyed.
+Simple damage
+Activity timer: 12/15/15 (AB/RB/SB) seconds (reset after end of timer).
+
+Conditions required when assigning to a target: Any hits causing damage.
+
+Features:
+
+Can lead to the destruction of a target. For example as the result of the detonation of a shell in the bore of the barrel and so will be counted as destroyed.
+Fleet
+The greatest award will be credited for caused damage.
+
+A ship's crew can include several thousands of sailors. This is why the ‘one shot’ destruction of a ship is only possible in exceptional cases. The assessment of a player's contribution to a victory over the enemy is carried out by counting the number of disabled crew members.
+Instant destruction
+Immediately counts the destruction of the target and its crew to the player if the target has its magazine (ammo rack) detonated, hull destroyed or all compartments have been destroyed.
+Damaged
+A reward will be awarded if attack on the target disables combat posts or a crew assigned to combat posts and compartments.
+A secondary award (support) will be given to all players who added damage to the destroyed target.
+
+Conditions of target destruction
+The crew on a ship are assigned to separate compartments and combat posts - such as weapons and scanning modules, the captain's cabin, etc. striking a compartment or combat post disables a part of the crew assigned to it, depending on the severity of the damage.
+
+The destruction of a compartment so that it appears “black” means that its crew have been completely neutralised in that compartment.
+
+Features:
+
+There are no crew left in “black” (destroyed) compartments.
+The density of crew in unaffected compartments is higher and fires will lead to further damage.
+The number of remaining crew members will be listed in the damage camera both numerically and as a percentage.

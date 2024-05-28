@@ -1,0 +1,2919 @@
+USA:
+"Racing" M18
+1
+120S
+A
+ADATS
+AGS
+C
+Calliope
+CCVL
+Cobra King
+G
+Grant I (USA)
+H
+HSTV-L
+I
+Imp.Chaparral
+IPM1
+L
+LAV-AD
+LOSAT
+LVT(A)(1)
+LVT(A)(1) (TheRussianBadger)
+LVT(A)(4)
+LVT(A)(4) (ZIS-2) (USA)
+M
+M1 Abrams
+M1 KVT
+M10 GMC
+M103
+M109A1
+M1128
+M1128 Wolfpack
+M13 MGMC
+M15 CGMC
+M16 MGMC
+M163
+M18 "Black Cat"
+M18 GMC
+M19A1
+M1A1
+M1A1 (YouTube Cup)
+M1A1 AIM
+M1A1 Click-Bait
+M1A1 HC
+M1A2 Abrams
+M1A2 SEP
+M1A2 SEP V2
+M2
+M22
+M24
+M24 (TL)
+M247
+M26
+M26 T99
+M26E1
+M2A2
+M2A4
+M2A4 (1st Arm.Div.)
+M3 Bradley
+M3 GMC
+M3 Lee
+M3 Stuart
+M36 GMC
+M36B2
+M3A1 (USMC)
+M3A1 Stuart
+M3A3 Bradley
+M4
+M4 (WT Mobile)
+M4/T26
+M41A1
+M42
+M46
+M46 "Tiger"
+M47
+M48A1
+M4A1
+M4A1 (76) W
+M4A2
+M4A2 (76) W
+M4A3 (105)
+M4A3 (76) W
+M4A3E2
+M4A3E2 (76) W
+M4A5
+M50
+M551
+M551(76)
+M56
+M5A1
+M5A1 TD
+M60
+M60 AMBT
+M60A1 (AOS)
+M60A1 RISE (P)
+M60A2
+M60A3 TTS
+M6A1
+M6A2E1
+M728 CEV
+M8 LAC
+M8 Scott
+M8A1 GMC
+M901
+Magach 3 (ERA) (USA)
+MBT-70
+Merkava Mk.1 (USA)
+Merkava Mk.2B (USA)
+Merkava Mk.3D (USA)
+S
+Stuart VI (5th CAD) (USA)
+Super Hellcat
+T
+T114
+T14
+T18E2
+T1E1
+T20
+T25
+T26E1-1
+T26E5
+T28
+T29
+T30
+T32
+T32E1
+T34
+T54E1
+T54E2
+T55E1
+T92
+T95
+T95E1
+X
+XM1 (Chrysler)
+XM1 (GM)
+XM8
+XM803
+XM975
+
+Germany:
+1
+15 cm Pz.W.42
+15cm sIG 33 B Sfl
+3
+38 cm Sturmmörser
+8
+8,8 cm Flak 37 Sfl.
+B
+Begleitpanzer 57
+Bfw. Jagdpanther G1
+Brummbar
+C
+C2A1
+Class 3 (P)
+D
+DF105
+Dicker Max
+E
+E-100
+Elefant
+Ersatz M10
+F
+Ferdinand
+Flakpanzer 341
+Flakpanzer 38
+Flakpanzer I
+FlaRakPz 1
+FlaRakRad
+G
+Gepard
+Gepard 1A2
+J
+Jagdpanther G1
+Jagdpanzer 38(t)
+Jagdpanzer IV
+Jagdtiger
+JaPz.K A2
+JPz 4-5
+K
+KPz-70
+Kugelblitz
+KV-IB (Germany)
+KW I C 756 (r) (Germany)
+KW II 754 (r) (Germany)
+L
+LeKPz M41
+Leopard 1A5
+Leopard 2 (PzBtl 123)
+Leopard 2 PL
+Leopard 2 PSO
+Leopard 2A4
+Leopard 2A5
+Leopard 2A5 (YouTube Cup)
+Leopard 2A6
+Leopard 2A7V
+Leopard 2AV
+Leopard 2K
+Leopard A1A1
+Leopard A1A1 (L/44)
+Leopard I
+M
+M109G
+M4 748 (a) (Germany)
+M48 Super
+M48A2 C
+M48A2 G A2
+Marder 1A3
+Marder A1-
+Marder III
+Marder III H
+Maus
+MKPz M47 G
+N
+Nashorn
+Nb.Fz.
+O
+Ostwind
+Ostwind II
+Ozelot
+P
+Panther A
+Panther D
+Panther F
+Panther G
+Panther II
+Panzer IV/70(A)
+Panzer IV/70(V)
+Panzerjager I
+PT-16/T14 mod.
+PUMA
+Pz.35(t)
+Pz.38(t) A
+Pz.38(t) F
+Pz.38(t) n.A.
+Pz.Bef.Wg.IV J
+Pz.Bef.Wg.VI P
+Pz.II C
+Pz.II C (DAK)
+Pz.II C TD
+Pz.II F
+Pz.III B
+Pz.III E
+Pz.III F
+Pz.III J
+Pz.III J1
+Pz.III J1 TD
+Pz.III L
+Pz.III M
+Pz.III N
+Pz.IV C
+Pz.IV E
+Pz.IV F1
+Pz.IV F2
+Pz.IV G
+Pz.IV H
+Pz.IV J
+Pz.Kpfw. Churchill (Germany)
+Pz.Sfl.Ic
+Pz.Sp.Wg.P204(f) KwK
+R
+Radkampfwagen 90
+Raketenautomat
+RakJPz 2
+RakJPz 2 (HOT)
+Ru 251
+S
+Sd.Kfz. 140/1
+Sd.Kfz. 6/2
+Sd.Kfz.221 (s.Pz.B.41)
+Sd.Kfz.222
+Sd.Kfz.234/1
+Sd.Kfz.234/2
+Sd.Kfz.234/2 TD
+Sd.Kfz.234/3
+Sd.Kfz.234/4
+Sd.Kfz.251/10
+Sd.Kfz.251/21
+Sd.Kfz.251/22
+Sd.Kfz.251/9
+SPz 12-3 LGS
+SPz BMP-1
+StuG III A
+StuG III F
+StuG III G
+StuH 42 G
+Sturer Emil
+T
+T 34 747 (r) (Germany)
+T-72M1 (Germany)
+TAM
+TAM 2C
+TAM 2IP
+Tiger (Germany)
+Tiger E
+Tiger H1
+Tiger II (10.5 cm Kw.K)
+Tiger II (H)
+Tiger II (H) Sla.16
+Tiger II (P)
+Turm III
+V
+VFW
+Vilkas
+VK 3002 (M)
+VK 45.01 (P)
+VT1-2
+W
+Waffentrager
+Wiesel 1A2
+Wiesel 1A4
+Wirbelwind
+Z
+Zerstörer 45
+
+USSR:
+2
+2S1
+2S25
+2S25M
+2S38
+2S3M
+2S6
+A
+ASU-57
+ASU-85
+B
+BA-11
+BM-13N
+BM-31-12
+BM-8-24
+BMD-4
+BMP-1
+BMP-2
+BMP-2M
+BMP-3
+BT-5
+BT-7
+BT-7 TD
+BT-7A (F-32)
+BT-7M
+BTR-152A
+BTR-152D
+BTR-80A
+BTR-ZD
+G
+GAZ-AAA (4M)
+GAZ-AAA (DShK)
+GAZ-MM (72-K)
+I
+IS-1
+IS-2
+IS-2 "Revenge"
+IS-2 (1944)
+IS-2 No.321
+IS-3
+IS-4M
+IS-6
+IS-7
+ISU-122
+ISU-122S
+ISU-152
+IT-1
+K
+Khrizantema-S
+KV-1 (L-11)
+KV-1 (ZiS-5)
+KV-122
+KV-1E
+KV-1S
+KV-2 (1939)
+KV-2 (1940)
+KV-2 (ZiS-6)
+KV-220
+KV-85
+M
+M3 Medium (USSR)
+M4A2 (USSR)
+M53/59
+MK-II "Matilda" (USSR)
+MK-IX "Valentine" (USSR)
+O
+Object 120
+Object 248
+Object 268
+Object 279
+Object 292
+Object 435
+Object 685
+Object 775
+Object 906
+P
+Pantsir-S1
+Phòng không T-34 (USSR)
+PT-76-57
+PT-76B
+R
+RBT-5
+S
+Shturm-S
+SMK
+Strela-10M2
+SU-100
+SU-100P
+SU-100Y
+SU-122
+SU-122-54
+SU-122P
+SU-152
+SU-5-1
+SU-57
+SU-57B
+SU-76D
+SU-76M
+SU-76M (5th Gv.Kav.Corps)
+SU-85
+SU-85A
+SU-85M
+T
+T-10A
+T-10M
+T-126
+T-26
+T-26 (1st Gv.T.Br.)
+T-26-4
+T-26E
+T-28
+T-28 (1938)
+T-28E
+T-34 (1940)
+T-34 (1941)
+T-34 (1942)
+T-34 (1st Gv.T.Br.)
+T-34 (Prototype)
+T-34-100
+T-34-57
+T-34-57 (1943)
+T-34-85
+T-34-85 (D-5T)
+T-34-85E
+T-34E
+T-34E STZ
+T-35
+T-44
+T-44-100
+T-44-122
+T-50
+T-54 (1947)
+T-54 (1949)
+T-54 (1951)
+T-55A
+T-55AM-1
+T-55AMD-1
+T-60
+T-62
+T-62M-1
+T-64A (1971)
+T-64B
+T-70
+T-72A
+T-72AV (TURMS-T)
+T-72B
+T-72B (1989)
+T-72B3
+T-72M2 Moderna
+T-80
+T-80B
+T-80BVM
+T-80U
+T-80U (YouTube Cup)
+T-80UD
+T-80UK
+T-80UM2
+T-90A
+T-90M
+T-III (USSR)
+T-V (USSR)
+TO-55
+Type 62 (USSR)
+Y
+YaG-10 (29-K)
+Z
+ZiS-12 (94-KM)
+ZiS-30
+ZiS-43
+ZSU-23-4
+ZSU-23-4M4
+ZSU-37
+ZSU-37-2
+ZSU-57-2
+ZUT-37
+
+Great Britan:
+A
+A.C.I
+A.C.IV
+A13 Mk I
+A13 Mk I (3rd R.T.R.)
+A13 Mk II
+A13 Mk II 1939
+Achilles
+Achilles (65 Rg.)
+ADATS (M113)
+AEC AA
+AEC Mk II
+Alecto I
+Archer
+Avenger
+B
+Bhishma TWMP
+Black Night
+Black Prince
+Bosvark
+C
+Caernarvon
+Centurion Action X
+Centurion Mk 1
+Centurion Mk 10
+Centurion Mk 3
+Centurion Mk.2
+Centurion Mk.5 AVRE
+Centurion Mk.5/1
+Challenger
+Challenger 2
+Challenger 2 (2F)
+Challenger 2 (YouTube Cup)
+Challenger 2 OES
+Challenger 2 TES
+Challenger 2E
+Challenger 3 TD
+Challenger DS
+Challenger Mk.2
+Challenger Mk.3
+Charioteer Mk VII
+Chieftain Marksman
+Chieftain Mk 10
+Chieftain Mk 3
+Chieftain Mk 5
+Churchill Crocodile
+Churchill I
+Churchill III
+Churchill NA75
+Churchill VII
+Comet I
+Comet I "Iron Duke IV"
+Concept 3
+Conqueror
+Conway
+Cromwell I
+Cromwell V
+Cromwell V (RP-3)
+Crusader "The Saint"
+Crusader AA Mk I
+Crusader AA Mk II
+Crusader II
+Crusader III
+D
+Daimler Mk II
+E
+Eland 90 Mk.7
+Excelsior
+F
+Falcon
+Fox
+FV4005
+FV4202
+G
+G6
+Grant I
+Gun Carrier (3-in)
+I
+Independent
+K
+Khalid
+L
+Light AA Mk I
+M
+M109A1 (Great Britain)
+Matilda Hedgehog
+Matilda III
+O
+Olifant Mk.1A
+Olifant Mk.2
+Q
+QF 3.7 Ram
+R
+Ratel 20
+Ratel 90
+Rooikat 105
+Rooikat Mk.1D
+Rooikat MTTD
+S
+SARC MkIVa
+SARC MkVI (2pdr)
+SARC MkVI (6pdr)
+Sherman Firefly
+Sherman IC "Trzyniec"
+Sherman II
+Sho't Kal Dalet (Great Britain)
+Skink
+Staghound AA
+Stormer HVM
+Striker
+Strv 81 (RB 52) (Great Britain)
+Stuart I
+Stuart III
+Swingfire
+T
+Tetrarch I
+TOG II
+Tortoise
+TTD
+V
+Valentine I
+Valentine IX
+Valentine XI
+VFM5
+Vickers Mk.1
+Vickers Mk.11
+Vickers Mk.3
+Vickers Mk.7
+Vijayanta
+W
+Warrior
+Y
+Ystervark
+Z
+ZA-35
+ZT3A2
+
+Japan:
+C
+Chi-Ha
+Chi-Ha Kai
+Chi-Ha Kai TD
+Chi-Ha LG
+Chi-Ha Short Gun
+Chi-He
+Chi-He (5th Regiment)
+Chi-Nu
+Chi-Nu II
+Chi-Ri II
+Chi-To
+Chi-To Late
+H
+Ha-Go
+Ha-Go Commander
+Heavy Tank No.6 (Japan)
+Ho-I
+Ho-Ni I
+Ho-Ni III
+Ho-Ri Production
+Ho-Ri Prototype
+Ho-Ro
+I
+I-Go Ko
+K
+Ka-Chi
+Ka-Mi
+Ke-Ni
+M
+M16 MGMC (Japan)
+M19A1 (Japan)
+M24 (Japan)
+M36 (Japan)
+M41A1 (Japan)
+M42 (Japan)
+M47 (Japan)
+M4A3 (76) W (Japan)
+N
+Na-To
+R
+Ro-Go
+Ro-Go Exp.
+S
+So-Ki
+ST-A1
+ST-A2
+ST-A3
+STB-2
+SUB-I-II
+T
+Ta-Se
+TKX
+TKX (P)
+Type 10
+Type 16
+Type 16 (FPS)
+Type 16 (P)
+Type 60 ATM
+Type 60 SPRG (C)
+Type 61
+Type 74 (C)
+Type 74 (E)
+Type 74 (F)
+Type 74 (G)
+Type 75 MLRS
+Type 75 SPH
+Type 81 (C)
+Type 87
+Type 87 RCV
+Type 87 RCV (P)
+Type 89
+Type 90
+Type 90 (B)
+Type 90B "Fuji"
+Type 93
+Type 94
+Type 99
+
+China:
+A
+AFT09
+C
+CCKW 353 (M45)
+Chi-Ha (China)
+Chi-Ha Kai (China)
+CM11
+CM25
+I
+IS-2 (1944) (China)
+IS-2 (China)
+IS-2 No.402
+ISU-122 (China)
+ISU-152 (China)
+L
+LVT(A)(4) (ZiS-2)
+M
+M10 GMC (China)
+M113A1 (TOW) (China)
+M18 GMC (China)
+M24 (China)
+M36 GMC (China)
+M3A3 (1st PTG) (China)
+M3A3 Stuart (China)
+M41A3 (China)
+M41D
+M42 (China)
+M48A1 (China)
+M4A1 (75) W (China)
+M4A4 (1st PTG) (China)
+M4A4 (China)
+M5A1 (China)
+M60A3 TTS (China)
+M64
+M8 HMC (China)
+M8 LAC (China)
+MBT2000
+O
+Object 122MT "MC"
+Object 211
+P
+PGZ04A
+PGZ09
+Phòng không T-34
+PLZ83
+PT-76 (China)
+PTL02
+PTZ89
+Q
+QN506
+S
+Sd.Kfz.222 (China)
+SU-100 (China)
+SU-76M (China)
+T
+T-26 (China)
+T-26 No.531
+T-34 (1943) (China)
+T-34-85 (S-53) (China)
+T-34-85 Gai
+T-34-85 No.215
+T-62 545 (China)
+T-69 II G
+Tor-M1
+Type 59
+Type 62
+Type 63
+Type 69
+Type 69-IIa
+V
+VT-4A1
+W
+WMA301
+WZ1001(E) LCT
+WZ305
+Z
+ZBD04A
+ZBD86
+ZLT11
+ZSD63/PG87
+ZTS63
+ZTZ59A
+ZTZ59D1
+ZTZ88A
+ZTZ88B
+ZTZ96
+ZTZ96A
+ZTZ96A (P)
+ZTZ99-II
+ZTZ99-III
+ZTZ99A
+
+Italy:
+1
+105/25 M43
+2
+2S1 (Italy)
+4
+47/32 L40
+7
+75/18 M41
+75/32 M41
+75/34 M42
+75/34 M43
+75/46 M43
+9
+90/53 M41M
+A
+AB 41
+AB 43
+Ariete
+Ariete (P)
+Ariete AMV
+Ariete PSO
+AS 42
+AS 42/47
+AUBL/74
+AUBL/74 HVG
+B
+Breda 501
+Breda 90/53
+BTR-80A (Italy)
+C
+C13 T90
+Celere Sahariano
+Centauro I 105
+Centauro I 105 R
+Centauro I 120
+Centauro RGO
+CM52
+Csaba
+D
+Dardo
+F
+FIAT 6614
+Freccia
+K
+KF41
+L
+L3/33 CC
+L6/40
+L6/40 (31 Rgt.)
+Lancia 3Ro (100/17)
+Leopard 1A5 (Italy)
+Leopard 2A4 (Italy)
+Leopard 40/70
+M
+M109G (Italy)
+M11/39
+M113A1 (TOW)
+M13/40 (I)
+M13/40 (II)
+M13/40 (III)
+M14/41
+M14/41 (47/40)
+M15/42
+M18 (Italy)
+M24 (Italy)
+M26 "D.C.Ariete"
+M26A1
+M36B1
+M3A3 (Italy)
+M42 (Italy)
+M43 "G.C.Leoncello"
+M47 (105/55)
+M60A1 "D.C.Ariete"
+O
+OF-40
+OF-40 (MTCA)
+OF-40 Mk.2A
+OTOMATIC
+P
+P40
+P40 "G.C. Leoncello"
+Pz.III N (Italy)
+Pz.IV G (Italy)
+R
+R3 T106 FA
+R3 T20 FA-HS
+S
+Sherman I Composito (Italy)
+Sherman Ic
+Sherman V (Italy)
+Sherman Vc (Italy)
+SIDAM 25
+SIDAM 25 (Mistral)
+StuG III G (Italy)
+T
+T-72M1 (Italy)
+Tigris
+Toldi IIA
+Turan I
+Turan II
+Turan III
+V
+VBC (PT2)
+VCC-80/30
+VCC-80/60
+VRCC
+Z
+Zrinyi I
+Zrinyi II
+ZSU-23-4 (Italy)
+ZSU-57-2 (Italy)
+
+France:
+2
+2C
+2C bis
+A
+AMC.34 YR
+AMC.35 (ACG.1)
+AMD.35
+AMD.35 (SA35)
+AML-90
+AMR.35 ZT3
+AMX M4
+AMX-10M
+AMX-10P
+AMX-10RC
+AMX-13
+AMX-13 (FL11)
+AMX-13 (HOT)
+AMX-13 (SS.11)
+AMX-13 DCA 40
+AMX-13-90
+AMX-13-M24
+AMX-30
+AMX-30 (1972)
+AMX-30 ACRA
+AMX-30 DCA
+AMX-30 Super
+AMX-30B2
+AMX-30B2 BRENUS
+AMX-32
+AMX-32 (105)
+AMX-40
+AMX-50 (TO90/930)
+AMX-50 (TOA100)
+AMX-50 Foch
+AMX-50 Surbaisse
+AMX-50 Surblinde
+ARL-44
+ARL-44 (ACL-1)
+AuF1
+B
+B1 bis
+B1 ter
+C
+CA Lorraine
+CCKW 353 AA
+Char 25t
+Crusader Mk.II (France)
+D
+D2
+E
+E.B.R. (1951)
+E.B.R. (1954)
+E.B.R. (1963)
+ELC bis
+F
+FCM.36
+H
+H.35
+H.39
+H.39 "Cambronne"
+I
+ItO 90M (France)
+L
+Leclerc
+Leclerc AZUR
+Leclerc S2
+Leclerc SXXI
+Lorraine 155 Mle.50
+Lorraine 37L
+Lorraine 40t
+LVT-4/40
+M
+M10 GMC (France)
+M26 (France)
+M36B2 (France)
+M3A3 Stuart (France)
+M4A1 (FL10)
+M4A1 (France)
+M4A3 (105) (France)
+M4A3E2 (France)
+M4A4 (France)
+M4A4 (SA50)
+MARS 15
+MEPHISTO
+P
+P.7.T AA
+Panther "Dauphiné"
+R
+R.35 (SA38)
+Roland 1
+S
+S.35
+SANTAL
+SAu 40
+SK-105A2
+Somua SM
+T
+TPK 6.41
+V
+VBCI-2 (MCT30)
+VTT DCA
+
+Sweden:
+A
+ASRAD-R
+B
+Bkan 1C
+BT-42
+C
+Charioteer Mk VII (Sweden)
+Christian II
+Comet I (Sweden)
+CT-CV 105HP
+CV 90105
+CV 90120
+CV9030FIN
+I
+Ikv 103
+Ikv 72
+Ikv 73
+Ikv 91
+Ikv 91-105
+ItO 90M
+ItPsV 90
+L
+L-62 ANTI II
+Lago I
+Leopard 1A5NO2
+Leopard 2A4 (Sweden)
+Leopard 2A6 (Sweden)
+Lvkv 42
+Lvkv 9040C
+Lvrbv 701
+Lvtdgb m/40
+P
+Pbil m/40
+Pbv 301
+Pbv 302 (BILL)
+Pbv 501
+PT-76 (Sweden)
+Pvkv II
+Pvkv III
+Pvkv IV
+Pvkv m/43 (1946)
+Pvkv m/43 (1963)
+Pvlvv fm/42
+Pvrbv 551
+Pz.IV (Sweden)
+S
+SAV 20.12.48
+Sav m/43 (1944)
+Sav m/43 (1946)
+Sherman III/IV
+Spj fm/43-44
+Strf 9040 BILL
+Strf 9040B
+Strf 9040C
+Strv 101
+Strv 103-0
+Strv 103A
+Strv 103C
+Strv 104
+Strv 105
+Strv 121
+Strv 122A
+Strv 122B PLSS
+Strv 122B+
+Strv 74
+Strv 81
+Strv 81 (RB 52)
+Strv m/31
+Strv m/38
+Strv m/39
+Strv m/39 TD
+Strv m/40L
+Strv m/41 S-I
+Strv m/41 S-II
+Strv m/42 DT
+Strv m/42 EH
+T
+T 80 U (Sweden)
+T-26E (Sweden)
+T-28 (Sweden)
+T-34 (Sweden)
+T-34-85 (Sweden)
+T-54 (Sweden)
+T-55M (Sweden)
+T-72M1 (Sweden)
+U
+U-SH 405
+UDES 33
+V
+VEAK 40
+Vickers Mk.E
+VIDAR
+Z
+ZSU-57-2 (Sweden)
+
+Israel:
+A
+AML-90 (Israel)
+AMX-13 (Israel)
+G
+Gal Batash
+Giraf
+H
+Hovet
+I
+Imp.Chaparral (Israel)
+M
+M-51
+M-51 (W)
+M109 (Israel)
+Machbet
+Magach 1
+Magach 2
+Magach 3
+Magach 3 (ERA)
+Magach 5
+Magach 6
+Magach 6A
+Magach 6B
+Magach 6B Gal
+Magach 6C
+Magach 6M
+Magach 6R
+Magach 7C
+Magach Hydra
+Merkava Mk.1B
+Merkava Mk.2B
+Merkava Mk.2D
+Merkava Mk.3B
+Merkava Mk.3C
+Merkava Mk.4 LIC
+Merkava Mk.4B
+Merkava Mk.4M
+R
+Raam Segol
+Rochev
+S
+Sho't
+Sho't Kal Alef
+Sho't Kal Dalet
+Sho't Kal Gimel
+T
+TCM-20
+Tiran 4
+Tiran 4S
+Z
+Zachlam Tager
+ZSU-23-4 (Israel)
+ZSU-57-2 (Israel)
+
+classifications:
+
+light tanks-
+
+USA light tanks:
+LVT 	LVT(A)(1) · ○LVT(A)(1) · LVT(A)(4)
+M2 	M2A2 · M2A4 · M2A4 (1st Arm.Div.)
+M3/M5 Stuart 	M3 Stuart · M3A1 Stuart · M3A1 (USMC) · M5A1 · M5A1 TD · Stuart VI (5th CAD)
+M22 Locust 	M22
+M24 Chaffee 	M24 · M24 (TL)
+M18 Hellcat 	M18 GMC · M18 "Black Cat" · Super Hellcat
+M41 Walker Bulldog 	M41A1
+M551 Sheridan 	M551 · M551(76)
+M3 Bradley 	M3 Bradley · M3A3 Bradley
+Wheeled 	M8 LAC · T18E2 · M1128 · M1128 Wolfpack
+Other 	M8A1 GMC · T92 · T114 · HSTV-L · CCVL · XM8 · AGS
+
+Germany light tanks:
+Pz.II 	Pz.II C · Pz.II C (DAK) · Pz.II C TD · Pz.II F · Pz.Sfl.Ic
+Sd.Kfz.234 	Sd.Kfz.234/1 · Sd.Kfz.234/2 · Sd.Kfz.234/2 TD
+Marder 	Marder A1- · Marder 1A3 · Begleitpanzer 57 · DF105
+ 	PUMA
+Wheeled 	Sd.Kfz.221 (s.Pz.B.41) · Class 3 (P) · Radkampfwagen 90
+Other 	Ru 251 · SPz 12-3 LGS
+Argentina 	TAM · TAM 2C · TAM 2IP · JaPz.K A2
+Czechoslovakia 	Pz.35(t) · Pz.38(t) A · Pz.38(t) F · Pz.38(t) n.A. · Sd.Kfz. 140/1
+France 	Pz.Sp.Wg.P204(f) KwK
+Lithuania 	Vilkas
+USA 	leKPz M41
+USSR 	SPz BMP-1
+
+USSR light tanks:
+T-26 	T-26 · T-26 (1st Gv.T.Br.) · T-26-4 · T-26E
+BT 	BT-5 · RBT-5 · BT-7 · BT-7 TD · BT-7M · BT-7A (F-32)
+T-50 	T-126 · T-50
+T-70 	T-70 · T-80
+PT-76 	PT-76B · PT-76-57 · Object 906
+BMP 	BMP-1 · BMP-2 · BMP-2M · BMP-3
+BMD 	BMD-4
+2S25 	2S25 · 2S25M
+Wheeled 	BA-11 · BTR-80A
+Other 	T-60 · Object 685 · 2S38
+China 	Type 62
+
+Great Britan light tanks:
+A13 	A13 Mk I · A13 Mk I (3rd R.T.R.) · A13 Mk II · A13 Mk II 1939
+A15 	Crusader II · Crusader "The Saint" · Crusader III
+A17 	Tetrarch I
+IFV 	Warrior
+Wheeled 	Daimler Mk II · AEC Mk II · Fox · Vickers Mk.11
+Other 	VFM5
+South Africa 	
+SARC 	SARC MkIVa · SARC MkVI (2pdr) · SARC MkVI (6pdr)
+Ratel 	Ratel 90 · Ratel 20
+Rooikat 	Rooikat Mk.1D · Rooikat 105 · Rooikat MTTD
+Other 	Concept 3 · Eland 90 Mk.7
+USA 	Stuart I · Stuart III
+
+Japan light tanks:
+Type 89 	I-Go Ko
+Type 95 	Ha-Go · Ha-Go Commander
+Type 98 	Ke-Ni
+Other 	Ka-Mi
+IFV 	Type 89
+Wheeled 	Type 87 RCV (P) · Type 87 RCV · Type 16 (P) · Type 16 (FPS) · Type 16
+USA 	M24 · M41A1
+
+China light tanks:
+Type 63 	Object 211 · Type 63 · ZTS63
+Type 62 	Type 62
+WZ551 	PTL02 · WMA301
+ZBL08 	ZLT11
+Type 86 	ZBD86
+WZ502 	ZBD04A
+ROC 	M41D · M64
+Type 59 	QN506
+USA 	M8 LAC · M3A3 Stuart · M3A3 (1st PTG) · M5A1 · M24 · M18 GMC · M41A3
+USSR 	T-26 · T-26 No.531 · PT-76
+
+Italy light tanks:
+ 	Italy
+L6/40 	L6/40 · L6/40 (31 Rgt.)
+M11/39 	M11/39
+Autoblindo 	AB 41 · AB 43
+Fiat 6614/6616 	FIAT 6614 · AUBL/74 · AUBL/74 HVG
+R3 Capraia 	R3 T106 FA
+Centauro 	Centauro I 105 · Centauro I 105 R · Centauro I 120 · Centauro RGO · VRCC
+Freccia 	VBC (PT2) · Freccia
+Dardo 	Dardo · VCC-80/60 · VCC-80/30
+Other 	C13 T90
+USA 	M3A3 · M24 · M18
+ 	Hungary
+WWII 	Csaba · Toldi IIA
+Post 	BTR-80A · KF41
+
+France light tanks:
+AMC.34/35 	AMC.34 YR · AMC.35 (ACG.1)
+H.35/39 	H.35 · H.39 · H.39 "Cambronne"
+AMX-13 	AMX-13 (FL11) · AMX-13-M24 · AMX-13 · AMX-13 (SS.11) · AMX-13-90 · AMX-13 (HOT)
+Wheeled 	AML-90 · AMX-10RC
+AMD.35 	AMD.35 · AMD.35 (SA35)
+E.B.R. 	E.B.R. (1951) · E.B.R. (1954) · E.B.R. (1963)
+Other 	FCM.36 · R.35 (SA38) · Char 25t · MARS 15 · VBCI-2 (MCT30)
+Austria 	SK-105A2
+Great Britain 	Crusader Mk.II
+USA 	LVT-4/40 · M3A3 Stuart
+
+Sweden light tanks:
+L-60 	Strv m/38 · Strv m/39 · Strv m/39 TD · Strv m/40L
+Strv m/41 	Strv m/41 S-I · Strv m/41 S-II
+Ikv 91 	Ikv 91 · Ikv 91-105
+CV 90 	Strf 9040B · Strf 9040C · Strf 9040 BILL
+ 	CV 90105 · CV 90120
+Wheeled 	Pbil m/40 · U-SH 405
+Other 	Strv m/31 · Strv 74 · Pbv 501
+Finland 	Vickers Mk.E · T-26E · BT-42 · PT-76 · CV9030FIN · CT-CV 105HP
+
+Israel light tanks:
+AML-90 · AMX-13
+
+Medium tanks-
+
+USA medium tanks:
+M2 	M2
+M3 	M3 Lee · Grant I
+M4 	M4 · Calliope · M4A1 · M4A1 (76) W · M4A2 · M4A2 (76) W · M4A3 (105) · M4A3 (76) W · M4/T26
+M26 Pershing 	T20 · T25 · M26 · M26 T99 · M26E1
+M46/47/48 Patton 	M46 · M46 "Tiger" · M47 · M48A1 · T54E1 · T54E2
+M60 	M60 · M60A1 (AOS) · M60A1 RISE (P) · M60A2 · M60A3 TTS · M728 CEV · 120S
+MBT-70 	MBT-70 · XM803
+M1 Abrams 	XM1 (Chrysler) · XM1 (GM)
+ 	M1 Abrams · M1 KVT · IPM1
+ 	M1A1 · M1A1 HC · M1A1 Click-Bait
+ 	M1A2 Abrams · M1A2 SEP · M1A2 SEP V2
+Other 	T95E1
+Australia 	M1A1 AIM
+Canada 	M4A5
+Israel 	Magach 3 (ERA) · Merkava Mk.1 · Merkava Mk.2B · Merkava Mk.3D
+Turkey 	M60 AMBT
+
+Germany medium tanks:
+Pz.III 	Pz.III B · Pz.III E · Pz.III F · Pz.III J · Pz.III J1 · Pz.III J1 TD · Pz.III L · Pz.III M · Pz.III N
+Pz.IV 	Pz.IV C · Pz.IV E · Pz.IV F1 · Pz.IV F2 · Pz.IV G · Pz.IV H · Pz.IV J · Pz.Bef.Wg.IV J
+Pz.V 	VK 3002 (M) · Panther A · Panther D · Panther F · Panther G · Ersatz M10 · Panther II
+M48 upgrades 	M48A2 G A2 · M48 Super
+Leopard 1 	Leopard I · Leopard A1A1 · Leopard A1A1 (L/44) · Leopard 1A5 · C2A1 · Turm III
+Leopard 2 	PT-16/T14 mod. · Leopard 2K · Leopard 2AV
+ 	Leopard 2A4 · Leopard 2 (PzBtl 123) · Leopard 2 PL · Leopard 2A5 · Leopard 2 PSO · Leopard 2A6 · Leopard 2A7V
+Trophies 	▀M4 748 (a) · ▀T 34 747 (r)
+Other 	Nb.Fz. · KPz-70
+USA 	mKPz M47 G · M48A2 C
+USSR 	T-72M1
+
+USSR medium tanks:
+T-28 	T-28 (1938) · T-28 · T-28E
+T-34-76 	T-34 (Prototype) · T-34 (1940) · T-34 (1941) · T-34 (1st Gv.T.Br.) · T-34 (1942) · T-34E STZ · T-34E
+T-34-57 	T-34-57 · T-34-57 (1943)
+T-34-85 	T-34-85 (D-5T) · T-34-85 · T-34-85E
+T-34-100 	T-34-100
+T-44 	T-44 · T-44-100 · T-44-122
+T-54 	T-54 (1947) · T-54 (1949) · T-54 (1951)
+T-55 	TO-55 · T-55A · T-55AM-1 · T-55AMD-1
+T-62 	T-62 · T-62M-1
+T-64 	Object 435 · T-64A (1971) · T-64B
+T-72 	T-72A · T-72AV (TURMS-T) · T-72B · T-72B (1989) · T-72B3 · T-72M2 Moderna
+T-80 	T-80B · T-80U · T-80UD · T-80UK · T-80UM2 · T-80BVM · Object 292
+T-90 	Т-90А · T-90M
+Trophies/Lend-Lease 	
+Germany 	T-III · T-V
+Great Britain 	МК-IX "Valentine"
+USA 	M3 Medium · M4A2
+
+Great Britan medium tanks:
+Valentine 	Valentine I · Valentine IX · Valentine XI
+Cromwell 	Cromwell I · Cromwell V · Cromwell V (RP-3)
+Cromwell derivatives 	Challenger · Avenger · Comet I · Comet I "Iron Duke IV" · Charioteer Mk VII
+Centurion 	Centurion Mk 1 · Centurion Mk.2 · Centurion Mk 3 · Centurion Mk.5 AVRE · Centurion Mk 10 · Centurion Action X · FV4202
+Vickers MBT 	Vickers Mk.1 · Vickers Mk.3 · Vickers Mk.7
+Chieftain 	Chieftain Mk 3 · Chieftain Mk 5 · Chieftain Mk 10
+Challenger 1 	Challenger Mk.2 · Challenger Mk.3 · Challenger DS
+Challenger 2 	Challenger 2 · Challenger 2 (2F) · Challenger 2 TES · Challenger 2 OES · Challenger 2E · Challenger 2 Black Night
+Challenger 3 	Challenger 3 TD
+Australia 	A.C.I · A.C.IV · Centurion Mk.5/1
+South Africa 	Olifant Mk.1A · Olifant Mk.2 · TTD
+India 	Vijayanta · Bhishma TWMP
+Israel 	Sho't Kal Dalet
+Jordan 	Khalid
+Sweden 	Strv 81 (RB 52)
+USA 	Grant I · Sherman II · Sherman Firefly · Sherman IC "Trzyniec"
+
+Japan medium tanks:
+Type 97 	Chi-Ha · Chi-Ha Kai · Chi-Ha Kai TD · Chi-Ha Short Gun
+Type 1 	Chi-He · Chi-He (5th Regiment) · Ho-I
+Type 3 	Chi-Nu · Chi-Nu II
+Type 4 	Chi-To · Chi-To Late
+Type 5 	Chi-Ri II
+Type 61 MBT 	ST-A1* · ST-A2* · ST-A3* · Type 61
+Type 74 MBT 	ST-B2* · Type 74 (C) · Type 74 (E) · Type 74 (F) · Type 74 (G)
+Type 90 MBT 	Type 90 · Type 90 (B) · Type 90B "Fuji"
+Type 10 MBT 	TKX (P)* · TKX* · Type 10
+Other 	Ka-Chi
+USA 	M4A3 (76) W · M47
+
+China medium tanks:
+ZTZ59 	Type 59 · ZTZ59A · ZTZ59D1
+ZTZ69 	Type 69 · Type 69-IIa · T-69 II G
+ZTZ88/96 	ZTZ88A · ZTZ88B
+ 	ZTZ96 · ZTZ96A · ZTZ96A (P)
+ZTZ99 	ZTZ99-II · ZTZ99-III
+ZTZ99A 	ZTZ99A · WZ1001(E) LCT
+Export series 	MBT2000 · VT-4A1
+ROC 	CM11
+Other 	Т-34-85 Gai · Object 122MT "MC"
+Japan 	Chi-Ha · Chi-Ha Kai
+USA 	M4A4 · M4A4 (1st PTG) · M4A1 (75) W · M48A1 · M60A3 TTS
+USSR 	T-34 (1943) · Т-34-85 (S-53) · T-34-85 No.215 · Т-62 №545
+
+Italy medium tanks:
+ 	Italy
+M13/40 	M13/40 (I) · M13/40 (II) · M13/40 (III)
+M14/41 	M14/41 · M14/41 (47/40)
+M15/42 	M15/42
+M16/43 	Celere Sahariano
+P26/40 	P40 · P40 "G.C. Leoncello"
+OF-40 	OF-40 · OF-40 Mk.2A · OF-40 (MTCA)
+Ariete 	Ariete (P) · Ariete · Ariete PSO · Ariete AMV
+Germany 	Pz.III N · Pz.IV G · Leopard 1A5
+Allied powers 	Sherman I Composito · Sherman Ic · ▄Sherman Vc · ▄Sherman V · M26 "D.C.Ariete" · M26A1 · M47 (105/55) · M60A1 "D.C.Ariete"
+ 	Hungary
+Turán 	Turan I · Turan II · Turan III
+Germany 	Leopard 2A4
+USSR 	T-72M1
+
+France medium tanks:
+M4 Derivatives 	M4A1 (FL10) · M4A4 (SA50)
+AMX-50 	AMX M4 · AMX-50 (TOA100) · AMX-50 (TO90/930)
+AMX-30 	AMX-30 · AMX-30 (1972) · AMX-30B2 · AMX-30B2 BRENUS · AMX-30 ACRA · AMX-30 Super
+AMX-32/40 	AMX-32 · AMX-32 (105) · AMX-40
+Leclerc 	Leclerc · Leclerc S2 · Leclerc SXXI · Leclerc AZUR
+Other 	D2 · S.35 · Lorraine 40t
+Germany 	Panther "Dauphiné"
+USA 	M4A1 · M4A3 (105) · M4A4 · M26
+
+Sweden medium tanks:
+Strv m/42 	Lago I · Strv m/42 EH · Ikv 73 · Strv m/42 DT · Pvkv IV
+Centurion derivatives 	Strv 81 · Strv 81 (RB 52) · Strv 101 · Strv 104 · Strv 105
+Strv 103 	Strv 103-0 · Strv 103A · Strv 103С
+Strv 121/122 	Strv 121 · Christian II · Strv 122A · Strv 122B PLSS · Strv 122B+
+Other 	Sherman III/IV · T 80 U
+Finland 	
+WWII 	T-28 · T-34 · Pz.IV · T-34-85
+Post War 	Comet I · Charioteer Mk VII · T-54 · T-55M · T-72M1 · Leopard 2A4 · Leopard 2A6
+Norway 	Leopard 1A5NO2
+
+Israel medium tanks:
+M-51 	M-51 · M-51 (W)
+Magach 	Magach 1 · Magach 2 · Magach 3 · Magach 3 (ERA) · Magach 5 · Magach 6
+ 	Magach 6A · Magach 6B · Magach 6B Gal · Gal Batash · Magach 6C · Magach 6M · Magach 6R · Magach Hydra · Magach 7C
+Tiran 	Tiran 4 · Tiran 4S
+Sho't 	Sho't · Sho't Kal Alef · Sho't Kal Gimel · Sho't Kal Dalet
+Merkava 	Merkava Mk.1B · Merkava Mk.2B · Merkava Mk.2D · Merkava Mk.3B · Merkava Mk.3C · Raam Segol
+ 	Merkava Mk.4B · Merkava Mk.4M · Merkava Mk.4 LIC
+
+Heavy tanks-
+
+USA heavy tanks:
+M4 Jumbo 	M4A3E2 · Cobra King · M4A3E2 (76) W
+M6 	T1E1 · M6A1 · M6A2E1
+T26 	T26E1-1 · T26E5
+T29/30/34 	T29 · T30 · T34
+T32 	T32 · T32E1
+M103 	M103
+Others 	T14
+
+Germany heavy tanks:
+Tiger 1 (Henschel) 	Tiger H1 · Tiger E · ␠Tiger
+Tiger 1 (Porsche) 	VK 45.01 (P) · Pz.Bef.Wg.VI P
+Tiger 2 	Tiger II (P) · Tiger II (H) · Tiger II (H) Sla.16 · Tiger II (10.5 cm Kw.K)
+Super heavy tanks 	Maus · E-100
+Trophies 	
+Great Britain 	▀Pz.Kpfw. Churchill
+USSR 	▀KV-IB · ▀KW I C 756 (r) · ▀KW II 754 (r)
+
+USSR heavy tanks:
+KV-1 	KV-1 (L-11) · KV-1 (ZiS-5) · KV-1E · KV-1S
+KV-2 	KV-2 (1939) · KV-2 (1940) · KV-2 (ZiS-6) · KV-220
+Other KVs 	KV-85 · KV-122
+IS-1/2 	IS-1 · IS-2 · IS-2 (1944) · IS-2 No.321 · IS-2 "Revenge" · Object 248
+Other IS tanks 	IS-3 · IS-4M · IS-6 · IS-7
+T-10 	T-10A · T-10M
+Multi-turreted 	T-35 · SMK
+Other 	Object 279
+Lend-Lease 	MK-II "Matilda"
+
+Britain heavy tanks:
+Matilda 	Matilda III · Matilda Hedgehog
+Churchill 	Churchill I · Churchill III · Churchill VII · Churchill Crocodile · Churchill NA75 · Black Prince
+Post-war 	Caernarvon · Conqueror
+Other 	Independent · Excelsior · TOG II
+
+Japan heavy tanks:
+Type 95 	Ro-Go
+Germany 	Heavy Tank No.6
+
+China heavy tanks:
+USSR 	IS-2 · IS-2 No.402 · ␗IS-2 (1944)
+
+Italy heavy tanks:
+Italy 	—
+Hungary 	Tigris
+
+France heavy tanks:
+B1 	B1 bis · B1 ter
+2C 	2C · 2C bis
+ARL-44 	ARL-44 (ACL-1)
+AMX-50 	Somua SM · AMX-50 Surbaissé · AMX-50 Surblindé
+USA 	M4A3E2
+
+Tank destroyers-
+
+USA tank destroyers:
+M10 	M10 GMC
+M36 	M36 GMC · M36B2
+T95 	T28 · T95
+M109 	M109A1
+ATGM 	LOSAT · M901 · ADATS
+Wheeled 	M3 GMC · T55E1
+Other 	M8 HMC · M50 · M56
+China 	LVT(A)(4) (ZIS-2)
+
+Germany tank destroyers:
+Pz. I Derivatives 	Panzerjäger I
+Pz. II Derivatives 	15cm sIG 33 B Sfl
+Pz. 38(t) Derivatives 	Marder III · Marder III H · Jagdpanzer 38(t)
+Pz. III Derivatives 	StuG III A · StuG III F · StuG III G · StuH 42 G
+Pz. IV Derivatives 	Jagdpanzer IV · Panzer IV/70(A) · Panzer IV/70(V) · Dicker Max · Nashorn · Brummbär · VFW
+Pz. V Derivatives 	Jagdpanther G1 · Bfw. Jagdpanther G1
+Pz. VI Derivatives 	Sturer Emil · Elefant · Ferdinand · 38 cm Sturmmörser · Jagdtiger
+Wheeled/Half-track 	8,8 cm Flak 37 Sfl. · Sd.Kfz.251/9 · Sd.Kfz.251/10 · Sd.Kfz.251/22 · Sd.Kfz.234/3 · Sd.Kfz.234/4 · 15 cm Pz.W.42
+ATGM Carrier 	RakJPz 2 · RakJPz 2 (HOT) · Wiesel 1A2
+Other 	Waffenträger · M109G · JPz 4-5 · Raketenautomat · VT1-2
+
+USSR tank destroyers:
+SU-76M 	SU-76M · SU-76M (5th Gv.Kav.Corps) · SU-85A
+SU-57B 	SU-57B · SU-76D
+T-34 Derivatives 	SU-122 · SU-85 · SU-85M · SU-100 · SU-122P
+Heavy Tank Derivatives 	SU-100Y · ISU-122 · ISU-122S · SU-152 · ISU-152 · Object 268
+SU-100P and Derivatives 	SU-100P · Object 120
+Wheeled 	YaG-10 (29-K)
+Airborne 	ASU-57 · ASU-85
+Rocket 	BM-8-24 · BM-13N · BM-31-12
+ATGM 	IT-1 · Shturm-S · Khrizantema-S
+Artillery 	2S1 · 2S3M
+Other 	SU-5-1 · ZiS-30 · SU-122-54 · Object 775
+USA 	SU-57
+
+Britain tank destroyers:
+Infantry tank derivatives 	Archer · Gun Carrier (3-in)
+Light tank derivatives 	Alecto I
+M10 Achilles 	Achilles · Achilles (65 Rg.)
+Centurion derivatives 	FV4005 · Conway
+ATGM 	Swingfire · Striker
+Other 	Tortoise · M109A1
+Canada 	QF 3.7 Ram · ADATS (M113)
+South Africa 	G6 · ZT3A2
+
+Japan tank destroyers:
+Ro-Go Derivatives 	Ro-Go Exp.
+Chi-Ha Derivatives 	Ho-Ni I · Ho-Ni III · Ho-Ro · Chi-Ha LG
+Ho-Ri 	Ho-Ri Prototype · Ho-Ri Production
+Other 	Na-To
+JGSDF 	
+SPRG 	Type 60 (C)
+SPH 	Type 75 · Type 99
+ATGM 	Type 60 ATM
+Rocket 	Type 75 MLRS
+USA 	M36
+
+China tank destroyers:
+PLA 	
+Gun vehicles 	PLZ83 · PTZ89
+Missile vehicles 	AFT09
+ROC 	
+Missile vehicles 	CM25
+USA 	
+Gun vehicles 	M8 HMC · LVT(A)(4) (ZiS-2) · M10 GMC · M36 GMC
+Missile vehicles 	M113A1 (TOW)
+USSR 	
+Gun vehicles 	SU-76M · ISU-152 · ISU-122 · SU-100
+
+Italy tank destroyers:
+ 	Italy
+M41 	75/18 M41 · 75/32 M41 · 90/53 M41M
+M42 	75/34 M42
+M43 	105/25 M43 · M43 "G.C.Leoncello" · 75/34 M43 · 75/46 M43
+Wheeled 	Lancia 3Ro (100/17) · AS 42/47 · Breda 90/53 · Breda 501
+Other 	L3/33 CC · 47/32 L40
+Germany 	StuG III G
+USA 	M36B1 · M109G · M113A1 (TOW)
+ 	Hungary
+Zrínyi 	Zrinyi I · Zrinyi II
+USSR 	2S1
+
+France tank destroyers:
+Lorraine 40t derivatives 	CA Lorraine · Lorraine 155 Mle.50
+ATGM 	MEPHISTO · AMX-10M
+Other 	AMR.35 ZT3 · Lorraine 37L · SAu 40 · ARL-44 · ELC bis · AMX-50 Foch · AuF1
+USA 	M10 GMC · M36B2
+
+Sweden tank destroyers:
+Strv m/41 derivatives 	Spj fm/43-44 · Sav m/43 (1944) · Sav m/43 (1946) · Pvkv II · Pvkv III
+Ikv 72/103 	Ikv 72 · Ikv 103
+Pvkv m/43 	Pvkv m/43 (1946) · Pvkv m/43 (1963)
+ATGM 	UDES 33 · Pbv 302 (BILL) · Pvrbv 551
+Other 	SAV 20.12.48 · Bkan 1C
+Norway 	VIDAR
+
+Israel tank destroyers:
+Artillery 	M109 · Rochev
+ATGM 	Zachlam Tager · Giraf
+
+Anti aircraft vehicles-
+
+USA anti-aircraft vehicles:
+M3 Half-track derivatives 	M13 MGMC · M15 CGMC · M16 MGMC
+M24 derivative 	M19A1
+M41 derivative 	M42
+Radar SPAAG 	M163 · M247
+Missile SPAA 	Imp.Chaparral · LAV-AD · XM975
+
+Germany anti-aircraft vehicles:
+Wheeled 	Sd.Kfz.222
+Half-track 	Sd.Kfz.251/21 · Sd.Kfz. 6/2
+Flakpanzer IV 	Wirbelwind · Ostwind · Ostwind II · Kugelblitz · Zerstörer 45
+Other Flakpanzers 	Flakpanzer I · Flakpanzer 38 · Flakpanzer 341
+Wiesel AWC 	Wiesel 1A4 · Ozelot
+Radar SPAAG 	Gepard · Gepard 1A2
+Missile SPAA 	FlaRakPz 1 · FlaRakRad
+
+USSR anti-aircraft vehicles:
+GAZ-AAA 	GAZ-AAA (4M) · GAZ-AAA (DShK)
+BTR-152 	BTR-152A · BTR-152D
+Wheeled/Half-tracked 	GAZ-MM (72-K) · ZiS-12 (94-KM) · ZiS-43
+Radar SPAAG 	ZSU-23-4 · ZSU-23-4M4 · ZSU-37-2
+SAM 	Strela-10M2 · 2S6 · Pantsir-S1
+Other 	ZUT-37 · ZSU-37 · BTR-ZD · ZSU-57-2
+Czechoslovakia 	M53/59
+North Vietnam 	Phòng không T-34
+
+Britain anti-aircraft vehicles:
+Crusader AA 	Crusader AA Mk I · Crusader AA Mk II
+Wheeled 	Staghound AA · AEC AA
+Radar SPAAG 	Chieftain Marksman
+Missile SPAA 	Stormer HVM
+Other 	Light AA Mk I · Falcon
+Canada 	Skink
+South Africa 	Ystervark · Bosvark · ZA-35
+
+Japan anti-aircraft vehicles:
+Ke-Ni Derivatives 	Ta-Se · So-Ki
+Wheeled 	Type 94
+Tracked 	SUB-I-II
+Radar SPAAG 	Type 87
+Missile SPAA 	Type 93 · Type 81 (C)
+USA 	M16 MGMC · M19A1 · M42
+
+China anti-aircraft vehicles:
+Radar SPAAG 	PGZ09
+Gun and Missile SPAAG 	PGZ04A
+Other 	ZSD63/PG87 · WZ305
+Germany 	Sd.Kfz.222
+North Vietnam 	Phòng không T-34
+USA 	CCKW 353 (M45) · M42
+USSR 	Tor-M1
+
+Italy anti-aircraft vehicles:
+R3 Capraia 	R3 T20 FA-HS
+SIDAM 25 	SIDAM 25 · SIDAM 25 (Mistral)
+Wheeled 	AS 42 · CM52
+Tracked 	M42 Contraereo · Leopard 40/70 · OTOMATIC
+Hungary 	ZSU-57-2 · ZSU-23-4
+
+France anti-aircraft vehicles:
+Wheeled/Half-tracked 	P.7.T AA · CCKW 353 AA · TPK 6.41
+AMX-13 Derivatives 	VTT DCA · AMX-13 DCA 40
+Radar SPAAG 	AMX-30 DCA
+Missile SPAA 	SANTAL · Roland 1 · ItO 90M
+Other 	AMX-10P
+
+Sweden anti-aircraft vehicles:
+SPAA 	Pvlvv fm/42 · Lvtdgb m/40 · Pbv 301 · Lvkv 42
+Radar SPAA 	VEAK 40 · Lvkv 9040C
+SAM 	Lvrbv 701 · ASRAD-R
+Finland 	L-62 ANTI II · ZSU-57-2 · ItO 90M · ItPsV 90
+
+Israel anti-aircraft vehicles:
+Half-track 	TCM-20
+M163 derivatives 	Hovet · Machbet · Imp.Chaparral
+Captured 	ZSU-57-2 · ZSU-23-4
+
+Premium (paid)-
+
+USA premium ground vehicles:
+Light tanks 	LVT(A)(4) · M2A4 (1st Arm.Div.) · M3A1 (USMC) · Stuart VI (5th CAD) · M8 LAC · M8A1 GMC
+ 	M18 "Black Cat" · Super Hellcat · T18E2 · M551(76) · T114 · M1128 Wolfpack
+Medium tanks 	Grant I · M4A5 · Calliope · T20 · M26 T99 · M26E1 · M46 "Tiger" · T54E1 · T54E2 · Magach 3 (ERA) · M728 CEV
+ 	XM1 (GM) · XM1 (Chrysler) · M1 KVT · M1A1 Click-Bait
+Heavy tanks 	T14 · Cobra King · M6A2E1 · T29 · T30
+Tank destroyers 	T28 · T55E1
+
+Germany premium ground vehicles:
+Light tanks 	Pz.II C (DAK) · Pz.Sfl.Ic · Pz.Sp.Wg.P204(f) KwK · Sd.Kfz. 140/1 · Sd.Kfz.234/1 · Ru 251 · SPz 12-3 LGS · TAM 2IP
+Medium tanks 	Nb.Fz. · Pz.III N · Pz.Bef.Wg.IV J · ▀M4 748 (a) · ▀T 34 747 (r) · Ersatz M10
+ 	mKPz M47 G · Turm III · Leopard A1A1 (L/44) · Leopard 2 (PzBtl 123)
+Heavy tanks 	▀Pz.Kpfw. Churchill · ▀KV-IB · ▀KW I C 756 (r) · ▀KW II 754 (r)
+ 	VK 45.01 (P) · ␠Tiger · Pz.Bef.Wg.VI P · Tiger II (H) Sla.16
+Tank destroyers 	Sd.Kfz.234/3 · Sd.Kfz.234/4 · Sd.Kfz.251/10 · Sd.Kfz.251/22 · 15 cm Pz.W.42
+ 	Brummbär · Panzer IV/70(A) · VFW · Bfw. Jagdpanther G1 · Elefant · 38 cm Sturmmörser
+
+USSR premium ground vehicles:
+Light tanks 	BA-11 · RBT-5 · BT-7A (F-32) · T-26 (1st Gv.T.Br.) · T-26E · T-126 · PT-76-57 · 2S38
+Medium tanks 	T-34 (Prototype) · T-34 (1st Gv.T.Br.) · T-34E · T-34-57 (1943) · T-34-85E · T-34-100 · T-44-122 · TO-55 · T-55AM-1 · T-72AV (TURMS-T) · T-80UD
+ 	M3 Medium · M4A2 · T-III · T-V · МК-IX "Valentine"
+Heavy tanks 	SMK · T-35 · MK-II "Matilda" · KV-1E · KV-2 (1940) · KV-2 (ZiS-6) · KV-122 · KV-220 · IS-2 "Revenge" · Object 248 · IS-6 · T-10A
+Tank destroyers 	BM-8-24 · BM-13N · BM-31-12
+ 	SU-57 · SU-76D · SU-76M (5th Gv.Kav.Corps) · SU-85A · SU-100Y · SU-122P · Object 120
+SPAA 	Phòng không T-34 · ZUT-37
+
+Britain premium ground vehicles:
+Light tanks 	A13 Mk I (3rd R.T.R.) · A13 Mk II 1939 · AEC Mk II · Crusader "The Saint" · Rooikat 105
+Medium tanks 	A.C.I · Grant I · Cromwell V (RP-3) · Sherman IC "Trzyniec" · A.C.IV · Comet I "Iron Duke IV"
+ 	Centurion Mk.2 · Strv 81 (RB 52) · Centurion Mk.5 AVRE · Centurion Mk.5/1 · Sho't Kal Dalet · Centurion Action X
+ 	Vijayanta · Khalid · Challenger DS · Challenger 2 OES
+Heavy tanks 	Independent · Matilda Hedgehog · Excelsior · TOG II · Churchill Crocodile · Black Prince
+Tank destroyers 	Alecto I · Achilles (65 Rg.) · QF 3.7 Ram
+
+Japan premium ground vehicles:
+Light tanks 	Ha-Go Commander · Type 16 (FPS)
+Medium tanks 	Chi-Ha Short Gun · Chi-He (5th Regiment) · Ka-Chi · Chi-Nu II · Type 74 (G) · Type 90B "Fuji"
+Heavy tanks 	Ro-Go · Heavy Tank No.6
+Tank destroyers 	Ho-Ri Prototype · Type 75 MLRS
+
+China premium ground vehicles:
+Light tanks 	T-26 No.531 · M3A3 (1st PTG) · M41A3 · M64 · WMA301
+Medium tanks 	M4A4 (1st PTG) · T-34-85 No.215 · Т-62 №545 · ZTZ59A · Type 69-IIa · T-69 II G · ZTZ96A (P)
+Heavy tanks 	IS-2 No.402
+
+Italy premium ground vehicles:
+Light tanks 	L6/40 (31 Rgt.) · Toldi IIA · AUBL/74 HVG · VRCC · Centauro RGO
+Medium tanks 	M13/40 (II) · Turan II · M14/41 (47/40) · Celere Sahariano · P40 "G.C. Leoncello" · ▄Sherman I Composito · ▄Pz.IV G
+ 	M26 "D.C.Ariete" · M60A1 "D.C.Ariete" · OF-40 (MTCA)
+Heavy tanks 	Tigris
+Tank destroyers 	Breda 90/53 · M43 "G.C.Leoncello" · Zrinyi I
+
+France premium ground vehicles:
+Light tanks 	AMD.35 (SA35) · H.39 "Cambronne" · LVT-4/40 · AMX-13 (SS.11) · AMX-13-M24 · E.B.R. (1954) · E.B.R. (1963) · VBCI-2 (MCT30)
+Medium tanks 	M4A1 (FL10) · Panther "Dauphiné" · AMX-30 · AMX-30 Super · AMX-50 (TO90/930)
+Heavy tanks 	B1 ter · 2C bis · Somua SM
+Tank destroyers 	Lorraine 155 Mle.50
+
+Sweden premium ground vehicles:
+Light tanks 	T-26E · Strv m/39 · Pbil m/40 · Strv m/41 S-I · CV 90105
+Medium tanks 	Sherman III/IV · Strv 81 (RB 52) · Strv 103-0 · Leopard 1A5NO2 · Christian II
+Tank destroyers 	Ikv 73 · SAV 20.12.48 · VIDAR
+
+Israel premium ground vehicles:
+M-51 (W) · Magach 3 (ERA) · Sho't Kal Dalet · Merkava Mk.2D · Raam Segol
+
+Ranks:
+
+First rank-
+1
+15cm sIG 33 B Sfl
+2
+2C bis
+4
+47/32 L40
+A
+A13 Mk I
+A13 Mk I (3rd R.T.R.)
+A13 Mk II
+A13 Mk II 1939
+AB 41
+Alecto I
+AMC.34 YR
+AMC.35 (ACG.1)
+AMD.35
+AMD.35 (SA35)
+AMR.35 ZT3
+AS 42
+AS 42/47
+B
+BA-11
+BM-8-24
+BT-42
+BT-5
+BT-7
+BT-7 TD
+BT-7M
+C
+Chi-Ha
+Chi-Ha (China)
+Csaba
+D
+D2
+Daimler Mk II
+F
+FCM.36
+Flakpanzer 38
+Flakpanzer I
+G
+GAZ-AAA (4M)
+GAZ-AAA (DShK)
+H
+H.35
+H.39
+H.39 "Cambronne"
+Ha-Go
+Ha-Go Commander
+Ho-I
+Ho-Ro
+I
+I-Go Ko
+Ikv 72
+Independent
+K
+Ka-Chi
+Ka-Mi
+Ke-Ni
+L
+L3/33 CC
+L6/40
+L6/40 (31 Rgt.)
+Lancia 3Ro (100/17)
+Light AA Mk I
+Lorraine 37L
+LVT(A)(1)
+LVT(A)(1) (TheRussianBadger)
+LVT(A)(4)
+M
+M11/39
+M13 MGMC
+M13/40 (I)
+M13/40 (II)
+M13/40 (III)
+M14/41
+M15 CGMC
+M2
+M22
+M2A2
+M2A4
+M2A4 (1st Arm.Div.)
+M3 GMC
+M3 Stuart
+M3A1 (USMC)
+M3A1 Stuart
+M8 HMC (China)
+M8 LAC
+M8 LAC (China)
+M8 Scott
+Marder III
+N
+Nb.Fz.
+P
+P.7.T AA
+Panzerjager I
+Pbil m/40
+Pvlvv fm/42
+Pz.35(t)
+Pz.38(t) A
+Pz.38(t) F
+Pz.38(t) n.A.
+Pz.II C
+Pz.II C (DAK)
+Pz.II C TD
+Pz.II F
+Pz.III B
+Pz.III E
+Pz.III F
+Pz.III J
+Pz.IV C
+Pz.IV E
+Pz.IV F1
+Pz.Sp.Wg.P204(f) KwK
+R
+R.35 (SA38)
+RBT-5
+Ro-Go
+Ro-Go Exp.
+S
+S.35
+SARC MkIVa
+SAu 40
+Sav m/43 (1944)
+Sd.Kfz. 140/1
+Sd.Kfz. 6/2
+Sd.Kfz.221 (s.Pz.B.41)
+Sd.Kfz.222
+Sd.Kfz.222 (China)
+Sd.Kfz.234/1
+Sd.Kfz.234/3
+Sd.Kfz.251/10
+Sd.Kfz.251/9
+Staghound AA
+Strv m/31
+Strv m/38
+Strv m/39
+Strv m/39 TD
+Strv m/40L
+Stuart I
+Stuart III
+StuG III A
+SU-5-1
+SU-57
+SU-76M
+SU-76M (China)
+T
+T-26
+T-26 (1st Gv.T.Br.)
+T-26 (China)
+T-26 No.531
+T-26-4
+T-26E
+T-26E (Sweden)
+T-28
+T-28 (1938)
+T-28 (Sweden)
+T-35
+T-60
+T-70
+T-III (USSR)
+Ta-Se
+Tetrarch I
+Toldi IIA
+Type 94
+V
+Vickers Mk.E
+
+Second rank-
+1
+105/25 M43
+15 cm Pz.W.42
+2
+2C
+7
+75/18 M41
+75/32 M41
+75/34 M42
+75/34 M43
+A
+A.C.I
+AB 43
+Achilles
+AEC AA
+AEC Mk II
+AMX-13-M24
+Archer
+B
+B1 bis
+B1 ter
+BM-13N
+BT-7A (F-32)
+BTR-152A
+C
+CCKW 353 (M45)
+CCKW 353 AA
+Celere Sahariano
+Chi-Ha Kai
+Chi-Ha Kai (China)
+Chi-Ha Kai TD
+Chi-Ha LG
+Chi-Ha Short Gun
+Chi-He
+Chi-He (5th Regiment)
+Churchill I
+CM52
+Cromwell I
+Cromwell V
+Cromwell V (RP-3)
+Crusader "The Saint"
+Crusader AA Mk I
+Crusader II
+Crusader III
+Crusader Mk.II (France)
+D
+Dicker Max
+G
+GAZ-MM (72-K)
+Grant I
+Grant I (USA)
+Gun Carrier (3-in)
+H
+Ho-Ni I
+Ho-Ni III
+I
+Ikv 73
+K
+KV-1 (L-11)
+KV-1S
+KV-2 (1939)
+L
+Lago I
+LVT(A)(4) (ZiS-2)
+LVT(A)(4) (ZIS-2) (USA)
+LVT-4/40
+Lvtdgb m/40
+M
+M10 GMC
+M10 GMC (China)
+M10 GMC (France)
+M14/41 (47/40)
+M15/42
+M16 MGMC
+M16 MGMC (Japan)
+M24
+M24 (China)
+M24 (TL)
+M3 Lee
+M3 Medium (USSR)
+M3A3 (1st PTG) (China)
+M3A3 (Italy)
+M3A3 Stuart (China)
+M3A3 Stuart (France)
+M4
+M4 (WT Mobile)
+M4A1
+M4A1 (France)
+M4A2
+M4A3 (105)
+M4A3 (105) (France)
+M4A4 (1st PTG) (China)
+M4A4 (China)
+M4A5
+M5A1
+M5A1 (China)
+M5A1 TD
+M8A1 GMC
+Marder III H
+Matilda Hedgehog
+Matilda III
+MK-II "Matilda" (USSR)
+MK-IX "Valentine" (USSR)
+P
+P40
+P40 "G.C. Leoncello"
+Pbv 301
+Pvkv III
+Pz.III J1
+Pz.III J1 TD
+Pz.III L
+Pz.III M
+Pz.III N
+Pz.III N (Italy)
+Pz.IV F2
+Pz.IV G
+Pz.IV H
+Pz.IV J
+Pz.Sfl.Ic
+S
+SARC MkVI (2pdr)
+SARC MkVI (6pdr)
+Sav m/43 (1946)
+Sd.Kfz.234/2
+Sd.Kfz.234/2 TD
+Sd.Kfz.251/21
+Sd.Kfz.251/22
+Sherman II
+SMK
+So-Ki
+Spj fm/43-44
+Strv m/41 S-I
+Strv m/41 S-II
+Strv m/42 EH
+Stuart VI (5th CAD) (USA)
+StuG III F
+StuG III G
+StuH 42 G
+SU-122
+SU-57B
+SU-76D
+SU-76M (5th Gv.Kav.Corps)
+SU-85A
+T
+T-126
+T-28E
+T-34 (1940)
+T-34 (1941)
+T-34 (1942)
+T-34 (1st Gv.T.Br.)
+T-34 (Prototype)
+T-34E
+T-34E STZ
+T-50
+T-80
+T18E2
+Turan I
+Turan II
+V
+Valentine I
+Valentine IX
+Valentine XI
+VTT DCA
+Y
+YaG-10 (29-K)
+Z
+ZiS-12 (94-KM)
+ZiS-30
+ZiS-43
+Zrinyi II
+ZUT-37
+
+Third rank-
+"
+"Racing" M18
+7
+75/46 M43
+8
+8,8 cm Flak 37 Sfl.
+9
+90/53 M41M
+A
+A.C.IV
+Achilles (65 Rg.)
+AMX-13 (FL11)
+AMX-13 DCA 40
+ARL-44
+ARL-44 (ACL-1)
+ASU-57
+Avenger
+B
+BM-31-12
+Bosvark
+Breda 501
+Breda 90/53
+Brummbar
+BTR-152D
+C
+Calliope
+Challenger
+Chi-Nu
+Chi-Nu II
+Chi-Ri II
+Chi-To
+Chi-To Late
+Churchill Crocodile
+Churchill III
+Churchill NA75
+Churchill VII
+Cobra King
+Comet I
+Comet I "Iron Duke IV"
+Comet I (Sweden)
+Concept 3
+Crusader AA Mk II
+E
+E.B.R. (1951)
+Excelsior
+I
+Ikv 103
+IS-1
+ISU-122
+ISU-152
+ISU-152 (China)
+J
+Jagdpanzer 38(t)
+Jagdpanzer IV
+K
+KV-1 (ZiS-5)
+KV-1E
+KV-2 (1940)
+KV-2 (ZiS-6)
+KV-85
+KV-IB (Germany)
+KW I C 756 (r) (Germany)
+KW II 754 (r) (Germany)
+L
+L-62 ANTI II
+Lorraine 155 Mle.50
+M
+M18 "Black Cat"
+M18 GMC
+M19A1
+M19A1 (Japan)
+M24 (Italy)
+M24 (Japan)
+M36 GMC
+M36B2
+M36B2 (France)
+M4 748 (a) (Germany)
+M41A3 (China)
+M42
+M42 (China)
+M42 (Italy)
+M42 (Japan)
+M43 "G.C.Leoncello"
+M4A1 (75) W (China)
+M4A1 (76) W
+M4A1 (FL10)
+M4A2 (76) W
+M4A2 (USSR)
+M4A3 (76) W
+M4A3E2
+M4A3E2 (France)
+M4A4 (France)
+M4A4 (SA50)
+M6A1
+N
+Na-To
+Nashorn
+O
+Object 211
+Ostwind
+P
+Panther D
+Panzer IV/70(A)
+Panzer IV/70(V)
+Phòng không T-34 (USSR)
+PT-76 (China)
+PT-76 (Sweden)
+PT-76B
+Pvkv II
+Pvkv IV
+Pvkv m/43 (1946)
+Pvkv m/43 (1963)
+Pz.Bef.Wg.IV J
+Pz.IV (Sweden)
+Pz.IV G (Italy)
+Pz.Kpfw. Churchill (Germany)
+Q
+QF 3.7 Ram
+S
+SAV 20.12.48
+Sd.Kfz.234/4
+Sherman Firefly
+Sherman I Composito (Italy)
+Sherman Ic
+Sherman IC "Trzyniec"
+Sherman III/IV
+Sherman V (Italy)
+Strv m/42 DT
+StuG III G (Italy)
+Sturer Emil
+SU-100Y
+SU-152
+SU-85
+SU-85M
+T
+T 34 747 (r) (Germany)
+T-34 (1943) (China)
+T-34 (Sweden)
+T-34-57
+T-34-57 (1943)
+T-34-85 (D-5T)
+T14
+T1E1
+T55E1
+Tiger (Germany)
+Tiger E
+Tiger H1
+TOG II
+TPK 6.41
+Turan III
+V
+VFW
+VK 3002 (M)
+VK 45.01 (P)
+W
+Waffentrager
+Wirbelwind
+Y
+Ystervark
+Z
+Zrinyi I
+ZSD63/PG87
+ZSU-37
+
+Fourth rank-
+2
+2S1
+2S1 (Italy)
+2S3M
+3
+38 cm Sturmmörser
+A
+AML-90 (Israel)
+AMX M4
+AMX-10P
+AMX-13
+AMX-13 (Israel)
+AMX-13 (SS.11)
+ASU-85
+AUBL/74
+B
+Bfw. Jagdpanther G1
+Bkan 1C
+Black Prince
+BTR-ZD
+C
+CA Lorraine
+Centurion Action X
+Centurion Mk 1
+Centurion Mk 3
+Centurion Mk.2
+Charioteer Mk VII
+Charioteer Mk VII (Sweden)
+Conway
+E
+E.B.R. (1954)
+Eland 90 Mk.7
+ELC bis
+Elefant
+Ersatz M10
+F
+Ferdinand
+FIAT 6614
+Flakpanzer 341
+Fox
+FV4005
+FV4202
+G
+G6
+H
+Heavy Tank No.6 (Japan)
+Ho-Ri Prototype
+I
+IS-2
+IS-2 "Revenge"
+IS-2 (1944)
+IS-2 (1944) (China)
+IS-2 (China)
+IS-2 No.321
+IS-2 No.402
+ISU-122 (China)
+ISU-122S
+J
+Jagdpanther G1
+Jagdtiger
+JPz 4-5
+K
+Kugelblitz
+KV-122
+KV-220
+L
+LeKPz M41
+Leopard 40/70
+Lvkv 42
+M
+M-51
+M-51 (W)
+M109 (Israel)
+M109A1
+M109A1 (Great Britain)
+M109G
+M109G (Italy)
+M18 (Italy)
+M18 GMC (China)
+M26
+M26 "D.C.Ariete"
+M26 (France)
+M26 T99
+M26A1
+M26E1
+M36 (Japan)
+M36 GMC (China)
+M36B1
+M4/T26
+M41A1
+M41A1 (Japan)
+M46
+M46 "Tiger"
+M4A3 (76) W (Japan)
+M4A3E2 (76) W
+M50
+M53/59
+M551(76)
+M56
+M64
+M6A2E1
+Magach 1
+Magach 2
+O
+Object 248
+Ostwind II
+P
+Panther "Dauphiné"
+Panther A
+Panther F
+Panther G
+Panther II
+Pbv 501
+Phòng không T-34
+PLZ83
+Pz.Bef.Wg.VI P
+R
+R3 T20 FA-HS
+Ratel 20
+Ratel 90
+Rochev
+Ru 251
+S
+Sherman Vc (Italy)
+Sho't
+Skink
+SPz 12-3 LGS
+ST-A1
+ST-A2
+ST-A3
+Strv 74
+Strv 81 (RB 52) (Great Britain)
+SU-100
+SU-100 (China)
+SU-100P
+SU-122P
+SUB-I-II
+Super Hellcat
+T
+T-34-100
+T-34-85
+T-34-85 (S-53) (China)
+T-34-85 (Sweden)
+T-34-85 Gai
+T-34-85 No.215
+T-34-85E
+T-44
+T-44-122
+T-V (USSR)
+T20
+T25
+T26E1-1
+T26E5
+T28
+T29
+T30
+T34
+T92
+TCM-20
+Tiger II (10.5 cm Kw.K)
+Tiger II (H)
+Tiger II (H) Sla.16
+Tiger II (P)
+Tigris
+Tortoise
+Type 60 ATM
+Type 60 SPRG (C)
+Type 61
+Type 62
+Type 62 (USSR)
+Type 63
+Type 75 SPH
+Z
+Zachlam Tager
+Zerstörer 45
+ZSU-57-2 (Israel)
+
+Fifth rank-
+A
+AML-90
+AMX-10M
+AMX-13-90
+AMX-30
+AMX-30 (1972)
+AMX-50 (TO90/930)
+AMX-50 (TOA100)
+AMX-50 Foch
+AMX-50 Surbaisse
+AMX-50 Surblinde
+AUBL/74 HVG
+AuF1
+B
+BMP-1
+BTR-80A
+BTR-80A (Italy)
+C
+C13 T90
+Caernarvon
+Centurion Mk 10
+Centurion Mk.5 AVRE
+Centurion Mk.5/1
+Char 25t
+Conqueror
+D
+DF105
+E
+E-100
+E.B.R. (1963)
+F
+Falcon
+H
+Ho-Ri Production
+Hovet
+I
+Ikv 91
+IS-3
+IS-4M
+IS-6
+L
+Leopard I
+Lorraine 40t
+M
+M103
+M113A1 (TOW) (China)
+M163
+M47
+M47 (105/55)
+M47 (Japan)
+M48A1
+M48A1 (China)
+M48A2 C
+M60
+M60A1 "D.C.Ariete"
+M728 CEV
+Magach 3
+Magach 3 (ERA)
+Magach 3 (ERA) (USA)
+Magach 5
+Magach 6
+Magach 6A
+Marder 1A3
+Marder A1-
+Maus
+MKPz M47 G
+O
+Object 120
+Object 268
+Object 906
+OF-40
+P
+PT-76-57
+Pvrbv 551
+R
+R3 T106 FA
+Raketenautomat
+RakJPz 2
+S
+Sho't Kal Alef
+Somua SM
+SPz BMP-1
+STB-2
+Strv 101
+Strv 103-0
+Strv 103A
+Strv 81
+Strv 81 (RB 52)
+SU-122-54
+Swingfire
+T
+T-10A
+T-44-100
+T-54 (1947)
+T-54 (1949)
+T-54 (1951)
+T-54 (Sweden)
+T114
+T32
+T32E1
+T54E1
+T54E2
+T95
+Tiran 4
+Tiran 4S
+TO-55
+Turm III
+Type 59
+Type 69
+Type 69-IIa
+Type 74 (C)
+Type 75 MLRS
+Type 87 RCV (P)
+Type 99
+U
+U-SH 405
+V
+VEAK 40
+Vickers Mk.1
+VIDAR
+W
+Wiesel 1A4
+WZ305
+Z
+ZBD86
+ZSU-37-2
+ZSU-57-2
+ZSU-57-2 (Italy)
+ZSU-57-2 (Sweden)
+ZTS63
+ZTZ59A
+
+Sixth rank-
+2
+2S25
+A
+AFT09
+AMX-10RC
+AMX-13 (HOT)
+AMX-30 ACRA
+AMX-30 DCA
+AMX-30 Super
+AMX-30B2
+AMX-30B2 BRENUS
+AMX-32
+AMX-32 (105)
+AMX-40
+B
+Begleitpanzer 57
+BMD-4
+BMP-2
+BMP-3
+C
+C2A1
+Centauro I 105
+Centauro I 105 R
+Chieftain Marksman
+Chieftain Mk 10
+Chieftain Mk 3
+Chieftain Mk 5
+Class 3 (P)
+CM11
+CM25
+CV9030FIN
+G
+Gal Batash
+Gepard
+Giraf
+I
+Ikv 91-105
+Imp.Chaparral
+IS-7
+IT-1
+ItPsV 90
+J
+JaPz.K A2
+K
+Khalid
+KPz-70
+L
+Leopard 1A5
+Leopard 1A5 (Italy)
+Leopard 1A5NO2
+Leopard A1A1
+Leopard A1A1 (L/44)
+Lvrbv 701
+M
+M113A1 (TOW)
+M247
+M3 Bradley
+M41D
+M48 Super
+M48A2 G A2
+M551
+M60A1 (AOS)
+M60A1 RISE (P)
+M60A2
+M60A3 TTS
+M60A3 TTS (China)
+M901
+Machbet
+Magach 6B
+Magach 6B Gal
+Magach 6C
+Magach 6M
+Magach 6R
+Magach 7C
+Magach Hydra
+MARS 15
+MBT-70
+MEPHISTO
+Merkava Mk.1 (USA)
+Merkava Mk.1B
+Merkava Mk.2B
+Merkava Mk.2B (USA)
+Merkava Mk.2D
+O
+Object 122MT "MC"
+Object 279
+Object 435
+Object 685
+Object 775
+OF-40 (MTCA)
+OF-40 Mk.2A
+Olifant Mk.1A
+Olifant Mk.2
+P
+Pbv 302 (BILL)
+PGZ09
+PTL02
+PTZ89
+R
+RakJPz 2 (HOT)
+Rooikat 105
+Rooikat Mk.1D
+Rooikat MTTD
+S
+SANTAL
+Sho't Kal Dalet
+Sho't Kal Dalet (Great Britain)
+Sho't Kal Gimel
+Shturm-S
+SIDAM 25
+SK-105A2
+Strf 9040B
+Striker
+Strv 103C
+Strv 104
+Strv 105
+T
+T-10M
+T-55A
+T-55AM-1
+T-55AMD-1
+T-55M (Sweden)
+T-62
+T-62 545 (China)
+T-62M-1
+T-64A (1971)
+T-64B
+T-69 II G
+T-72A
+T-72M1 (Germany)
+T-72M1 (Italy)
+T-72M1 (Sweden)
+T95E1
+TAM
+TAM 2IP
+Type 16 (FPS)
+Type 16 (P)
+Type 74 (E)
+Type 74 (F)
+Type 74 (G)
+Type 87
+Type 87 RCV
+Type 89
+U
+UDES 33
+V
+VBC (PT2)
+VBCI-2 (MCT30)
+VCC-80/60
+VFM5
+Vickers Mk.11
+Vickers Mk.3
+Vijayanta
+VRCC
+VT1-2
+W
+Warrior
+WMA301
+X
+XM1 (Chrysler)
+XM1 (GM)
+XM8
+XM803
+Z
+ZA-35
+ZSU-23-4
+ZSU-23-4 (Israel)
+ZSU-23-4 (Italy)
+ZSU-23-4M4
+ZT3A2
+ZTZ59D1
+ZTZ88A
+ZTZ88B
+ZTZ96
+
+Seventh rank-
+1
+120S
+2
+2S25M
+2S38
+2S6
+A
+AGS
+Ariete
+Ariete (P)
+Ariete PSO
+ASRAD-R
+B
+Bhishma TWMP
+BMP-2M
+C
+CCVL
+Centauro I 120
+Centauro RGO
+Challenger 2
+Challenger 2 (2F)
+Challenger 2 (YouTube Cup)
+Challenger 2 OES
+Challenger 2 TES
+Challenger DS
+Challenger Mk.2
+Challenger Mk.3
+Christian II
+CT-CV 105HP
+CV 90105
+D
+Dardo
+F
+FlaRakPz 1
+Freccia
+G
+Gepard 1A2
+H
+HSTV-L
+I
+Imp.Chaparral (Israel)
+IPM1
+K
+KF41
+Khrizantema-S
+L
+LAV-AD
+Leclerc
+Leclerc S2
+Leopard 2 (PzBtl 123)
+Leopard 2A4
+Leopard 2A4 (Italy)
+Leopard 2A4 (Sweden)
+Leopard 2AV
+Leopard 2K
+LOSAT
+Lvkv 9040C
+M
+M1 Abrams
+M1 KVT
+M1128
+M1128 Wolfpack
+M1A1
+M1A1 (YouTube Cup)
+M1A1 AIM
+M1A1 Click-Bait
+M1A1 HC
+M3A3 Bradley
+M60 AMBT
+MBT2000
+Merkava Mk.3B
+Merkava Mk.3C
+Merkava Mk.3D (USA)
+O
+Object 292
+OTOMATIC
+Ozelot
+P
+PGZ04A
+PT-16/T14 mod.
+PUMA
+Q
+QN506
+R
+Raam Segol
+Radkampfwagen 90
+Roland 1
+S
+SIDAM 25 (Mistral)
+Stormer HVM
+Strela-10M2
+Strf 9040 BILL
+Strf 9040C
+Strv 121
+T
+T-72AV (TURMS-T)
+T-72B
+T-72B (1989)
+T-72B3
+T-72M2 Moderna
+T-80B
+T-80U
+T-80U (YouTube Cup)
+T-80UD
+T-80UK
+T-80UM2
+T-90A
+TAM 2C
+TKX (P)
+TTD
+Type 16
+Type 81 (C)
+Type 90
+Type 90 (B)
+Type 90B "Fuji"
+Type 93
+V
+VCC-80/30
+Vickers Mk.7
+Vilkas
+W
+Wiesel 1A2
+X
+XM975
+Z
+ZBD04A
+ZLT11
+ZTZ96A
+ZTZ96A (P)
+ZTZ99-II
+ZTZ99-III
+
+Eighth rank-
+A
+ADATS
+ADATS (M113)
+Ariete AMV
+B
+Black Night
+C
+Challenger 2E
+Challenger 3 TD
+CV 90120
+F
+FlaRakRad
+I
+ItO 90M
+ItO 90M (France)
+L
+Leclerc AZUR
+Leclerc SXXI
+Leopard 2 PL
+Leopard 2 PSO
+Leopard 2A5
+Leopard 2A5 (YouTube Cup)
+Leopard 2A6
+Leopard 2A6 (Sweden)
+Leopard 2A7V
+M
+M1A2 Abrams
+M1A2 SEP
+M1A2 SEP V2
+Merkava Mk.4 LIC
+Merkava Mk.4B
+Merkava Mk.4M
+P
+Pantsir-S1
+S
+Strv 122A
+Strv 122B PLSS
+Strv 122B+
+T
+T 80 U (Sweden)
+T-80BVM
+T-90M
+TKX
+Tor-M1
+Type 10
+V
+VT-4A1
+W
+WZ1001(E) LCT
+Z
+ZTZ99A

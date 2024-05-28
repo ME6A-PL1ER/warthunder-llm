@@ -1,0 +1,65 @@
+Instructions for the user localizations
+
+Official Localizations
+Contribute to the War Thunder localization
+To work on localizations, you need to register on www.crowdin.com and contact the curator Zoki28 via private message system.
+
+Localization Guidelines
+Read the Localization Guidelines to avoid common technical errors in translations. Especially when translating plural forms.
+
+User Localizations
+Editing text localizations in supported languages
+Text localizations of the game are saved in CSV format (Comma Separated Values), where columns are separated by ; and text is enclosed in "" and kept in UTF-8 coding.
+
+Files of this format can be opened by many programs, but we recommend a spreadsheet editor such as LibreOffice Calc or Microsoft Office, or a formattable text editor such as Notepad++.
+
+If the encoding is not properly set, the game WILL throw an error at start !
+
+Open the file config.blk in the game folder with Notepad++ (or similar), find the debug{ block (usually at the end) and insert testLocalization:b=yes like this:
+
+ debug{
+   ...
+   testLocalization:b=yes
+ }
+Launch the game, and a folder named lang will now appear in the game folder, containing game-generated localization *.csv files, as well as a localization.blk file.
+
+Replace the localizations in the lang folder with your own or replace any string in the files to your custom text.
+
+Ensure that you only edit the column for the language that your game is in
+
+Restart the game, and your edited text should now be displayed.
+
+Adding a new language
+If you want to add a new language to the game:
+
+In the lang folder, open the file localization.blk with Notepad++.
+
+Find the block text_translation{ and insert the new language lang:t="Newlanguage"
+
+ text_translation{ 
+   ...
+   lang:t="Newlanguage"
+ }
+ 
+Open the file config.blk with Notepad++ and change the string
+
+ language:t="English"
+to
+
+ language:t="NewLanguage"
+Then launch aces.exe (Attention! You shouldn't launch the game via launcher, as it would overwrite the selected language)
+
+Attention! All .csv files should contain a column with correct title (NewLanguage)
+
+Dub localizations
+Unfortunately, the possibility of adding or changing voice-over translation is not applicable at the moment. The only that can be added or modified by yourself is video translation of historical campaigns. For this purpose (you need the historical campaigns pack):
+
+1. Video dub files are placed in Theora OGG format, and they can be opened with the majority of players and editors.
+2. In order to make your own video dub, you need to create the files <chapter_name>.<language>.ogg by analogy with the existing files for example, honolulu.portuguese.ogg. You should create these files for all chapters of the campaigns.
+3. Then, in order to check the voice-overs, find the block video_translation{ in the file localization.blk and insert lang:t="NewLanguage"
+ video_translation{
+   ...
+   lang:t="NewLanguage"
+ }
+4. then open config.blk and insert the desired language into the string language:t=
+5. And then launch the aces.exe directly, without checking the files and launching the game via the launcher.

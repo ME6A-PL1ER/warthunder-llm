@@ -1,0 +1,104 @@
+Creating and checking locations
+Locations are created with daeditor programm. To create new location you should copy existing sample (location_sample) with a new name (e.g. my_location) and rename locations_sample.level.blk to my_location.level.blk. Main editor options are:
+
+editing altitudes map with brush tools
+automatic and manual painting of the landscape
+using spline objects (roads, with trees by both sides, fences, coast lines etc.)also several options to modify landscape with splines
+manual objects positioning (such as airfields, castles, cliffs or ports). Manually positioned objects can be the following types - effects, rendinstances, prefabs, composits.
+After you created/modified the location you should export it to the game, to the folder content/pkg_local/levels/my_location.bin. If you want need to enable location created by other users put it to content/pkg_user/levels/my_location.bin In order to make location available in game it also needs settings file - my_location.blk, that should be placed near exported level. You can find example of configuration file in CDK. To create location configuration file for your location just simply copy provided configuration file to <your_location_name.blk> (you can also open it notepad, and correct map jpg file in it) Usually the map is also required for the level. Map display settings and it's name are also situated in level config file.
+
+To launch your location in the game you need a mission that works in your location. You can modify any mission in the folder UserMissions (for example - test_location_sample.mission.blk) adding to the block mission_settings->mission in characteristic (parameter) field level your location name. For example level:t="levels\my_location.bin". Now you can just choose modified mission in User Missions in game and if everything is correct you will enter your location in the game.
+
+Navigation Mesh for Tank AI/Bots
+As we are now able to use ground units in user missions, it’s important to understand how “tank bots” navigate in War Thunder. A special geometry, called “navigation mesh” is calculated in the Editor for any movement over the landscape. It is used for the navigation of “Tank bots” only. Our bots in game cannot move over locations where navmesh does not exist.
+It is indicated on terrain using red triangles over the existing landscape.
+
+There is a special window in the Editor to build and export navigation mesh into a location. The Visual model is calculated after pressing the “Build nav mesh!” button, so you can check it in “viewport” window. If everything is okay, you must check the “Export nav mesh” option and then export the location to the game as always. It is important to understand that navmesh is created only around splines with this option selected (checked on).
+
+Microdetail
+Added with the release of the update 1.77 "Advancing Storm", Dagor Engine 5.0 and is necessarily to use.
+Microdetail_* textures are responsible for microtextures on different types of surfaces (without them, surfaces are displayed incorrectly). There are always twelve microtextures per level (not more and not less). For them to be operable, it is necessary to enter additional information about the textures in the level configuration file or the custom hangar my_level.blk, and in the file of landclasses (files with the suffix * .land.blk) it is necessary to prescribe tex_r. Also the detailing textures (detail_ *) now have new properties which can be found in additional files called tex_r (the names fully match up with the suffix tex_d, see the example below).
+
+Addition to level_name.blk / my_sample.blk
+It is necessary to prescribe a block that adds 12 microdetails at the level (you can take as such directly from the example) to your main level configuration file or the custom hangar my_level.blk
+
+It’s already prescribed in the WarThunder\content\pkg_local\levels\location_sample.blk.
+
+Example:
+
+micro_details{
+ micro_detail:t=microdetail_stone_a_tex_n
+ micro_detail:t=microdetail_sand_c_tex_n
+ micro_detail:t=microdetail_sand_a_tex_n
+ micro_detail:t=microdetail_soil_a_tex_n
+ micro_detail:t=microdetail_generic_granules_a_tex_n
+ micro_detail:t=microdetail_grass_a_tex_n
+ micro_detail:t=microdetail_forest_floor_a_tex_n
+ micro_detail:t=microdetail_fabric_a_tex_n
+ micro_detail:t=microdetail_wood_b_tex_n
+ micro_detail:t=microdetail_metal_a_tex_n
+ micro_detail:t=microdetail_snow_a_tex_n
+ micro_detail:t=microdetail_generic_granules_a_tex_n
+
+land_micro_details_uv_scale:r=0.73
+}
+It should be always 12 microdetail textures in the list.
+
+The first four textures in the list are responsible for textures on the terrain (different soils, asphalt roads, concrete slabs and texture on stones).
+
+The textures of slots 5 to 8 give microdetalisation create a uniqueness for the level of the surface (ice, snow, moss on rocks, fallen leaves under trees, etc.).
+
+The last four (from 8 to 12) are responsible for the textures on the objects of the environment (metal, wood, tarpaulin, plastic).
+
+To see which textures you can use, you can do so in assetviewer by typing in the filter: microdetail_
+
+Landclasses
+For *.land.blk used on the landclasses level, you need to add lines with tex_r.
+
+It’s already prescribed in the WarThunderCDK\develop\assets\landclasses\test_editable_land.land.blk.
+
+Example for detail block: WAS (Previous)
+
+detail { 
+ texture:t="avg_karpaty_pass_detailed_part_tex_d"
+ splattingmap:t="avg_karpaty_pass_detailed_part_tex_m"
+
+ detailRed:t="detail_rocks_tex_d"
+ detailGreen:t="detail_grass_small_tex_d"
+ detailBlue:t="detail_grass_moss_tex_d"
+ detailBlack:t="detail_dirt_tex_d"
+
+ detailSizeRed:r=17.71
+ detailSizeGreen:r=18.52
+ detailSizeBlue:r=11.71
+ detailSizeBlack:r=11.11
+ detailSize:r=8
+ size:p2=2048, 2048
+ offset:p2=0, 0
+}
+
+Should be (New)
+
+detail { 
+ texture:t="avg_karpaty_pass_detailed_part_tex_d"
+ splattingmap:t="avg_karpaty_pass_detailed_part_tex_m"
+
+ detailRed:t="detail_rocks_tex_d"
+ detail2Red:t="detail_rocks_tex_r"
+ detailGreen:t="detail_grass_small_tex_d"
+ detail2Green:t="detail_grass_small_tex_r"
+ detailBlue:t="detail_grass_moss_tex_d"
+ detail2Blue:t="detail_grass_moss_tex_r"
+ detailBlack:t="detail_dirt_tex_d"
+ detail2Black:t="detail_dirt_tex_r"
+
+ detailSizeRed:r=17.71
+ detailSizeGreen:r=18.52
+ detailSizeBlue:r=11.71
+ detailSizeBlack:r=11.11
+ detailSize:r=8
+ size:p2=2048, 2048
+ offset:p2=0, 0 
+}
+
+We prescribe everything by analogy: add detail2 and at the end of tex_d change it to tex_r. To see which textures you can use, you can do so in assetviewer by typing (below and on the left) the filter: detail_

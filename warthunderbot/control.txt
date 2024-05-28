@@ -1,0 +1,196 @@
+Guide to manual engine controls (MEC):
+The Purpose of Manual Engine Controls
+"Manual Engine Controls" (often abbreviated as MEC) are the ability for a player to manually control multiple components of an engine. Used properly, these allow for greater speed, fuel efficiency, engine cooling and management of a damaged engine. These take a bit to learn, being left by default to the game to handle automatically, but are worth learning to gain an advantage. First however, a key must be set to toggle these engine controls to "manual" mode. This can be found in Full-Real Controls under the Aircraft category. Once bound, MEC can be used with any control scheme by pressing the bound button.
+
+Controllable Elements
+Ignition and engine selection
+An engine won't function without being turned on, of course. To start or turn off an engine, the default key is "I" and is available on all aircraft, independent of MEC settings. The throttle controls are separate from the ignition; an engine that is off won't work, even if the throttle is at 100%, whilst an engine that is turned on but at idle throttle will spin its propeller (albeit very slowly, outputting very little power). Sometimes it is important to shut down an engine mid-flight. For instance, if your aircraft is set ablaze, turning off the burning engine will cut the fuel from pumping into the burning engine, potentially extinguishing the fire. Shutting an engine down will also rapidly cool it down, but this is inadvisable except when it is certain no enemies are around.
+
+Engine selection is used to select one specific engine at a time or all engines at once. This allows for the selected engine to be controlled using all other MEC inputs, ignoring them for other engines. Engine selection is rarely used on single-engine aircraft, as the main engine is always selected, but can find use on aircraft with multiple engines, such as the B-17 and Mosquito. Here it becomes useful for managing a damaged engine or destroyed engine, possibly allowing the plane to limp back to the base where it otherwise couldn't. Remember to reselect all engines when needed.
+
+The Radiator
+The radiator's purpose is to keep the engine cool. Essentially, the radiator is a series of snaking tubes that take the hot engine coolant, pass cold air over it to cool it down, and pass it back into the engine cooling it down. The controllable aspect of a radiator is the cowl flaps, labelled as 'radiator' in the game's controls. Setting the radiator to 0% means closing the flaps, whilst setting it at 100% means having them fully open. These, while open, allow an influx of air to enter the cooling system of the plane, reducing the engine temperature. However, opening the cowl flaps leads to increased drag in the surface of the aircraft, hurting performance in regards to dive rate, energy retention and straight-line speed. Whilst performing a sustained climb, the power-to-weight ratio is the most important aspect of the aircraft, thus the increased drag from open cowl flaps is rather harmless. When speed is the top priority, closing the cowl flaps to increase speed is a reasonable choice. When climbing at the start of a match, without the pressure of a dogfight, opening the cowl flaps to 100% to avoid overheating is recommended, but some planes will be able to climb needing only a partially opened radiator, reducing performance loss from drag.
+
+When the engine begins to overheat, the temperature indicators on the HUD will appear yellow, then orange, then red and finally, flashing red, after which engine damage will take place. Opening the radiator will help reduce overheating, bringing the temperature down and preserving engine life. It is recommended to keep the temperatures in the yellow or orange zone, save for emergencies, where losing speed means losing a fight and consequently, the plane. Each plane has its own thermodynamic characteristics, so it takes a bit of practice to know how to handle the radiator efficiently. Remember that more speed and altitude affect the effectiveness of the cooling system positively, whilst running at high throttle settings increases the heat the engine emits. Cold maps reduce the need for radiators being open while warmer maps do the opposite. A damaged cooling system means that the pilot will have to handle their aircraft more gently. However, leaving a damaged cooling system unattended for extended periods will slowly cripple the plane's engine, and is advisable to return to base for repairs ASAP.
+
+The majority of planes have full manual control for their radiators, with some notable exceptions. Full manual control in this scenario means the player having to manually both the oil radiator and the engine/water's radiator when switching to MEC. Most biplanes do not have any form of radiator control relying on throttle and propeller pitch (if they have it). Planes such as the Spitfire Mk I(Spitfire Mk IIa) and Spitfire Mk Vb only have radiator controls for the engine itself or water, leaving the oil to be passively cooled or automated. Others such as the Bf-109 F series onwards and some late-war planes have fully automated radiator control when switching to MEC, but can be changed to manual control by a button toggle. Jets do not use radiator control.
+
+Both oil and standard radiator will default to 50% when MEC or manual mode is enabled. The last set manual setting is saved when toggling back to auto mode and will be set to that when re-toggling to manual mode.
+
+For extended reading on engine temperature, see the Thermodynamics page.
+
+Propeller Pitch
+The propeller pitch is the angle at which the blades of a propeller operate. Prop control lever is used to set the desired pitch. The propeller pitch influences prop efficiency which changes vastly with airspeed. A low prop pitch means that blades are set at a low angle, the drag of rotary movement is weak and can reach high RPM. At low airspeeds, this setting gives a proper angle of attack of the blades to produce thrust. When no adjustment is made, blades angle of attack decrease with increasing airspeed, so lesser thrust is produced. It means that the higher pitch is required. The higher the pitch, the more efficient prop is at higher airspeeds, which means that low prop pitch generally means better performance at low speeds, whilst at high speeds, low pitch not only generates drag but can also lead to engine failure from over-revving the engine. One can be easily confused as low pitch implies high rpm and vice versa: high pitch generally implies low rpm. In variable-pitch propellers that most War Thunder aircraft have, the general rule of operation is to have low pitch (high rpm) at low speeds and high pitch (lower rpm) at high speeds. Prop control in full forward position (or 100% pitch in the game) corresponds to low pitch (high rpm) and full aft position corresponds to high pitch (low rpm) or "feathered" when applicable.
+
+Propeller pitch needs to be set as a relative control, or else the pilot will be alternating between 0% and 100%, which is nonsensical, inefficient and may lead to over-rev in some cases. In aircraft that have no 'feathering' option, such as most fighters, setting the propeller pitch to 0% when the engine is dead helps to keep the plane gliding. Setting to 0% will also consume less fuel and reduce engine overheating. On most planes with manual control for propeller pitch, setting the prop pitch to 90-100% will allow for maximum performance at combat speeds while 70-80% allows for fuel-efficient cruising and diving with less drag. Some planes will require different settings, however.
+
+Not all aircraft in War Thunder have the option to control the propeller pitch manually. Some have an automatic constant-speed system which can be switched to manual mode while others have a fixed pitch. Most biplanes and interwar planes use a fixed pitch propeller, allowing no manual prop pitch control. Jets also do not use propeller pitch. Automatic constant speed systems are often found in German, Italian and/or late warplanes as well as some others. The system can be switched to manual control, but is heavily inadvisable without prior knowledge, especially with German planes. This is due to the constant-speed governor being disabled, possibly allowing the propeller to over-rev from high RPM. As an example, a Bf-109 (F-series onwards) will over-rev when prop pitch is more than ≈60-65% in manual mode while the throttle is at 100%, but will never over-rev when automatic control is enabled. Over-rev does not occur on all planes with a constant-speed governor. Conversely, prop pitches that would over-rev can be used very effectively as an airbrake if the throttle is reduced properly, being even more effective than purpose made airbrakes in some cases, but this requires some experience to prevent said over-rev.
+
+Propeller pitch defaults to 50% for all propellers when MEC or manual mode is enabled. The last set manual setting is saved when toggling back to auto mode and will be set to that when re-toggling to manual mode.
+
+Propeller Feathering
+Under the "Manual Engine Controls" tab in the "Full Aircraft Controls" tab in "Controls", the option "Prop Feathering" is present. The button assigned to this control will rotate the propeller's blades until they are positioned parallel to the airflow, reducing drag substantially. This should be done when an engine is inoperable, enabling the aircraft to fly more efficiently with less drag than an ill-positioned propeller. In multiple-engined aircraft, it is very common to lose an engine to a fighter, and thus selecting the damaged engine with the engine select key and feathering its propeller is the best choice in order to reduce drag and maintain flight.
+
+Mixture and throttle management
+A piston engine works by combusting fuel with air in its pistons and requires an optimal ratio of the two to function properly. This applies to all piston-engined aircraft in War Thunder. However, there are many aircraft that do not give their pilots an option for mixture control, as some aircraft were built with automatic systems for this. It is worth learning how to manage the fuel mixture since the automatic management of mixture in War Thunder by the AI isn't perfect and does not always correspond to a pilot's intentions. A mixture setting with a high fuel-air mixture is considered "rich" while a low fuel-air mixture is considered "lean".
+
+As the altitude changes, the optimal mixture changes too; the greater the altitude, the lower the presence of oxygen and density of the air (as such, the air intake decreases). This means that the pilot will need to increase the air in the mixture (making it "lean"). In War Thunder, fuel mixture is displayed as a percentage - to have a more fuel-rich mixture, useful for top performance at lower altitudes, the pilot sets the mixture to a number close to 100%, whilst to achieve a mixture with more air in it a much lower mixture is used (however, setting it at 0% little more than starve the engine and cut it). When at high altitudes, such as 8,500 m, a pilot may be using a mixture setting close to 40%. It is possible for some planes to achieve a mixture of up to 120%. This should only be used at altitudes of less than 1,000 m, as it was designed mostly for difficult takeoffs and landings, as well as a "WEP" in certain scenarios.
+
+Most aircraft in the game can be left at the default 60% mixture and will fly without consequence. However, some such as the Ki-44-I and the P-47 require micromanagement of mixture to provide maximum thrust. Most German and Italian fighters use a completely automated mixture control which does not require or allow player input. Turbine engines in jets also have automatic mixture control, thus no manual control in game. Liquid rocket reaction engines are locked to a fixed ratio between fuel and oxidizer.
+
+Mixture defaults at 60% when MEC is enabled. The last set manual setting is saved when toggling back to auto mode and will be set to that when toggling to manual mode.
+
+Turbo- and Superchargers
+In aviation, the purpose of a supercharger is to provide additional oxygen required to maintain engine performance as the aircraft reaches thinner air at higher altitudes. There are two types of superchargers; mechanically driven, and exhaust driven - generally referred to as a turbocharger, or 'turbo'.
+
+Turbochargers
+Turbochargers are auto-regulated in War Thunder with the ability to be manually controlled, which is historic in most applications. Turbochargers are used almost exclusively on USAAF aircraft intended for high-altitude use such as the P-38, P-47, B-24, B-17, and B-29. Turbochargers add significant weight and complexity to an aircraft but pay dividends at altitudes above 18-20k feet where their efficiency outperform traditional, mechanically driven superchargers. It is not advised to use manual mode on a turbocharger, as doing so risks damage to it, reducing high altitude performance.
+
+Turbochargers default at 0% when MEC is enabled, slowly increasing to a 50% default. The last set manual setting is saved when toggling back to auto mode and will be set to that when toggling to manual mode.
+
+Mechanically Driven
+Traditional superchargers (mechanically driven) usually have between 1 and 3 stages, each suited to perform at a specific range of altitudes, just like gears on a bicycle. The altitude that stages should be changed (if present or modelled in a specific aircraft) is unique to each plane. You can either research time-period aircraft manuals and find what altitudes these stages should be switched (assuming Gaijin modeled them correctly), or simply go into cockpit mode and look at the Manifold Pressure gauge(s) (again assuming Gaijin modeled them correctly), while switching stages to see which one provides the highest manifold pressure (power) at your current altitude. Also, don't forget to decrease stages as you descend in altitude. This can become second nature as you become more familiar with specific aircraft. Some aircraft have fully automated supercharger staging and do not require or allow player input.
+
+Superchargers default at Stage 1 when MEC is enabled. The last set manual setting is saved when toggling back to auto mode and will be set to that when toggling to manual mode.
+
+Rocket Booster/RATO
+The "Ignite Booster" control is undefined by default, and a key must be bound to it in order to unlock the full potential of the Me-262 C-1a/2b "Heimatschützer" series. In these aircraft, the rocket booster is a liquid fuelled rocket(s) massively boosts thrust output. This will increase climb rate and acceleration very significantly, allowing a massive advantage over the enemy at the start of a match or in combat. These can be switched off with the same button, allowing its fuel to be conserved. The "Ignite Boosters" control also serves to ignite RATO (Rocket-Assisted Takeoff) boosters on some planes, since the functions are very similar.
+
+Using MEC in RB
+Plane-Specific Advice Examples
+This section is unfinished.
+
+Bf-109 (A-series to E-3):
+
+Manual prop pitch requires constant micromanagement to prevent over-rev.
+Full manual radiators, can be set anywhere from 50-100% to prevent overheat.
+Bf-109 (E-4 and F-series onwards):
+
+E-4:
+Auto prop pitch, can be switched to manual control. Not advisable.
+Full manual radiators, set to 80-100% when climbing to prevent overheat.
+F-series onwards:
+Auto prop pitch, can be switched to manual control. Not advisable.
+Automatic radiators, advisable to toggle to manual control and set to 100% when climbing.
+Spitfire Mk I/II:
+
+Manual prop pitch, oil temperature relies on it. Set to 2550-2600 rpm at 100% throttle to prevent overheating.
+Manual water radiator, can be set to 100% for the 1st minute when climbing or using WEP. Can be set to 0-10% if trying to cool down the oil using the normal throttle.
+
+How the Instructor works:
+Introduction
+Dear players,
+
+In this article we're going to examine the most important, and at the same time most unnoticed 'helper' for any player in almost any mode in War Thunder – the Instructor. The Instructor is a set of special programs that perform one very important function. They accept the control commands that the player sends to the game (roughly speaking, mouse movements and key presses) and transform them into forces on the control devices of the specific model of game vehicle that the player is using – an aircraft or a ground vehicle.
+
+
+Why is the Instructor necessary? Why can’t the player control the vehicle in game directly, without the Instructor, you ask? This a very sensible question, and to answer it, first we’ll have to provide some explanations so that you can understand the root of the problem. Why is it a problem? You’ll understand in a moment. The thing is that War Thunder, speaking scientifically, is a simulator game – i.e. a game that imitates physically accurate behaviors of in-game vehicles on the battlefield and their interaction with the environment. For ground vehicles, the environment is the game map’s landscape with all the features of its terrain and ground. For aircraft, it is the atmosphere, the air of the in-game map and to some extent the landscape, since aircraft can land on the ground (airfield) and take off from the ground (airfield). At the same time, physically accurate vehicle behavior is an ambiguous idea. It not only implies that the vehicle behaves ‘correctly’ – i.e. realistically, close to how it behaves (or behaved) in real life – but also that the vehicle is controlled just as realistically.
+
+This is where we come to the most important part of this article. Controlling the vehicle. It’s perfectly obvious that the military vehicles of the periods represented in the game were never designed to be controlled with a mouse and keyboard – input devices which were invented at least 30 years later. aircraft, both of those times and the modern day are controlled by the pilot by means of a control handle (sometimes in the form of a wheel) and pedals, while ground vehicles and other ground vehicles use levers (or a wheel) and pedals again. I.e. it only takes one look to see that the control devices used in the game differ significantly from those used in reality. But in actual fact, the differences are even more significant than someone little acquainted with such technical details might first think. Let’s take a closer look at these differences using aircraft controls as an example.
+
+Controlling an aircraft — Axes of control
+Instructor Axis Control.gif
+Any aircraft is controlled through a combination of two devices (on the schematic shown, they are indicated by the letter B):
+
+A stick that moves on two axes (forward and back and side to side)
+Pedals fixed to a single arm and offset around an axis perpendicular to the aircraft cabin’s floor When the right pedal is pressed away from the pilot, the left pedal moves toward them – and vice versa, pressing the left pedal moves the right pedal toward the pilot.
+These control devices transfer forces to the aircraft’s three controlling surfaces, which are three independent axes of control:
+
+The ailerons, marked by the letter A and located on the rear edge of the wing close to the wingtips – these provide control over the aircraft on its rolling angle
+The elevating rudders (letters C), located on the rear edge of the stabilizer – these provide control on the pitching angle
+The yaw rudder (letter D), located on the rear edge of the tailfin – this provides control on the yaw angle
+A special gaming device was created – the joystick – to control aircraft in flight simulators. This device emulates the shape and function of aircraft controls. Moving the joystick handle backwards and forwards allowed for movement along the pitching angle, to the left and right – along the rolling angle, and turning the joystick on its vertical axis in some types – along the yaw angle. This was convenient and correct, since it almost fully corresponded to the control devices of a real aircraft. However, far from all players who want to play flight simulators have a joystick. In addition, like any peripheral computer device, joysticks have certain characteristics of quality, convenience and reliability – and these usually depend heavily on the joystick’s price. What remains for those players who want to fly aircraft, but have no joystick and can’t buy and use one?
+
+Mouse-joy interface
+As the popularity of flight simulators spiked in the early 2000s, a solution to this problem was found in the form of mouse-to-joystick emulation: the mouse-joystick was invented, or more simply, the mousejoy. A small program converted mouse movement along a horizontal surface into signals on two of the three controlling axes – the roll axis and the pitch axis. Control over the yaw axis was not available, but can also be provided with the help of another small program to connect two or three keyboard keys to the axis. This practice was ideal for flight simulators players who did not have a joystick and didn’t want to buy one. However, for some players, it was still too complex, since the player still had to control the aircraft on their own along three independent axes – accordingly, the player had to possess a minimum level of knowledge in aerodynamics and an understanding of how to control an aircraft and how not to.
+
+Requirement for simplified mode
+It's worth mentioning, that it was possible even before all this to control an aircraft using the mouse – and without any mousejoy functionality. But such games either weren’t simulators, i.e. the behavior of aircraft in flight wasn’t modeled accurately enough, or their mouse control was significantly less effective in comparison to joystick control. For this reason, when Gaijin Entertainment decided in 2011 to develop War Thunder with the idea of combining a flight simulator and an MMO (i.e. making a flight simulator for a wide audience), the developers had a difficult challenge: how, on the one hand, to make the aircraft behave realistically in the air and make the game worthy of the title Flight Simulator, and on the other hand, how to make the controls intuitively understandable to the average game player.
+
+The most popular first-person games (and in principle, flight simulators can be included in this genre) are various shooters. The control mechanics for these games were formalised a long time ago and the most effective (and at the same time most popular) input method for these games is a combination of the mouse and keyboard. So in War Thunder’s case, the developers solved the issue of controlling aircraft in the most effective and elegant way they could, by building a whole scale of control difficulty and combining within it two entirely different control ideologies with a realistic model of aircraft behavior in all its possible forms. In the two most popular modes, Arcade and Realistic battles, control over the aircraft with the keyboard and mouse is implemented as closely as possible to the mechanics of shooters, but if the player wants to, they always have the ability to switch to joystick control, which is more familiar for a flight simulator.
+
+Direction control and the instructor
+How then did the developers manage to combine realistic aircraft controls with the simplicity of shooter controls? Firstly, a special control mode was introduced – direction mode. In this mode, direct control over the aircraft along its three independent axes is replaced by setting the desired direction of flight using a special algorithm, which was called Mouse Aiming or MA. Secondly, to make it easier to use direction control, a special function was developed and patented which fully and completely assumes direct control over the aircraft. It was given the name Instructor. It works like this: the player uses mouse movements to indicate their desired direction of movement, and the Instructor uses this data as a basis for controlling the aircraft, trying at the same time to follow the directions received from the player as accurately as possible – within the limits set by the realistic controls of this aircraft model. To put it simply, the player controls the Instructor using mouse movements, letting it know where to fly, and the Instructor, in its turn, controls the aircraft itself.
+
+This achieves two goals at the same time: the player gets controls that are as simple and intuitive as possible, and the aircraft also behaves as accurately as possible in the game model. At the same time, priority is given to realism in the aircraft model’s behavior in the air – it is this, after all, which sets the limits of what is possible for the Instructor (and as a result the player). This means that no matter how hard the player tries, they cannot force their aircraft to exceed the hard limits of the simulator – for example, to turn it 180 degrees on the spot, force it to fly tail forward or gain altitude directly vertically, exceeding the available power of the engine and the force of gravity. Each aircraft behaves just as it behaved in reality, thanks to which the gameplay is realistic and fun – after all, a great many varied vehicle models are represented in the game, with a wide range of characteristics and abilities.
+
+Instructor functions
+Let’s list everything that the Instructor can do and does. The Instructor:
+
+Prevents the wing from moving to a critical angle of attack, thus preserving lift.
+Trims the aircraft in the air so that when the controls are released, the aircraft maintains its current flight trajectory.
+Compensates for the propeller’s 'reaction torque and the aerodynamic asymmetry of the airframe (again with the help of trimmers)
+Slows down g buildup if it approaches the acceptable limit for the airframe’s design.
+Automatically controls landing gear and flaps (this can be disabled in the settings).
+Limits control of the aircraft in direct proximity to the ground (this can be disabled in the settings).
+At the player’s discretion, automatically controls the aircraft propulsion system, setting the revolutions and pace of the propeller, regulating intermixture and controlling the radiator valves (all this can be enabled or disabled directly in battle using preset keys).
+Control modes
+
+The control modes are presented in the settings in exactly the order listed below.
+
+
+In War Thunder, the player can choose four possible control modes for all in-game vehicles. Distributed in ascending order of realism (from easy to hard) and degree of direct control over the vehicle the player is using (from minimum to maximum), the list of control modes looks like this:
+
+Mouse aiming, MA
+Simplified control
+Realistic control
+Full control (not to be confused with full engine control, which is a separate tab in the Full control settings)
+Let’s take a closer look at each of these modes as they apply to aircraft, since it is in with aircraft that the differences are greatest.
+
+Mouse aiming (MA)
+This is the simplest and most widely used control mode in the game. In this mode, the player uses mouse movements to set a flight course and aims the cursor at the target, and the Instructor, with full control over the aircraft, tries to follow the cursor as closely as possible.
+
+The player has no ability to directly influence the aircraft’s behavior using the mouse, but they can help the Instructor by steering along the roll, pitch and yaw angles using preset keys on the keyboard. But even with the player’s steering, the Instructor keeps full control over the aircraft and prevents it from entering critical attack angles, keeps it from stalling and protects it from going into a spin. In update 1.33.41.0 from 23/08/2013, four options to limit the freedom of the Instructor in MA mode were added to make life easier for experienced players and limit the actions of the Instructor in certain situations.
+
+
+There is an opinion among players that the Instructor often poorly controls the aircraft and that it would be nice to add the option for experienced players to disable it completely. This opinion fails to account for one important detail: without the Instructor, Mouse Aiming would simply not work, since, as we mentioned before, the Instructor is an integral part of MA functionality. If we consider for a moment the possibility of disabling the Instructor for MA, the player would simply be unable to control the aircraft and the vehicle would fall into an uncontrolled spin at the first attempt at a maneuver. So if you think that the Instructor harms more than it helps, you should think about switching to one of the following, more experienced control modes. That said, even in MA you can set full engine control parameters and use them to gain an advantage in some situations, but be careful – imprecise control over the engine can knock it out of action.
+
+
+The Mouse Aiming control mode can’t be utilized to control aircraft in Simulator Battles because the Instructor can’t work in this mode.
+
+
+Simplified control
+This is the first of the experienced control modes, providing the player with direct control over the aircraft on its three independent axes – roll, pitch and yaw. The use of this and the following modes assumes that the player has a joystick. In the absence of a joystick, one can configure the controls for a mouse+keyboard combination, but this means the mouse has to be switched to mouse-joystick mouse, i.e. mousejoy. But even with mousejoy, control over the aircraft is fully given over to the player, and this is the main difference from MA. Nonetheless, in simplified control mode the Instructor continues to help the player, preventing them from performing maneuvers that are too sharp and not allowing them to enter extreme angles of attack that could lead to a stall or a spin. In simplified control mode, the Instructor also takes full control over the aircraft’s trim tabs, offsetting the influence of the propeller’s reaction torque and allowing the player to forget about this sometimes very unpleasant event. The player can disconnect the Instructor from the propulsion system and take full engine control in the midst of battle.
+
+
+Simplified control also cannot be utilized to control aircraft in Simulator Battles because the Instructor can’t work in this mode.
+
+Realistic control
+In this mode, the player also controls the aircraft fully and independently along the three axes – roll, pitch and yaw – using the input devices at their disposal – a joystick or mousejoy. The Instructor still helps the player to control the plane, but its influence is significantly limited: now the Instructor only handles the aircraft’s trim and the fight against the influence of the propeller’s reaction torque, but does not limit the player’s freedom in maneuvering in any way. This is the first of the control modes in which inaccurate handling of the vehicle in Realistic Battle flights may lead to a loss of control, spin and, as a consequence, loss of the aircraft itself – although in Arcade Battles, the Instructor prevents the player from performing dangerous maneuvers. If desired, the player can disable automatic propulsion system control.
+
+
+Since realistic control mode also implies the influence of the Instructor, this mode cannot be utilized to control aircraft in Simulator Battles.
+
+
+Full control
+This is the most ‘senior’ and most difficult of the vehicle control modes available in the game. In this mode, the player fully and independently controls the aircraft, right up to the smallest details: for example, when controlling the aircraft one must consider the influence of the propeller’s reactive torque on the aircraft’s behavior on takeoff and in completing maneuvers at low speeds, and also independently control the trim and/or configure the trim tabs before flight. Certain exceptions are made only in terms of controlling the propulsion system – if desired, the player can automate this and not take full control over the engine. Nonetheless, when playing in full control mode in Arcade Battles, the Instructor still gets involved in controlling the vehicle, preventing the player from performing dangerous maneuvers that could lead to a spin and the loss of the aircraft.
+
+
+Full control is the only mode available for controlling aircraft in Simulator Battles, since the remaining three ‘junior’ modes imply interaction with the Instructor. This means that if the player has another control mode set in their settings and the player flies an aircraft in Simulator Battles, the game forcibly enables full control mode for the player, indicated by a special mark at the bottom line of the HUD, Control type: full.
+
+
+Table of aircraft control modes:
+
+Arcade battles	Realistic battles	Simulator battles
+Mouse aiming	Control mode – shooter. Instructor fully controls the aircraft. Arcade boosts in effect.	Control mode – shooter. Instructor fully controls the aircraft	Unavailable because the Instructor is disabled.
+Simplified control	Control mode – realistic. The Instructor prevents extreme angles of attack and stalling, controls trim, can control propulsion system. Arcade boosts in effect.	Control mode – realistic. The Instructor prevents extreme angles of attack and stalling, controls trim, can control propulsion system.	Unavailable because the Instructor is disabled.
+Realistic control	Control mode – realistic. The Instructor prevents extreme angles of attack and stalling, controls trim, can control propulsion system. Arcade boosts in effect.	Control mode – realistic. The Instructor controls trim, can control propulsion system.	Unavailable because the Instructor is disabled.
+Full control	Control mode – realistic. The Instructor prevents extreme angles of attack and stalling, can control propulsion system. Arcade boosts in effect.	Control mode – realistic. The Instructor is disabled (can only control the propulsion system).	Control mode – realistic. The Instructor is disabled (can control only propulsion system).
+The arcade boosts mentioned in the table do not actually affect control and are exceptions of the physical vehicle model. These exceptions are active only in Arcade Battles and are aimed at increasing the pace of gameplay. Arcade boosts imply that certain physics effects are disabled, that engine thrust is increased for accelerating and gaining altitude, that rotation along the axes is sped up etc.
+
+
+Ground vehicle instructor
+
+So what about ground vehicles, you ask? Yes, in ground warfare, the Instructor directly controls the ground vehicle itself. However, everything is significantly simpler than with aircraft. In reality, the majority of battle vehicles represented in the game aimed at targets using a combination of two independent flywheels, one of which controlled the rotation of the turret, and the other – the inclination of the cannon; at the same time, control over the ground vehicle’s movement involves a combination of several pedals and levers. However, in reality each ground vehicle had a crew of several people and at a minimum, the roles of driver and gunner were always separate. In the game, the player must bear the full responsibility for controlling all aspects of the ground vehicle, which means that the Instructor is required even on the most complex modes.
+
+
+Since the ground vehicle’s gun moves on two independent axes – inclination and rotation – the most logical and intuitive option is to tie aiming to the mouse, which is also capable of moving on two independent axes. In addition, aiming accuracy is a foundational factor for victory in ground vehicle battles. This is exactly why the Instructor always manages gun aiming in the game: it aims the weapon by adapting it to the position of the cursor (i.e. the large aiming marker) which the player provides using the mouse. Incidentally, aiming speed depends on the skill of the gunner in the vehicle’s crew, but this is a feature of game mechanics and does not relate directly to the Instructor.
+
+
+Several options are possible for controlling the ground vehicle’s movement. The ground vehicle can be steered directly using the keyboard, which is what the overwhelming majority of players do, but connoisseurs have the option of setting rotation and track braking to separate controller axes (i.e. pedals and/or a wheel). In addition, depending on the selected control mode, the player has the option of taking direct control over the gearbox or handing this responsibility over to the Instructor. Let’s take a look at how these different control modes in the game apply to ground vehicles.
+
+Mouse aiming (MA), simplified, realistic control
+In these control modes, the Instructor controls the gearbox, switching gears and selecting the most suitable for the current situation. It should be noted that the driver’s skill influences the effectiveness of the Instructor’s actions here.
+
+Full control
+In this "senior" mode, the player changes gears manually using their own experience and skills.

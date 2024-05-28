@@ -1,0 +1,67 @@
+Matchmaker
+The matchmaker (balancer) is a server tool that is responsible for creating game sessions in all multiplayer game modes. The opponents you will meet in battle comes from the matchmaker.
+
+Matchmaker in main game modes
+3 main difficulty game modes are represented in War Thunder: Arcade, Realistic and Simulator. They differ from each other by rules on how the vehicles will be used during one battle - whether it’s one single vehicle or even the whole setup of vehicles. Based on these differences the matchmaker works according to different rules guided in most cases only by the Battle Rating of the participating vehicles.
+
+Battle rating (BR) — is the index of efficiency of each vehicle in the game for each of the three game modes (difficulty modes). Which opponents the player may meet in battle with this vehicle depends on the BR.
+By clicking the “To Battle” button the player enters the queue for the selected game mode. Depending on the rules of the game mode chosen, the matchmaker collects players from the queue to the game session based on the BR of the particular vehicle or the whole vehicle line up which has been selected for the crew slots. In this case matchmaker doesn’t take into account a BR of any vehicle which isn’t suitable for the selected game mode or is broken - such vehicles will be highlighted in gray or red in the crew slots before clicking the “To Battle” button.
+
+Matchmaking types
+	air battles, ground battles, naval battles
+AB	average BR	highest BR	Highest BR
+RB	Highest BR	highest BR	highest BR
+SB	BR range	according to the lists	—
+
+General rules of the matchmaking based on BR
+The matchmaker selects the game session for the player in which the spread of the opponent’s vehicle BR will not exceed +/- 1.0 BR from the player’s vehicle. This means that the player will not meet a vehicle which exceeds the BR of his key vehicle (the one on which the matchmaker bases its search for a game session) in battle by more than 1 point of the BR.
+
+Additional rules
+By searching for the team within the maximum spread (+/- 1.0 BR) the number of players in the vehicles with the highest BR in each team will not exceed 4 players.
+In aircraft RB there is a limit of 4 bombers from the total number of the team.
+These are all the rules that the matchmaker uses in random battles. There are no exceptions such as matching by player performance statistics at all.
+
+Matchmaking based on the average BR
+Matchmaking takes 3 vehicles with the highest BR from a players setup (vehicles from the crew slots) and displays the average value.
+
+This method of matchmaking will be used in aircraft AB. It allows you to research more advanced vehicles whilst not refusing the already researched aircraft as a player’s new aircraft can participate in the battles at a slightly lower BR where it is more comfortable to research its modifications.
+
+Averaging formula
+To get the average BR in such matchmaking only 3 aircraft will be counted with the highest BR from the whole player’s setup (vehicles from crew slots).
+
+It will be calculated with the following this formula: BR=A/2+B/4+C/4
+
+A — vehicle with highest BR..
+B and C — 2 vehicles with bit lower BR.
+A final value will be rounded up to the nearest tenth from the list of values 0.3 or 0.7 (steps of BR in the game).
+
+Additional rules
+If the difference in the BR between the vehicle with highest BR (A) and one of the top vehicles (B or C) is higher than 0.6, so in matchmaking the BR for this top vehicle will be calculated as A-0.6. It means that if A-B(C) > 0.6 so B(C) = A - 0.6.
+If the difference in the BR between the vehicle with highest BR (A) and one of the top vehicles (B or C) is equal to or higher than 2.0, so in matchmaking the BR of such a top vehicle will be replaced by BR of vehicle A. It means that if A-B(C) ⩾ 2.0, so B(C) = A.
+If you want to send less than 3 vehicles into battle (specifically the number of serviceable aircraft in the crew slots is less than 3), so the BR values for the missing aircraft in the formula will be counted as A-0.6.
+Matching based on the highest BR
+The matchmaker takes the vehicle with the highest BR from the whole player’s setup or the BR of the single vehicle selected for battle and matches it to a game session based on such a vehicle.
+
+Such a method of selection is optimal for ground vehicles and naval vessels where the differences in the technical characteristics and the battle capabilities play a bigger role than in only aircraft battles.
+
+For the convenience of participation in different game modes we have a mechanism of “vehicle presets” which allows us to save several variants for vehicle arrangement in the crew slots.
+
+Matching based on the BR range
+In this matchmaking mode the rule of BR spread +/- 1.0 isn’t operating. The player will join the game session with fixed BR ranges, from minimum to maximum BR , which can be wider than +/- 1.0.
+
+Determining which range the player enters is based on the rule of “Matching based on the highest BR”. This means with the vehicle with the highest BR from the crew slots.
+
+Such kind of matchmaking will be used in SB. At the very beginning of the battle the player can only use the vehicle with a minimum BR that is equal to the initial BR in the range. More advanced vehicles will open for Respawn Points which can be earned in the game session.
+BR distribution based on the range looks like the following:
+
+[1] Enduring Confrontation: 1.0 — 2.0
+[2] Enduring Confrontation: 2.3 — 3.3
+[3] Enduring Confrontation: 3.7 — 4.7
+[4] Enduring Confrontation: 5.0 — 6.3
+[5] Enduring Confrontation: 6.7 — 7.7
+[6] Enduring Confrontation: 8.0 — 9.3
+[7] Enduring Confrontation: 9.7 — 11.0
+Matching according to lists
+The matchmaker allows users to join a game session only with vehicles that are specified in the description of the battle. Such a method can be combined with other methods, for example with matching based on the BR ranges for aircraft.
+
+This method will be used in ground SB where the ground vehicles participate in battle together with aircraft. Ground vehicles will be matched in battle using the lists and aircraft using the BR range. Such a method is optimal for creating game sessions with a historical composition of forces. In this case the conditions of the game session allow limiting the maximum number of different vehicles.

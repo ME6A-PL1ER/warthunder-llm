@@ -1,0 +1,901 @@
+Add-on Armor:
+Add-on Armor is a modification in-game that allows the player to enable the addition of armour onto their tanks. This additional armour is either improvised (for WW2 vehicles) or designed (for post-WW2 vehicles). Improvised add-on armour was most often a field modification performed by the crew by adding track links or mesh screens to the standard issue vehicle. Designed add-on armour is an upgrade tested and validated by the tank manufacturer. It comes in the form of an armour kit (addition of composite armour) or a protection package (addition of explosive reactive armour blocks). The add-on armour increases the overall weight of the vehicle, giving a lower power-to-weight ratio and thus worse mobility.
+
+History
+Tank warfare is a type of battle that can make the equipment involved become obsolete very quickly in terms of protection and firepower. In World War II, this is seen especially in the later half of the war when the Shermans and T-34s began being outgunned by better German tanks, and the German Panzer IV also being outgunned by those tanks. In an effort to get more protection onto their tanks, crew often improvise a variety of methods to increased the armour on their tanks. Methods included welding tracks or sheet metals as appliqué armour onto the tanks, placing sand bags on the hull, hanging logs from the sides, placing mesh sheets, or simply just pour concrete on the hull for the thickness. While these protection vary in their ability to stop a penetrating round or warhead, they all increase the overall weight of the tank, often taxing the suspension and steering beyond their normal capabilities. General George S. Patton, commander of the U.S. Third Army during the invasion of France, heard of this effect of improvised armour on the tank's suspension and forbid his units from using the common sandbags as improvised armour to mitigate vehicle breakdowns (he was however a fan of welded metal sheets similar to the M4A3E2 Jumbo and had many normal Shermans made into make-shift Jumbos).
+
+Results vary from the variety of improvised armour used in the war. Some armour, like the concrete, was deemed useless or impractical and were not widely used. Sandbags and logs were mostly seen as ineffective against the tank rounds and HEAT warheads used by infantry anti-tank launchers. Out of the bunch, welded metal was perhaps the most effective improvised armour one can put onto a tank. A study done by the U.S. Army on the improvised armour used by the tankers on their Shermans reveal that while the majority of improvised armour had little effect on armour protection, the best impact of improvised armour was morale, as they at least gave the worried tankers an additional bit of psychological, if not physical, protection for their tanks.
+
+Artillery support:
+Overview
+Artillery support is a game mechanic available for ground vehicles to use against the enemy. Currently, the artillery option is only available to light tanks, medium tanks, and anti-aircraft vehicles, with some exceptions. Artillery strikes are fired in salvoes of 15 shells (4 targeting shots + 11 high-explosive shells). Targeting shots are solid shots filled only with aerosol smoke. HE shells inflict overpressure damage with their large explosive filler.
+
+Usage and strategy
+Artillery in-game is an area denial weapon. Thus, artillery should be used on a large concentration of enemies, to flush out a hiding enemy, or deny easy access to a zone. As artillery is available for light tanks, medium tanks, and anti-aircraft vehicles, you will have a variety of vehicles that have access to this powerful asset.
+
+When aiming artillery, you should aim at where the enemy will be at the time of shell impact (at least 10 seconds in the future), rather than where they are at the moment you call it. This is due to the delay between the artillery command and the time of impact.
+
+When fighting up-close to the enemy, you should not use artillery to attack the enemy in front of you. Artillery is indiscriminate and will destroy both allies and enemies alike. Instead, if fighting in a close-quarter location like a town, you should use artillery to cut off the passageway the enemies use to get into the area. This way, you isolate the enemy force in the town that allows you to take them out without worrying about incoming reinforcement for a time.
+
+Crew skills
+Main article: Crew skills
+Artillery strike calling time
+This skill decreases the time between calling the strike and the shells being fired from a base level of 13 seconds to a minimum of 10 seconds. The progression may seem marginal, but it can influence a stand-off very significantly.
+
+Artillery targeting accuracy
+This skill increases the targeting accuracy of artillery by reducing the shells' scattering, from a base level of 57 m to a minimum of 45 m. When seeking to take out specific targets, this can be very relevant, as it means a decrease in over 30% of the strike's surface area, concentrating all the shots into a smaller spot.
+
+History
+"God fights on the side with the best artillery." —Napoleon Bonaparte
+"I do not have to tell you who won the war. You know, the artillery did" —General George S. Patton
+"Artillery is the god of war." —Joseph Stalin
+Artillery refers to any large-calibre guns meant to fire their ammunition in a long-range at a direct or indirect firing role. Artillery has its roots all the way to the invention of gunpowder, but it was not until the Industrial Revolution in the 19th and 20th centuries that its effectiveness increased marginally. In all modern combat from the Napoleonic War in early 1800s to World War I and World War II, artillery has been the cause of the majority of combat deaths and thus, the most lethal weapon in the modern battlefield.
+
+Crew replenishment:
+Crew Replenishment is a module available for ground vehicles.
+
+Crew Replenishment Official Description
+
+In Arcade mode, you can request a draft at any point on the map, and if there is only one tanker left in the tank, the draft is requested automatically and all you have to do is hope that the soldier arrives in time. It’s all quite simple, the only thing you have to consider is that the vehicle cannot move between your request for a crew member and the time the crew member arrives.
+
+It’s a little more complicated in Realistic and Simulated modes. Here, you can only draft a tanker at a safe capture point that belongs to your team, and you can only draft a crew member manually. This is in contrast to Arcade mode, only a battle-capable vehicle with a minimum of two living crew members can draft a new crew member. It will also be impossible to move while the replacement is being fulfilled.
+
+Crew drafting will become available after you research the ground vehicle modification of the same name. Each individual replacement tanker draft costs Silver Lions.
+
+Development History
+Ground vehicle's survival is mostly based on the crew inside the tank. If only 1 crew member is left remaining or is killed as well, the tank is considered "knocked out". Gaijin had added a few different mechanics in an attempt to increase ground vehicle's survivability
+
+The first attempt happened in 15 March 2016 in Update 1.57 with the mechanic known as Last Man Standing. This effect only works in RB and SB gameplay and basically makes the last crew member in the tank a viable fighter, able to transition between driver and gunner position until he himself is also knocked out. Another mechanic that Gaijin announced was the Crew Medkit on March 24, although its implementation is not seen or reported in-game. However, Last Man Standing proved controversial in the player base. The mechanic gave tanks with larger crew count a very large advantage when down to just a single crew member, effectively allowing the player to consistently switch the positions of their last crew member and forcing the shooter to play a "whack-a-mole" with the last crew member. Along with complications with the implementation of the mechanic in said large tanks as well, Last Man Standing was removed from the game in May 11th as Gaijin finds another solution.
+
+The second attempt at this problem was in June 2nd with the Crew Trauma packs. Similar to the Crew Medkit mentioned since March, the Crew Trauma packs work similarly by allowing the player to patch up one of their fallen crew members in battle (whether it was simply one person or the whole crew was not stated). It is also automatically used if the tank crew falls to just a single survivor. The mechanic was to be implemented in Update 1.59 "Flaming Arrows", but criticism from the player base caused Gaijin to send this mechanic back to the drawing board.
+
+In the development period before Update 1.61 "Roads to glory", Gaijin announced their new module Crew Replenishment on July 27. Unlike the other mechanisms which heals one of the existing crew members in your tank, Crew Replenishment does the action of "drafting" a tanker outside to arrive and take a crew member place in the tank. The module works on AB, RB, and SB modes with slight differences. In AB, the module can be used anytime a crew member is knocked out and also if the crew count goes all the way to one, but will be nullified if every one in the tank is killed at once. In RB and SB modes, the module only works on a safe captured point and will not automatically call one in during battle if all but one of your crew members are killed. In all modes, the reinforcements takes time and the player cannot move while it is in use.
+
+Currently, Crew Replenishment is still in the game.
+
+G-suit:
+A combat uniform for pilots to allow them to resist centrifugal forces in maneuvers better. It prevents blackouts and loss of consciousness (LOC).
+
+Active service of the suits started in WW2 in great numbers with the USAAF and after the war with RAF & RN jet pilots.
+
+Aircraft that can use this modification
+F4U-4
+P-47D-22-RE
+P-47D-25
+P-47D-28
+P-47D-16-RE
+Thunderbolt Mk.1
+P-47D-23-RA
+P-47D-30
+P-47D-22-RE		
+A2D-1
+AU-1
+Bong's P-38J-15
+F2G-1
+F4U-4B
+F4U-4B VMF-214
+F7F-3
+F8F-1
+F8F-1B
+F-82E
+P-38J-15
+P-38K
+P-38L-5-LO
+P-47M-1-RE
+P-47M-1-RE
+P-47N-15
+P-51D-5
+P-51D-10
+P-51D-20-NA
+P-51D-30
+P-51H-5-NA
+P-59A
+P-38L-1
+P-51D-20
+P-51K
+P-47D-30
+F4U-7
+F8F-1B
+J26
+P-51D-20-NA
+B-57A
+B-57B
+F2H-2
+F3D-1
+F9F-2
+F9F-5
+F-80A-5
+F-80C-10
+F-84B-26
+F-84F
+F-84G-21-RE
+F-86A-5
+F-86F-25
+F-86F-35
+F-89B
+F-84F
+G.91 R/3
+G.91 R/4
+Lim-5P
+MiG-15bis
+Sea Hawk Mk.100
+MiG-15bis
+MiG-15bis ISH
+MiG-17
+MiG-17AS
+Su-9
+Su-11
+Attacker FB.2
+Attacker FB 1
+Hunter FGA.9
+Meteor F Mk.8 Reaper
+Meteor F Mk 3
+Meteor F Mk 4 G.41F
+Meteor F Mk 4 G.41G
+Meteor F Mk 8 G.41K
+Sea Hawk FGA.6
+Sea Meteor F Mk 3
+Sea Vixen F.A.W. Mk.2
+Swift F.1
+Swift F.7
+Vampire F.B.5
+Venom FB.4
+F-86F-30
+F-86F-40
+F-86F-40 JASDF
+F-84G-21-RE
+F-84G-31-RE
+F-86F-30
+F-86F-40
+J-2
+J-4
+Shenyang F-5
+CL-13 Mk.4
+F-84F
+F-84G-21-RE
+G.91 pre-serie
+G.91 R/1
+G.91 R/4
+Vampire FB 52A
+F-84F
+F-84F IAF
+F-84G-26-RE
+M.D.450B Barougan
+M.D.450B Ouragan
+M.D.452 IIA
+M.D.452 IIC
+S.O.4050 Vautour IIA
+S.O.4050 Vautour IIB
+S.O.4050 Vautour IIN
+S.O.4050 Vautour IIN (late)
+Vautour IIA IDF/AF
+A21RB
+A28B
+A29B
+J21RA
+J29A
+J29D
+SAAB-105G
+SAAB-105OE
+SK60B
+Vampire FB 52A
+F-84F
+M.D.450B Ouragan
+Meteor F.8
+Meteor NF.13
+Vautour IIA
+Vautour IIN
+A-4B
+A-4E Early
+A-10A
+AV-8A
+AV-8C
+F3H-2
+F4D-1
+F8U-2
+F9F-8
+F11F-1
+F-4C Phantom II
+F-5A
+F-5C
+F-86F-2
+F-100D
+F-104A
+F-104C
+F-105D
+FJ-4B
+FJ-4B VMF-232
+CL-13A Mk 5
+CL-13B Mk.6
+F-86K
+Hunter F.58
+MiG-19S
+MiG-21 SPS-K
+MiG-23BN
+MiG-19PT
+MiG-21F-13
+MiG-21PFM
+MiG-21S (R-13-300)
+Su-7B
+Su-7BKL
+Su-7BMK
+Su-25
+Su-25K
+Yak-28B
+Yak-38
+Yak-38M	Buccaneer S.1
+Buccaneer S.2
+Harrier GR.1
+Harrier GR.3
+Hunter F.1
+Hunter F.6
+Jaguar GR.1
+Javelin F.(A.W.) Mk.9
+Lightning F.6
+Lightning F.53
+Scimitar F Mk.1	F-1
+F-104J
+T-2
+T-2 Early
+A-5C
+F-100A
+F-104A
+J-6A
+J-7II
+Q-5 early
+Q-5A
+Ariete
+F-86K
+F-104G
+G.91 Y
+G.91 YS
+Sagittario 2
+Etendard IVM
+F-86K
+F-100D
+Jaguar A
+Jaguar E
+Milan
+Mystere IVA
+Super Mystere B2
+Super Mystere B2
+A32A
+J29F
+J32B
+J34
+J35A
+A-4E
+A-4E Early (M)
+A-4H
+Ayit
+Mystere IVA
+Sa'ar
+Sambad
+A-6E TRAM
+A-7D
+A-7E
+A-7K
+A-10A Late
+F-4E Phantom II
+F-4J Phantom II
+F-4S Phantom II
+F-5E
+F-8E
+F-4F
+F-4F Early
+F-104G
+MiG-21 "Lazur-M"
+MiG-21bis-SAU
+MiG-21MF
+MiG-23MF
+Su-22M4
+Su-22UM3K
+MiG-21bis
+MiG-21SMT
+MiG-23M
+MiG-23ML
+MiG-27M
+Su-17M2
+Su-17M4
+Su-22M3
+Su-25T
+Su-39
+F-4J(UK) Phantom II
+Jaguar GR.1A
+Phantom FG.1
+Phantom FGR.2
+Sea Harrier FRS.1
+F-4EJ ADTW
+F-4EJ Phantom II
+F-5A
+F-5E
+F-104G
+J-7D
+J-7E
+J-8B
+Q-5L
+F-104S
+F-104S.ASA
+F-104S TAF
+F-8E(FN)
+Mirage 5F
+Mirage F1C
+Mirage F1C-200
+Mirage F1CT
+Mirage IIIC
+Mirage IIIE
+AJ37
+AJS37
+J35D
+JA37C
+MiG-21bis
+Saab J35XS
+Kfir C.2
+Kfir C.7
+Kfir Canard
+Kurnass
+Nesher
+Shahak
+F-14A Early
+F-14B
+F-16A
+F-16A ADF
+MiG-23MLA
+MiG-29
+Tornado IDS MFG
+Tornado IDS ASSTA1
+MiG-23MLD
+MiG-27K
+MiG-29
+Yak-141	Harrier GR.7
+Tornado F.3
+Tornado GR.1
+F-4EJ Kai Phantom II
+F-16AJ
+F-16A MLU
+J-8F
+F-16A ADF
+Tornado ADV
+Tornado IDS (1995)
+Mirage 2000-5F
+Mirage 2000C-S5
+Mirage 2000D-R1	JA37D
+Kurnass 2000
+Netz
+
+Ground equipment modules:
+There's no need for tank commanders in War Thunder to worry about the condition of their vehicle's hull, but that doesn't mean one can just fire left and right until the tank is out of shells.
+
+The tank commander is responsible for a large number of critical modules hidden beneath that thick armour and allowing any of them to become damaged or lost could put an end to a victory streak.
+
+Engine
+The engine is the most basic and essential module of the tank. That's right, it's even more important than the crew. Losing one or even two crew members is a lot less terrifying than completely losing mobility while under enemy fire. The engine is usually located in the rear, i.e. the least-protected part of the tank. So if it does get hit, one should stop and evaluate whether the tactics they are employing are really as effective as they were on the drawing board. In addition, the engine is a flammable module. If its condition drops all the way to "black," there's a good chance the vehicle will catch fire. Diesel engines may have a significantly lower chance of catching fire, so it can help to know which kind of motor is propelling the tank. The module is also rather sturdy and can easily stop shrapnel, and sometimes even an entire shell.
+
+
+Module's behaviour when taking damage
+This module takes damage in a linear fashion. It is affected by any form of damage, and the greater the damage inflicted, the lower the effectiveness of the module.
+
+Mode / Type of Damage	AB	RB/SB
+Orange/Red	Substantial drop in power
+Black	Very significant drop in power, minimal mobility is maintained	The vehicle cannot move
+Transmission
+The transmission is the mechanism that transfers power from the engine to the wheels or tracks. Losing the transmission is just as bad as losing the engine. It can also catch fire, starting at the engine and ending at the front rollers. The location of the transmission can be either on the front or the rear of the tank.
+
+
+Module's behaviour when taking damage
+This module takes damage in a linear fashion. It is affected by any form of damage, and the greater the damage inflicted, the lower the effectiveness of the module.
+
+Mode / Type of Damage	AB	RB/SB
+Orange/Red	Substantial drop in power
+Black	Slow movement is possible	The vehicle cannot move
+Cannon breech
+The cannon breech is the mechanical part of the gun where the loader loads the shell, where the process of arming the shell warhead undergoes, and also the piece that will withstand the explosive pressure of a shell firing. As a rule, it is located inside the tanks turret or cabin. This means it is really well protected, but if it does take damage, the entire vehicle will be in danger. The thing about this module is that, if the gun breech is damaged, it might not launch the shell, which could lead to a huge explosion inside the vehicle when playing on the RB and SB modes. This will disable most modules and probably lead to the destruction of the tank. The player who damaged the gun breech will earn the frag. The more badly the gun breech is damaged, the higher the chance of a detonation when firing.
+
+
+Even if the tank somehow miraculously manages to remain combat-ready following the detonation, the gun breech itself will be completely destroyed and require lengthy repairs.
+
+Module's behaviour when taking damage
+This module takes damage in a linear fashion. It is affected by any form of damage, and the greater the damage inflicted, the lower the effectiveness of the module
+
+Mode / Type of Damage	AB	RB/SB
+Orange	Substantial chance of a misfire without a detonation	Substantial chance of detonation
+Red	Significant chance of a misfire without a detonation	Significant chance of detonation
+Black	Very significant chance of a misfire without a detonation	The tank cannot fire
+Radiator
+The radiator is a fairly massive module that is responsible for cooling the tank's engine. It is usually located near the engine, on either side or sometimes above it. A destroyed radiator emits large white puffs of steam and hissing sounds, which can make your tank easier to spot, and slowly damages the engine over time. It takes about 20s to begin overheating, and another 20s to fully break down an otherwise undamaged engine. A broken radiator provides limited mobility for a limited time. It is best to get behind cover and repair or engage and destroy your attackers before your engine fails.
+
+Fuel tank
+The fuel tank contains the life and blood of the tank, containing either petrol or diesel to power the tank's engine. Although it is essential in battle, it is pretty much the bane of the tank crew. Damage to the gas tank can lead to a fire or even an instantaneous detonation of fuel vapour, which is guaranteed to immediately destroy the vehicle. The chance of an explosion depends largely on the type of fuel and the shell used to damage the tank. APHE and high-explosive shells have the highest chance of causing an instantaneous explosion.
+
+
+Module's behaviour when taking damage
+This module does not take damage in a linear fashion. Its condition has no effect on the vehicle's combat effectiveness.
+
+Mode / Type of Damage	AB	RB
+Orange/red/black	The chance of detonation does not change and depends on the vehicle and the round fired at the vehicle
+Track
+Tracks – each tank has two of them (Unless it is the T95 or Object 279, which both have four of them!). Hopefully, an explanation isn't needed on what tracks do for a tank. If the tracks take a hit, this can usually be considered lucky except for a casemate self-propelled gun. Being forged from structural steel, these modules provide priceless millimeters of armour and if they are hit by a HEAT shell, the fuse may go off resulting in the round failing to penetrate the tank's hull armour. The tracks are also repairable, so these losses are quite recoverable. Repairs begin automatically in any mode if the vehicle goes several seconds without moving.
+
+Ammo rack
+The ammo rack is another module that can explode and render the tank a burning hulk on the battlefield. It represents the rounds for the tank's main gun stored around the interior. In reality, a tank would have several ammo racks distributed among various parts of the vehicle in keeping with historical data. As ammo is expended, the ammo racks inside the vehicle disappear and can no longer be damaged or destroyed. It can sometimes be useful to only load the tank with a partial ammo supply in order to keep the ammo out of its most vulnerable parts. Ammo can also be located in different parts of the tank if the vehicle (the IS-2, for example) uses separate loading, where the shell and the propellant charge are separate parts of the shot.
+
+Detonating a tank's ammo rack is rather difficult. Even a direct hit might only just destroy the shells and make them useless, in which case they just disappear (and they can no longer be used in combat). Moreover, the ammo racks are only particularly vulnerable to certain shell types (high-explosive, APHE, and HEAT).
+
+Barrel
+The barrel is the external part of the gun where the shell travels down to obtain its muzzle velocity and accuracy. It can't come into physical contact with objects on the battlefield, but it is susceptible to damage. A heavily damaged barrel might not be able to withstand the pressure from propellant gases during a shot, in which case it will explode and turn into something pretty like a combat butterfly, yet useless as it drastically hampers the muzzle velocity (hence penetration values) and accuracy. It is strongly recommended to repair the barrel when it takes damage. It takes much less time than replacing a destroyed gun. Since it is outside the cabin, an exploding barrel will not damage the tank. Its behaviour after that depends on the difficulty mode.
+
+AB: the tank can still fire with the destroyed gun, but the accuracy and penetration of the shells will be significantly reduced.
+RB: a destroyed barrel will signify a very vulnerable, and easy target for the enemy, since it completely prevents a tank from firing and is visible from a distance.
+
+Module's behaviour when taking damage
+This module takes damage in a linear fashion. It is affected by any form of damage but has a chance of retaining combat readiness.
+
+Mode / Type of Damage	AB	RB/SB
+Orange	High chance of destruction	High chance of destruction
+Red	Destruction is practically guaranteed	Destruction is practically guaranteed
+Black	Destroyed, but can fire	Destroyed. The tank cannot fire
+The Crew
+The crew are the living soldiers who have been through hell, high water, and the "how the heck did they penetrate my armour?" feeling with the players. According to the game's mechanics, each crew member is an independent unit, and, just like the other modules, they are susceptible to damage. Their striving for victory allows the crew members to perform their duties equally effectively regardless of how much damage they have taken. Only the "black" status indicates that a crew member has been fully incapacitated until the end of the battle. The Crew Replenishment upgrade allows for the summoning of one replacement soldier per battle. If only that could be done with the engine...
+
+
+Module's behaviour when taking damage
+This module does not take damage in a linear fashion. Its condition has no effect on the vehicle's combat effectiveness.
+
+Mode / Type of Damage	AB	RB
+Orange/red	The crewman's effectiveness is unaffected
+black	The crewman cannot perform his duties
+Horizontal and Vertical aiming mechanisms
+The horizontal and vertical aiming mechanisms allow the gun to move along the horizontal and vertical axes.
+
+The mechanisms are compact, yet vulnerable modules. If they take damage, they can prevent the turret from turning and/or being raised or lowered, which can significantly reduce the vehicle's effectiveness. It isn't the most frequently damaged module, since even without it, there is still small chance of aiming at least roughly by turning the tank's hull.
+
+
+Module's behaviour when taking damage
+This module does not take damage in a linear fashion. Its condition has no effect on the vehicle's combat effectiveness.
+
+Mode / Type of Damage	AB	RB
+Orange/red	Aiming speed is unaffected
+Black	Significantly reduces aiming speed	The aiming mechanism is fully disabled
+Take good care of the engines, fuel tanks, and ammo racks... Actually, just take good care of everything.
+
+Modifications:
+Modifications are upgrades that can be unlocked and purchased either by earning research points (Rp) with a vehicle and then purchasing it with silver lions (Sl), or by paying golden eagles (Ge) to research and purchase the modification instantly. All of the modifications vary on the increase (or decrease) of the statistical and literal performance.
+
+When all modifications in a tier are unlocked, an amount of vehicle research points is awarded. The award corresponds to 20% of the total RP cost for that tier. For example, if there are 4 modifications of 1,500 RP each, the award is 0.2 x 6,000 = 1,200 RP. While this award is minimal for low-rank vehicles (a few hundred RP), it can become consequential with top-tier vehicles (several thousands of RP). This award is received when each tier is completed (4 tiers in total). Furthermore, the award is not impacted by research efficiency and other multipliers.
+
+Air Forces
+There are three different categories of modifications for aircraft: Flight performance, Survivability, and Weaponry.
+
+Planes
+Flight Performance
+These modifications improve the flight characteristics of the aircraft, with varying degrees of success. They will generally increase maximum speed and rate of climb, as well as decreasing the turn time of the aircraft.
+
+Fuselage repair	Decreases the drag coefficient.
+Radiator	Improves the cooling system in the engine.
+Compressor	Increases overall engine performance by increasing its horsepower/thrust.
+Wings repair	Reduces drag, and increases lift efficiency coefficient.
+Engine	Adds horsepower/thrust.
+Engine injection	Increases efficiency of the engine throttle.
+G-Suit	Allows the crew to experience greater G-force overload before "blacking out".
+New boosters	Increases flight control assistance, allowing full input at higher speeds, resulting in less locking-up of the ailerons, elevators, and/or rudders. This modification is mainly found on jet aircraft.
+X octane fuel	Allows the engine to run at higher settings to increase power output.
+
+Survivability
+These modifications strengthen the aircraft, allowing the aircraft to potentially survive for longer. They may also improve the flight characteristics of the aircraft, through weight and drag reduction.
+
+Airframe	Adds 10% construction strength, reduces weight.
+Cover	Adds 5% construction strength, reduces weight.
+Protective vest	Partially protects crew members from shells and flak fragmentation, typically found on heavy bombers.
+Armored glass	Increases the thickness of the armoured windscreen.
+Rear armor plate	Adds armour to protect the pilot, typically found on USSR aircraft.
+Engine Fire System	Allows you to put out engine fires.
+
+Weaponry
+These modifications allow to customize your weaponry of your aircraft. This also includes unlocking of new suspended ordnance or different configurations of the aircraft's offensive armament.
+
+Offensive X mm	Unlocks a choice of ammunition belts for the particular gun calibre.
+New X mm MGs/cannons	Replaces the old MG/cannon with new parts, or a whole new gun. This decreases the bullet spread and failure rate (chance of overheating/jamming) of the gun.
+Turret X mm	Unlocks a choice of ammunition belts for defensive turrets of the particular gun calibre.
+New X mm MGs/cannons (turret)	Similar to "New X mm MGs/cannons", but only applies to turret-mounted armament.
+Cannons, Machine guns, Gunpods	Allows you to install different or additional cannons, either within the airframe or externally (gunpods).
+Bombs, Missiles, Rockets, Torpedos, Mines	Allows you to equip different or additional suspended armament.
+Flares/Chaff	Allows you to equip countermeasures.
+NVD	Allows use of night vision devices and thermal optics
+
+Helicopters
+Helicopters share a lot of the same modifications as aircraft, but there are some unique examples.
+
+Flight Performance
+Replacing helicopter blades	Improves the efficiency and capabilities of the helicopter blades, increasing max speed.
+
+Survivability
+Flak jacket	Similar to the "Protective vest" aircraft modification.
+Helicopter frame	Similar to the "Airframe" modification.
+
+Weaponry
+IRCM	Installs an IR lamp that can confuse the sensors of an incoming IR missile.
+HIRSS	Reduces the engines' IR signature.
+
+Ground Forces
+Modifications for ground vehicles are split into three categories: Mobility, Protection, and Firepower. Depending on the total number of modifications of the selected vehicle, some modifications can be found in a different category.
+
+Mobility
+Modifications that improve your tank's ability to manoeuvre around the terrain.
+
+Tracks/Tires	Increases track durability and traction.
+Suspension	Increases suspension tolerance to rough ground, increasing mobility.
+Brake System	Allows faster braking speed and force.
+Filters	Increases engine horsepower and acceleration.
+Transmission	Increases horsepower to the drive wheels, increasing acceleration.
+Engine	Increases engine horsepower and acceleration.
+
+Protection
+Modifications increasing the survivability of the tank. These are the most important modifications to upgrade.
+
+Improved Parts	Repair parts and tools. A kit of spare parts for performing minor repairs in the field.
+Improved FPE	Improved Fire Protection Equipment. Includes manual fire extinguishers or automatic sprinkler systems, allows second use on fire that may arise in a vehicle, increases the speed of fire extinguishing.
+Crew Replenishment	Allows you to replenish your crew while in combat with 1 crew member.
+Add-on Armor	Attaches improvised armour onto the vehicle to increase armour thickness. Increases survivability.
+Dozer Blade	Equips the vehicle with a bulldozer blade to dig defensive positions.
+Smoke grenade	When launched, creates a smoke screen around the grenade's point of landing.
+ESS	Engine Smoke-generating System, when activated will continuously generate a smoke screen originating from the engine for a period of time.
+NVD	Allows use of night vision devices and thermal optics (this module is sometimes located in the Firepower section).
+Camouflage net	Allows the installation of a camouflage net on the turret and the hull.
+
+Firepower
+Modifications improving various aspects of the tank's weaponry systems.
+
+Horizontal Drive	Increases turret traverse speed.
+Adjustment of Fire	Increases gun accuracy by decreasing horizontal and vertical spread.
+Elevation Mechanism	Increases turret vertical traverse speed and decreases vertical spread in gun accuracy.
+Artillery Support	Calls for indirect artillery fire on a position. Not available for heavy tanks or tank destroyers.
+Ammunition	Unlocks different ammo for usage in the tank's armaments.
+Airstrike	Allows you to join an air battle activated by an ally on a bomber or attacker in Arcade, or reduces the cost in spawn points to spawn an aircraft for each scouted enemy that is destroyed by an ally in Realistic battles. This modification is only available on certain light tanks with the "scouting" ability.
+Improved optics	Increases the detection radius of enemy vehicles by +30% of the crew's visual range.
+(Laser) Rangefinder	Improves accuracy and speed of the gunner's rangefinding abilities.
+Scout UAV	Allows you to carry and launch a scout UAV.
+
+Naval Forces
+Modifications for naval vessels are split into the Seakeeping, Unsinkability, and Firepower categories.
+
+Seakeeping
+These modifications improve the mobility and manoeuvrability of the ship.
+
+Dry-Docking	Cleans the hull of the ship, reducing drag.
+Rudder Replacement	Improves the rudder and steering mechanisms, decreasing turn time and radius.
+Propeller Replacement	Improves the propellers, increasing max speed and acceleration.
+Engine Maintenance	Improves the engines and related systems, increasing max forward and reverse speed, as well as acceleration.
+
+Unsinkability
+These modifications increase the survivability of the ship, as well as providing other protective mechanisms.
+
+Damage Control Division	Damage control division training allows repair of damaged modules of a naval vessel more quickly and efficiently.
+Fire Division	Fire division training allows fire extinguishing to a naval vessel more quickly.
+Smokescreen	Generates a smoke screen behind the ship continuously for a period of time.
+Shrapnel Protection	Reduces the effect of shrapnel inside the ship.
+Ventilation	Reduces crew casualties from smoke in the case of a fire.
+New Pumps	Increases the speed at which water is pumped out of the ship after the breach is repaired.
+Ammo Wetting	Reduces chance of ammo detonation due to fires.
+
+Firepower
+These modifications focus on improving the weaponry of the ship, including the available ammo belts and shells to be used, as well as new equipment such as bomb mortars and depth charges.
+
+Primary/Auxiliary/Anti-air Armament Targeting	Increase the turret rotation and pitch speed of the respective armament groups.
+Artillery Support	Calls for bombardment from an off-map warship's main calibre guns on a designated position.
+Improved Rangefinder	Increases the accuracy and speed of rangefinding.
+Torpedo Mode	Increases the range of a torpedo in exchange for reducing its speed (or vice versa).
+Ammunition	Unlocks different ammo for usage in the ship's armaments.
+Depth charges, Mines, Rocket Launcher, Mortar	Allows you to equip additional weaponry.
+Hydroplane	Ship-launched scout plane carried by some cruisers and battleships, useful for tactical operations.
+
+Rangefinder:
+Description
+The rangefinder is a device used to determine the range to a target. The key to use the rangefinder can be bound in Controls > Ground Vehicles > Miscellaneous.
+
+Depending on the tank and era, several methods and equipment can be used: visual estimation, optical rangefinders, or laser rangefinders. When using the rangefinder in-game, a small bar will fill up (located up and to the right of your reticle in binocular or sniper view) and on completion the estimated range will be displayed (located up and to left of the binocular and sniper view). If what you have attempted to range is beyond the maximum distance of you rangefinder, then the result will simply be displayed as ">[maximum range]".
+
+Rangefinding methods
+Visual Estimation
+Visual estimation is the most basic form of rangefinding. In its simplest form, it involves a person estimating the distance to a target without the help of any extra tools. However this is commonly assisted by the use of some reference material, like stadia lines, which give the user an idea of roughly how large or small certain common objects will be at a given distance. In-game, this applies to tanks without any other form of ranging equipment researched, has a maximum range of 800-1,200 m depending on crew skill, and takes roughly six seconds. It is both the slowest and least accurate type of ranging. This inaccuracy is especially problematic for vehicles that use low velocity shells like HE, HEAT, HEATFS, and HESH where the drop of the shell is severe enough that small differences between the displayed range and actual range will result in a missed shot when aiming at targets that are further away. The degree of inaccuracy for visual rangefinding is directly related to your gunner's rangefinding crew skill. At base level any range estimation beyond 400 m can be off by ±50 m, more than enough to cause a miss for many vehicles that already struggle to engage at long distances
+
+Optical rangefinder
+An image of the tank rangefinder modificationWhile coming in a few different forms, such as the stereoscopic and the coincidence rangefinder, optical rangefinders can be found on many tanks. With a few exception they begin to appear on post-WW2 vehicles but are quickly replaced by laser rangefinders in later, more modern, vehicles. Despite definite advantages in accuracy, especially over long distances, the optical rangefinder never reaches the level of universal adoption of its successor and is relatively short-lived with regards to tanks. In-game, optical rangefinders are a clear improvement. The optical rangefinder has an increased maximum range and decreased maximum error over tanks without ranging equipment, with their maximum distance topping out at 4 km, and substantially faster at only around three seconds.
+Laser rangefinder
+An image of the laser rangefinder modification iconLaser rangefinders are the most common form of rangefinding equipment on modern tanks. It is often part of a larger Fire Control System, a computerized system that allow a tank to automatically adjust the gun to compensate for (depending on the particular system) distance, weather, target movement, and/or projectile type.
+In-game, the laser rangefinder is the best available, being the fastest, most accurate, and having the furthest maximum range at 5 km. It takes roughly 1 second to get the range making it possible to use quickly, even mid-fight. In addition to this, most vehicles with laser rangefinders do have some form of fire control system modelled, allowing the vehicle to automatically adjust the zero of the gun to the range measured, making rapid and accurate long range shots much easier to hit consistently.
+
+List of vehicles with rangefinders:
+Optical rangefinder-
+YaG-10 (29-K)							
+8,8 cm Flak 37 Sfl.
+VFW
+Breda 90/53			
+38 cm Sturmmörser
+Panther F
+Panther II
+Tiger II (10.5 cm Kw.K)
+ASU-85
+FV4202
+ST-A3
+Type 61
+Magach 1
+Magach 2
+M47
+M48A1
+M60
+M103
+Magach 3 (ERA)
+T54E1
+Leopard I
+M48A2 C
+mKPz M47 G
+Object 268
+SU-122-54
+Conqueror
+M47
+M48A1
+M47 (105/55)
+M60A1 "D.C.Ariete"
+AMX-30
+AMX-30 (1972)
+AMX-50 Foch
+AMX-50 Surbaissé
+AMX-50 Surblindé
+Magach 3
+Magach 3 (ERA)
+Magach 5
+Magach 6
+Magach 6A
+M60A1 (AOS)
+M60A1 RISE (P)
+Leopard A1A1
+M48A2 G A2
+Object 279
+Object 435
+T-64A (1971)
+Chieftain Mk 3
+Chieftain Mk 5
+AMX-30 ACRA
+Magach 6B
+Magach 6R
+Magach Hydra
+FlaRakPz 1
+PT-16/T14 mod.
+Roland 1
+
+Laser rangefinder-
+Marder 1A3
+Marder A1-
+Wiesel 1A4
+PT-76-57
+STB-2
+Type 74 (C)
+Type 69
+Type 69-IIa
+ZTS63
+ZTZ59A
+OF-40
+Ikv 91
+Strv 103-0
+Strv 103A
+VIDAR	
+M60A2
+M60A3 TTS
+M247
+MBT-70
+Merkava Mk.1
+Merkava Mk.2B
+XM8
+XM1 (Chrysler)
+XM1 (GM)
+XM803
+Begleitpanzer 57
+C2A1
+Class 3 (P)
+JaPz.K A2
+KPz-70
+Leopard 1A5
+Leopard A1A1 (L/44)
+M48 Super
+T-72M1
+TAM
+TAM 2IP
+VT1-2
+2S25
+BMD-4
+BMP-3
+Object 685
+T-55AM-1
+T-55AMD-1
+T-62M-1
+T-64B
+T-72A
+Chieftain Marksman
+Chieftain Mk 10
+Khalid
+Olifant Mk.1A
+Olifant Mk.2
+Rooikat 105
+Rooikat Mk.1D
+Rooikat MTTD
+Sho't Kal Dalet
+VFM5
+Vickers Mk.3
+Warrior
+ZA-35
+ZT3A2
+Type 16 (FPS)
+Type 16 (P)
+Type 74 (E)
+Type 74 (F)
+Type 74 (G)
+Type 87
+Type 89
+CM11
+M41D
+M60A3 TTS
+Object 122MT "MC"
+PGZ09
+PTL02
+PTZ89
+T-69 II G
+WMA301
+ZTZ59D1
+ZTZ88A
+ZTZ88B
+ZTZ96
+Centauro I 105
+Centauro I 105 R
+Leopard 1A5
+OF-40 (MTCA)
+OF-40 Mk.2A
+SIDAM 25
+T-72M1
+VBC (PT2)
+VCC-80/60
+VRCC
+AMX-10RC
+AMX-30 DCA
+AMX-30 Super
+AMX-30B2
+AMX-30B2 BRENUS
+AMX-32
+AMX-32 (105)
+AMX-40
+MARS 15
+SK-105A2
+VBCI-2 (MCT30)
+CV9030FIN
+Ikv 91-105
+ItPsV 90
+Leopard 1A5NO2
+Strf 9040B
+Strv 103С
+Strv 104
+Strv 105
+T-55M
+T-72M1
+Gal Batash
+Machbet
+Magach 6B Gal
+Magach 6C
+Magach 6M
+Magach 7C
+Merkava Mk.1B
+Merkava Mk.2B
+Merkava Mk.2D
+Sho't Kal Dalet
+Sho't Kal Gimel
+AGS
+CCVL
+HSTV-L
+IPM1
+LAV-AD
+M1 Abrams
+M1 KVT
+M1A1
+M1A1
+M1A1 AIM
+M1A1 HC
+M1A2 Abrams
+M1A2 SEP
+M3A3 Bradley
+M60 AMBT
+M1128
+M1128 Wolfpack
+Merkava Mk.3D
+ADATS
+FlaRakRad
+Gepard 1A2
+Leopard 2 (PzBtl 123)
+Leopard 2 PL
+Leopard 2 PSO
+Leopard 2A4
+Leopard 2A5
+Leopard 2A5
+Leopard 2A6
+Leopard 2AV
+Leopard 2K
+Ozelot
+PUMA
+Radkampfwagen 90
+TAM 2C
+2S25M
+2S38
+BMP-2M
+Khrizantema-S
+T-72AV (TURMS-T)
+T-72B
+T-72B3
+T-72B (1989)
+T-72M2 Moderna
+T-80B
+T-80BVM
+T-80U
+T-80U
+T-80UK
+T-80UM2
+Т-90А
+ADATS (M113)
+Bhishma TWMP
+Black Night
+Challenger 2
+Challenger 2
+Challenger 2 (2F)
+Challenger 2 TES
+Challenger 2E
+Challenger DS
+Challenger Mk.2
+Challenger Mk.3
+TTD
+Vickers Mk.7
+TKX
+TKX (P)
+Type 10
+Type 16
+Type 90
+Type 90 (B)
+Type 93
+MBT2000
+PGZ04A
+QN506
+WZ1001(E) LCT
+ZLT11
+ZTZ96A
+ZTZ96A (P)
+ZTZ99-II
+ZTZ99-III
+ZTZ99A
+Ariete
+Ariete (P)
+Ariete AMV
+Ariete PSO
+Centauro I 120
+Dardo
+Freccia
+KF41
+Leopard 2A4
+OTOMATIC
+SIDAM 25 (Mistral)
+VCC-80/30
+Leclerc
+Leclerc AZUR
+Leclerc S2
+Leclerc SXXI
+CT-CV 105HP
+CV 90105
+CV 90120
+Leopard 2A4
+Leopard 2A6
+Lvkv 9040C
+Strf 9040 BILL
+Strf 9040C
+Strv 121
+Strv 122A
+Strv 122B PLSS
+T 80 U
+Merkava Mk.3B
+Merkava Mk.3C
+Merkava Mk.4 LIC
+Merkava Mk.4B
+Merkava Mk.4M

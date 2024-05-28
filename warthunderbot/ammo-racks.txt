@@ -1,0 +1,53 @@
+General
+Each ground and naval vehicle has its ammunition stored in a series of racks. Each vehicle has its individual rack configuration and each rack carries a specific number of shells. These racks can be seen in-game with X-Ray viewing mode (be sure to bind a key in Controls > Common > Basic > X-ray (show vehicle modules)).
+
+Rack types
+Single piece ammunition Most smaller calibre guns use single piece ammunition where projectiles and propellants are in one piece.
+
+Two piece ammunition Some high calibre cannons have two-piece ammunition where projectiles and propellants are stored and loaded separately. Each part has their own individual module. These modules can be depleted synchronously (for example in the Jagdtiger) or deplete independently of one another (for example in the M103).
+
+Magazines and ammo boxes Vehicles with automatic cannon(s) often have their ammunition stored in magazines, clips, belts and/or ammo boxes. In the loadout screen, ammunition amount is selected in magazines. For example, the Ostwind can distribute ammunition between 125 magazines of 8 rounds instead of 1,000 shells.
+
+Multi turret and multi cannon Multi-turreted and multi-cannon vehicles (for example the T-35 or the M6A1, or most naval vessels) have individual racks for each ammo type. Tanks like the Maus can also have three kinds of racks, 12.8 cm projectiles, 12.8 cm propellants and 7.5 cm shells.
+
+Twin and Quad cannons Some SPAAs have twin and quad mounts for their main armament. Each of these cannons gets loaded separately. Since all of its guns are firing in more or less a synchronized manner, it may look like the cannon are loaded as one. For example, the M13 MGMC holds 2 x 200 rounds in its two machine guns, while the game shows it as 400 rounds loaded.
+
+Depth charges A single-piece ammunition released overboard, upon destruction it has a chance of exploding, much like other ammunition types.
+
+Torpedoes While being a relatively large target onboard most of the vessels, torpedoes have comparatively low chance of explosion upon destruction.
+
+Modules
+The resistance of each module visible in the X-Ray view to damage, fire as well as its explosion effect is set individually for each vehicle and vessel. This can result in significant variations in the survivability when the ammo rack modules are critically damaged.
+
+Ammo - Name of the ammunition storage typically used to refer to the storage of first-stage ammunition (ready-use), rockets, missiles, belts, or individual rounds and propellants.
+It is important to note that some vehicles in the ground forces have two-piece ammunition, which are both marked as an "Ammo" module instead of being displayed separately like in the naval forces. For example, in the X-Ray view of the Jagdtiger, cylindrical ammo represents propellant charges while conical ammo represents projectiles. In these cases, the propellant still causes more damage in the event of an explosion compared to the projectiles.
+Charges - Ground vehicles using two-piece ammunition often have it separated into Charge and Ammo, with Charge inflicting more damage on explosion (see 2S3M)
+Auxiliary ammunition storage - Used for secondary ammunition on a number of naval warships
+Ammunition storage - Main ammo storage, primarily seen on the coastal vessels
+Magazine - Room where the propellants are stored. These rooms are often the source of large and catastrophic explosions on ships and are therefore considered critical targets in the event of an attack by an enemy warship. It's worth noting that some of the guns do not use a separate Magazine, while still having a Shell room (e.g. 102 mm Pattern 1911, which historically did use a two-piece ammunition) - in such a cases it's assumed that the shell room contains both projectiles and propellants.
+Shell room - A location where the projectiles are stored. On a naval vessels these are less explosive than the Magazine. In the context of in-game damage modeling, ships with shell rooms above the magazine (e.g. RN Raimondo Montecuccoli) are considered to be more survivable than those with magazines located above the shell room (e.g. Krasny Krym).
+Torpedo - Several ships store multiple torpedoes, not only in their launchers, but also for reloading purposes. This is particularly notable in Japanese vessels or pre-World War II battleships that have entire rooms or boxes filled with torpedoes. While these have a low probability of exploding, if they do, the resulting damage can be catastrophic.
+Ammo elevators - Much like fires can spread from one compartment to another they can also use the ammo elevators to directly reach the shell room, resulting in a catastrophic explosion ending with an "Ammunition Load Burnt Down" message. Furthermore, some ammunition elevators contain shells (for example on USS Brooklyn), which can potentially lead to a localised explosion, particularly if fire reaches the location.
+Rack depletion
+Some vehicles have their shells modeled individually, meaning that the shells disappear from the rack as they are fired. Others have their shells modeled as sets of 2 shells or more, meaning that the shells disappear from the rack as soon as all shells in the set are expended. Some other vehicles have racks modeled as a whole (for example, a rack containing 6 shells only vanishes once all of its six shells are depleted). The order in which the racks are filled and depleted does not change no matter how many shells are available (the exception being first-stage ammo racks, which will always deplete first if available, and will refill from the other ammo racks after an extended break in firing). A depleted rack or a vanished shell cannot cause an ammo rack detonation, so care should be taken in choosing the number of shells to equip into battle to maximise the survivability of the vehicle (see #Optimized ammo rack loadout).
+
+Depletion tracking of first-stage ammo racks
+First-stage ammo racks comprise the shells that the loader, automatic loader or the drum of your tank dispenses into the cannon noticeably faster than the remaining shells. When not firing, the first-stage rack will be replenished from less accessible ammunition stowages, typically located in the hull and/or on the floor of the fighting compartment. However, this lengthy operation impacts your combat performance and is better anticipated than endured. The remaining shells in the first-stage ammo rack are displayed on the right side of the damage panel in the bottom left corner. This gives players whose vehicles have autoloaders the possibility to track how many first-stage shells remain at their disposal and therefore plan ahead for the restocking phase.
+
+Shell types
+Ammo racks are shared for all shell types loaded. It doesn't matter which shells are used first, the racks will always deplete in a given order (assuming the ammunition is all fired from one cannon).
+
+Visual discrepancy
+Some vehicles may carry a number of shells in its racks than differs from the visibly modelled ammunition in the X-Ray view. This is known as "Visual discrepancy", and can occur in both a vehicle as a whole (e.g. a vehicle visually contains 80 shells but in fact only carries 60 when fully equipped) or in individual racks (e.g. a rack is visually modelled as containing 5 shells but 8 must be fired for it to deplete). These cases should be reported via the dedicated Gaijin community platformby selecting the appropriate issues. Note that racks being modeled as a whole instead of individually is NOT visual discrepancy, and should not be reported or marked as such.
+
+Optimized ammo rack loadout
+The fastest way to get destroyed in tank battles is by detonation of the ammunition. Therefore, a good way to increase survivability is to reduce the number of shells loaded on the tank. Survivability is greatly reduced while shells are stored in bundles, distributed all around the tank in different locations. These racks can be seen with x-ray view, and are consumed while firing, rack-by-rack or shell-by-shell depending on the vehicle. Once a rack/shell is depleted, it cannot explode anymore, thereby decreasing the chance of getting "ammo racked".
+
+Being "ammo racked" is the situation in which a group of ammunition takes damage from enemy fire (gets shot by another tank) and causes the explosive mass in the ammunition to detonate. Any time ammunition inside the tank is detonated, it causes catastrophic damage to the tank.
+
+Each tank has a different ammo rack setup and therefore, there is no universal rule on how much a lower ammo count increases survivability. Ammo racks in the turret are much more susceptible to being shot, but there is no guarantee that the ammo rack in the turret is the first to be expended.
+
+Loadout screen
+The loadout screen shows the number of unloaded shells in brackets. The number remaining to be loaded are a total of the maximum available, and not per shell type.
+
+Use this to gauge how much ammunition and how much of each type to bring when considering the number of ammo racks filled and survivability. Loading too little shells may result in you running out of ammunition in the heat of battle, while cramming as many shells in as possible increases the chance of an ammo explosion. Ammunition can be reloaded at any capture zone controlled by your team.

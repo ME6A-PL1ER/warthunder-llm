@@ -1,0 +1,2100 @@
+Aircraft:
+
+USA:
+A
+A-10A
+A-10A Late
+A-1H
+A-20G-25
+A-26B-10
+A-26B-50
+A-26C-45
+A-26C-45DT
+A-36
+A-4B
+A-4E Early
+A-6E TRAM
+A-7D
+A-7E
+A-7K
+A2D-1
+A6M2 (USA)
+AD-2
+AD-4
+AM-1
+AU-1
+AV-8A
+AV-8C
+B
+B-10B
+B-17E
+B-17E/L
+B-17G-60-VE
+B-18A
+B-24D-25-CO
+B-25J-1
+B-25J-20
+B-26B
+B-29A-BN
+B-34
+B-57A
+B-57B
+Bf 109 F-4 (USA)
+BF2C-1
+Bong's P-38J-15
+Bostwick's P-47M-1-RE
+BTD-1
+F
+F-100D
+F-104A
+F-104C
+F-105D
+F-111A
+F-14A Early
+F-14B
+F-15A
+F-16A
+F-16A ADF
+F-16C
+F-20A
+F-4C Phantom II
+F-4E Phantom II
+F-4J Phantom II
+F-4S Phantom II
+F-5A
+F-5C
+F-5E
+F-80A-5
+F-80C-10
+F-82E
+F-84B-26
+F-84F
+F-84G-21-RE
+F-86A-5
+F-86F-2
+F-86F-25
+F-86F-35
+F-89B
+F-89D
+F-8E
+F11F-1
+F2A-1
+F2A-3
+F2G-1
+F2H-2
+F3D-1
+F3F-2
+F3H-2
+F4D-1
+F4F-3
+F4F-4
+F4U-1A
+F4U-1A (USMC)
+F4U-1C
+F4U-1D
+F4U-4
+F4U-4B
+F4U-4B VMF-214
+F6F-5
+F6F-5N
+F7F-1
+F7F-3
+F8F-1
+F8F-1B
+F8U-2
+F9F-2
+F9F-5
+F9F-8
+FJ-4B
+FJ-4B VMF-232
+Fw 190 A-8 (USA)
+G
+Galer's F3F-2
+K
+Ki-43-II (USA)
+Ki-61-Ib (USA)
+Kingcobra (USA)
+L
+Lanovski's P-47M-1-RE
+M
+MQ-1
+O
+OS2U-1
+OS2U-3
+P
+P-26A-33
+P-26A-34
+P-26A-34 M2
+P-26B-35
+P-36A
+P-36C
+P-36C (TheRussianBadger)
+P-36G
+P-38E
+P-38G-1
+P-38J-15
+P-38K
+P-38L-5-LO
+P-39N-0
+P-39Q-5
+P-400
+P-40C
+P-40E-1
+P-40E-1 TD
+P-40F-10
+P-43A-1
+P-47D-22-RE
+P-47D-25
+P-47D-28
+P-47N-15
+P-51
+P-51A
+P-51C-10
+P-51D-10
+P-51D-20-NA
+P-51D-30
+P-51D-5
+P-51H-5-NA
+P-59A
+P-61A-11
+P-61C-1
+P-63A-10
+P-63A-5
+P-63C-5
+PB4Y-2
+PBJ-1H
+PBJ-1J
+PBM-1 "Mariner"
+PBM-3 "Mariner"
+PBY-5 Catalina
+PBY-5A Catalina
+PV-2D
+R
+Rasmussen's P-36A
+S
+SB2C-1C
+SB2C-4
+SB2U-2
+SB2U-3
+SBD-3
+SOC-1
+Spitfire LF Mk IXc (USA)
+T
+TBD-1
+TBF-1C
+Thach's F2A-1
+X
+XA-38
+XF5F
+XP-38G
+XP-50
+XP-55
+Y
+YP-38
+
+Germany:
+A
+Alpha Jet A
+Ar 196 A-3
+Ar 234 B-2
+Ar 234 C-3
+B
+Bf 109 B-1
+Bf 109 C-1
+Bf 109 E-1
+Bf 109 E-3
+Bf 109 E-4
+Bf 109 E-7/U2
+Bf 109 F-1
+Bf 109 F-2
+Bf 109 F-4
+Bf 109 F-4/trop
+Bf 109 G-10
+Bf 109 G-14
+Bf 109 G-2
+Bf 109 G-2/trop
+Bf 109 G-6
+Bf 109 K-4
+Bf 109 Z-1
+Bf 110 C-6
+Bf 110 C-7
+Bf 110 F-2
+Bf 110 G-2
+Bf 110 G-4
+BV 138 C-1
+BV 155 B-1
+BV 238
+C
+C. 200 serie 3 (Germany)
+C. 200 serie 7 (Germany)
+C. 202 (Germany)
+CL-13A Mk 5 (Germany)
+CL-13B Mk.6 (Germany)
+CR.42 (Germany)
+D
+Do 17 E-1
+Do 17 Z-2
+Do 17 Z-7
+Do 217 E-2
+Do 217 E-4
+Do 217 J-1
+Do 217 J-2
+Do 217 K-1
+Do 217 M-1
+Do 217 N-1
+Do 217 N-2
+Do 335 A-0
+Do 335 A-1
+Do 335 B-2
+F
+F-104G (Germany)
+F-4F (Germany)
+F-4F Early (Germany)
+F-84F (Germany)
+F-86K (Germany)
+Flegel's Bf 109 A
+Fw 189 A-1
+Fw 190 A-1
+Fw 190 A-4
+Fw 190 A-5
+Fw 190 A-5/U12
+Fw 190 A-5/U14
+Fw 190 A-5/U2
+Fw 190 A-8
+Fw 190 C
+Fw 190 D-12
+Fw 190 D-13
+Fw 190 D-9
+Fw 190 F-8
+Fw 200 C-1
+G
+G.50 AS serie 7 (Germany)
+G.50 serie 2 (Germany)
+G.91 R/3 (Germany)
+G.91 R/4 (Germany)
+H
+Hawk H-75A-2 (Germany)
+He 100 D-1
+He 111 H-16
+He 111 H-3
+He 111 H-6
+He 112 A-0
+He 112 B-0
+He 112 B-1/U2 (Germany)
+He 112 B-2/U2
+He 112 V-5
+He 115 C-1
+He 162 A-1
+He 162 A-2
+He 177 A-5
+He 219 A-7
+He 51 A-1
+He 51 B-1
+He 51 B-2/H
+He 51 C-1
+He 51 C-1/L
+Ho 229 V3
+Hs 123 A-1
+Hs 129 B-2
+Hs 129 B-2 (Romania)
+Hs 129 B-3
+Hunter F.58 (Germany)
+I
+IL-2 (1942) (Germany)
+IL-28 (Germany)
+J
+Ju 188 A-2
+Ju 288 C
+Ju 388 J
+Ju 87 B-2
+Ju 87 D-3
+Ju 87 D-5
+Ju 87 G-1
+Ju 87 G-2
+Ju 87 R-2
+Ju 87 R-2 Libya
+Ju 88 A-1
+Ju 88 A-4
+Ju 88 C-6
+L
+La-5FN (Germany)
+Lim-5P (Germany)
+M
+Marcolin's C.R.42 CN (Germany)
+Me 163 B
+Me 163 B-0
+Me 262 A-1/U4
+Me 262 A-1a
+Me 262 A-1a/Jabo
+Me 262 A-1a/U1
+Me 262 A-2a
+Me 262 C-1a
+Me 262 C-2b
+Me 264
+Me 410 A-1
+Me 410 A-1/U2
+Me 410 A-1/U4
+Me 410 B-1
+Me 410 B-1/U2
+Me 410 B-2/U4
+Me 410 B-6/R3
+MiG-15bis (Germany)
+MiG-19S (Germany)
+MiG-21 "Lazur-M" (Germany)
+MiG-21 SPS-K (Germany)
+MiG-21bis-SAU (Germany)
+MiG-21MF (Germany)
+MiG-23BN (Germany)
+MiG-23MF (Germany)
+MiG-23MLA (Germany)
+MiG-29 (Germany)
+MiG-29G (Germany)
+P
+P-47D (Germany)
+P-47D-16-RE (Germany)
+S
+S.M.79 AS (Germany)
+S.M.79 B (Germany)
+S.M.79 bis/N (Germany)
+S.M.79 bis/T.M (Germany)
+S.M.79 serie 1 (Germany)
+S.M.79 serie 4 (Germany)
+S.M.79 serie 8 (Germany)
+Sea Hawk Mk.100 (Germany)
+Su-22M4 (Germany)
+Su-22UM3K (Germany)
+T
+Ta 152 C-3
+Ta 152 H-1
+Ta 154 A-1
+Tempest Mk V (Germany)
+Tornado IDS ASSTA1 (Germany)
+Tornado IDS MFG (Germany)
+Tornado IDS WTD61 (Germany)
+W
+Wellington Mk Ic (Germany)
+Y
+Yak-1B (Germany)
+
+USSR:
+A
+A-20G-30 (USSR)
+Ar-2
+B
+B-25J-30 (USSR)
+BB-1
+Be-6
+BI
+D
+DB-3B
+Dolgushin's La-7
+F
+Fw 190 D-9 (USSR)
+G
+Golovachev's Yak-9M
+H
+Hampden TB Mk I (USSR)
+Hurricane Mk IIB (USSR)
+I
+I-15 M-22
+I-15 M-25
+I-15 WR
+I-153 M-62
+I-153P
+I-15bis
+I-16 type 10
+I-16 type 18
+I-16 type 24
+I-16 type 27
+I-16 type 28
+I-16 type 5
+I-180S
+I-185 (M-71)
+I-185 (M-82)
+I-225
+I-29
+I-301
+IL-10
+IL-10 (1946)
+IL-2 (1941)
+IL-2 (1942)
+IL-2 M-82
+IL-2-37
+IL-28
+IL-28Sh
+IL-2M "Avenger"
+IL-2M (1943)
+IL-2M type 3
+IL-4
+IL-8 (1944)
+ITP (M-1)
+K
+KOR-1
+Krasnolutsky's I-15bis
+L
+La-11
+La-15
+La-174
+La-200
+La-5
+La-5F
+La-5FN
+La-7
+La-7B-20
+La-9
+LaGG-3-11
+LaGG-3-23
+LaGG-3-34
+LaGG-3-35
+LaGG-3-4
+LaGG-3-66
+LaGG-3-8
+M
+MBR-2-M-34
+MiG-15
+MiG-15bis
+MiG-15bis ISH
+MiG-17
+MiG-17AS
+MiG-19PT
+MiG-21bis
+MiG-21F-13
+MiG-21PFM
+MiG-21S (R-13-300)
+MiG-21SMT
+MiG-23M
+MiG-23ML
+MiG-23MLD
+MiG-27K
+MiG-27M
+MiG-29
+MiG-29SMT
+MiG-3-15
+MiG-3-15 (BK)
+MiG-3-34
+MiG-9
+MiG-9 (l)
+O
+Orion
+P
+P-39K-1 (USSR)
+P-39Q-15 (USSR)
+P-40E-1 (USSR)
+P-47D-27 (USSR)
+P-63A-10 (USSR)
+P-63A-5 (USSR)
+P-63C-5 (USSR)
+PBY-5A Catalina (USSR)
+Pe-2-1
+Pe-2-110
+Pe-2-205
+Pe-2-31
+Pe-2-359
+Pe-2-83
+Pe-3
+Pe-3 (e)
+Pe-3bis
+Pe-8
+Po-2
+Po-2 Night Witch
+Po-2M
+Pokryshkin's P-39N-0 (USSR)
+S
+SB 2M-100
+SB 2M-103
+SB 2M-103 MV-3
+SB 2M-103U
+SB 2M-103U MV-3
+SB 2M-105
+Spitfire Mk IXc (USSR)
+Su-11
+Su-17M2
+Su-17M4
+Su-2 (M-82)
+Su-2 MV-5
+Su-2 TSS-1
+Su-22M3
+Su-25
+Su-25BM
+Su-25K
+Su-25SM3
+Su-25T
+Su-27
+Su-39
+Su-6
+Su-6 (AM-42)
+Su-6 (M-71F)
+Su-7B
+Su-7BKL
+Su-7BMK
+Su-8
+Su-9
+T
+Tandem MAI
+TB-3M-17-32
+TIS MA
+Tu-1
+Tu-14T
+Tu-2
+Tu-2S
+Tu-2S-44
+Tu-2S-59
+Tu-4
+Y
+Yak-1
+Yak-141
+Yak-15
+Yak-15P
+Yak-17
+Yak-1B
+Yak-2 KABB
+Yak-23
+Yak-28B
+Yak-3
+Yak-3 (VK-107)
+Yak-30D
+Yak-38
+Yak-38M
+Yak-3P
+Yak-3T
+Yak-3U
+Yak-4
+Yak-7B
+Yak-9
+Yak-9B
+Yak-9K
+Yak-9P
+Yak-9T
+Yak-9U
+Yak-9UT
+Yer-2 (ACh-30B) (e)
+Yer-2 (ACh-30B) (l)
+Yer-2 (M-105)
+Yer-2 (M-105) TAT
+Yer-2 (M-105R) LU
+Yer-2 (M-105R) TAT
+Z
+Zhukovsky's I-153-M62
+
+Great Britan:
+A
+Attacker FB 1
+Attacker FB.2
+Avenger Mk II (Great Britain)
+B
+Beaufighter Mk 21
+Beaufighter Mk I (40-mm)
+Beaufighter Mk VIc
+Beaufighter Mk X
+Beaufort Mk VIII
+Blenheim Mk IV
+Boomerang Mk I (Great Britain)
+Boomerang Mk II (Great Britain)
+Boston Mk I (Great Britain)
+Brigand B 1
+Buccaneer S.1
+Buccaneer S.2
+Buccaneer S.2B
+C
+Canberra B (I) Mk 6
+Canberra B Mk 2
+Catalina Mk IIIa (Great Britain)
+Corsair F Mk II (Great Britain)
+D
+D.520 (Great Britain)
+D.521 (Great Britain)
+DB-7 (Great Britain)
+F
+F-4J(UK) Phantom II
+Firebrand TF Mk IV
+Firecrest
+Firefly F Mk I
+Firefly FR Mk V
+Fury Mk I
+Fury Mk II
+G
+Gladiator Mk II
+Gladiator Mk IIF
+Gladiator Mk IIS
+H
+Halifax B Mk IIIa
+Hampden Mk I
+Hampden TB Mk I
+Harrier GR.1
+Harrier GR.3
+Harrier GR.7
+Havoc Mk I (Great Britain)
+Hellcat Mk II (Great Britain)
+Hornet Mk.I
+Hornet Mk.III
+Hudson Mk V (Great Britain)
+Hunter F.1
+Hunter F.6
+Hunter FGA.9
+Hurricane Mk I/L
+Hurricane Mk IIB/Trop
+Hurricane Mk IV
+Hurricane Mk.I/L FAA M
+J
+Jaguar GR.1
+Jaguar GR.1A
+Jaguar IS
+JAS39C
+Javelin F.(A.W.) Mk.9
+L
+Lancaster B Mk I
+Lancaster B Mk III
+Lightning F.53
+Lightning F.6
+Lincoln B Mk II
+M
+Martlet Mk IV (Great Britain)
+MB.5
+Meteor F Mk 3
+Meteor F Mk 4 G.41F
+Meteor F Mk 4 G.41G
+Meteor F Mk 8 G.41K
+Meteor F Mk.8 Reaper
+Mosquito FB Mk VI
+Mosquito FB Mk XVIII
+Mustang Mk IA (Great Britain)
+N
+Nimrod Mk I
+Nimrod Mk II
+O
+Osprey Mk IV
+P
+Phantom FG.1
+Phantom FGR.2
+Plagis' Spitfire LF Mk IXc
+Prendergast's Spitfire FR Mk XIVe
+S
+Scimitar F Mk.1
+Sea Fury FB 11
+Sea Gladiator Mk I
+Sea Harrier FRS.1
+Sea Harrier FRS.1 (e)
+Sea Hawk FGA.6
+Sea Hurricane Mk IB
+Sea Hurricane Mk IC
+Sea Meteor F Mk 3
+Sea Venom FAW 20
+Sea Vixen F.A.W. Mk.2
+Seafire F Mk XVII
+Seafire FR 47
+Seafire LF Mk.III
+Shackleton MR.Mk.2
+Spitfire F Mk 22
+Spitfire F Mk 24
+Spitfire F Mk IX
+Spitfire F Mk IXc
+Spitfire F Mk XIVc
+Spitfire F Mk XIVe
+Spitfire F Mk XVI
+Spitfire F Mk XVIIIe
+Spitfire LF Mk IX
+Spitfire Mk Ia
+Spitfire Mk IIa
+Spitfire Mk IIb
+Spitfire Mk Vb
+Spitfire Mk Vb/trop
+Spitfire Mk Vc
+Spitfire Mk Vc/trop
+Spitfire Mk.IIa Venture I
+Stirling B Mk I
+Stirling B Mk III
+Strikemaster Mk.88
+Sunderland Mk IIIa
+Sunderland Mk V
+Swift F.1
+Swift F.7
+Swordfish Mk I
+Swordfish Mk II
+T
+Tempest Mk II
+Tempest Mk V
+Tempest Mk V (Vickers P)
+Thunderbolt Mk.1 (Great Britain)
+Tornado F.3
+Tornado GR.1
+Tuck's Gladiator Mk II
+Typhoon Mk Ia
+Typhoon Mk Ib
+Typhoon Mk Ib/L
+V
+V-156-B1
+Vampire F.B.5
+Venom FB.4
+W
+Walrus Mk.I
+Wellington Mk Ic
+Wellington Mk Ic/L
+Wellington Mk III
+Wellington Mk X
+Whirlwind Mk I
+Whirlwind P.9
+Wirraway (Great Britain)
+Wyvern S4
+
+Japan:
+A
+A5M4
+A6M2
+A6M2 mod. 11
+A6M2-N
+A6M3
+A6M3 mod. 22
+A6M3 mod. 22Ko
+A6M5
+A6M5 Hei
+A6M5 Ko
+A6M5 otsu
+A6M6c
+A7He1
+A7M1 (NK9H)
+A7M2
+Aichi E13A1
+B
+B-17E (Japan)
+B5N2
+B6N1 Model 11
+B6N2 Model 12
+B6N2a Model 12Ko
+B7A2
+B7A2 (Homare 23)
+Bf 109 E-7 (Japan)
+D
+D3A1
+D4Y1
+D4Y2
+D4Y3 Ko
+E
+E7K2
+E8N2
+F
+F-1
+F-104J
+F-15J
+F-16AJ
+F-4EJ ADTW
+F-4EJ Kai Phantom II
+F-4EJ Phantom II
+F-5E FCU (Japan)
+F-86F-30 (Japan)
+F-86F-40 (Japan)
+F-86F-40 JASDF (Japan)
+F1M2
+F4U-1A (Japan)
+Fw 190 A-5 (Japan)
+G
+G4M1
+G5N1
+G8N1
+H
+H6K4
+H8K2
+H8K3
+Hagiri's A5M4
+J
+J1N1
+J2M2
+J2M3
+J2M4 Kai
+J2M5
+J2M5 30mm
+J5N1
+J6K1
+J7W1
+K
+Ki-10-I
+Ki-10-I C
+Ki-10-II
+Ki-10-II C
+Ki-100
+Ki-100-II
+Ki-102 otsu
+Ki-108 Kai
+Ki-109
+Ki-200
+Ki-21-I hei
+Ki-21-Ia
+Ki-27 otsu
+Ki-27 otsu Tachiarai
+Ki-32
+Ki-43-I
+Ki-43-II
+Ki-43-III otsu
+Ki-44-I
+Ki-44-I 34
+Ki-44-II hei
+Ki-44-II otsu
+Ki-45 hei
+Ki-45 ko
+Ki-45 otsu
+Ki-45 tei
+Ki-48-II otsu
+Ki-49-I
+Ki-49-IIa
+Ki-49-IIb
+Ki-49-IIb/L
+Ki-61-I hei
+Ki-61-I ko
+Ki-61-I otsu
+Ki-61-I tei
+Ki-61-II Otsu Kai
+Ki-67-I Ko
+Ki-67-I otsu
+Ki-83
+Ki-84 hei
+Ki-84 ko
+Ki-84 otsu
+Ki-87
+Ki-94-II
+Ki-96
+Kikka
+N
+N1K1
+N1K1-Ja
+N1K2-J
+N1K2-Ja
+P
+P-51C-11-NT (Japan)
+P1Y1 mod. 11
+R
+R2Y2 Kai V1
+R2Y2 Kai V2
+R2Y2 Kai V3
+T
+T-2
+T-2 Early
+Tada's Ki-61-I hei
+
+China:
+A
+A-29
+A-5C
+A6M2 (China)
+B
+B-25J-30 (China)
+C
+CW-21
+D
+D.510C
+DB-3A (China)
+F
+F-100A (China)
+F-100F (China)
+F-104A (China)
+F-104G (China)
+F-16A MLU (China)
+F-5A (China)
+F-5E (China)
+F-84G-21-RE (China)
+F-84G-31-RE (China)
+F-86F-30 (China)
+F-86F-40 (China)
+G
+Gladiator Mk I (China)
+H
+H-5
+H-81A-2
+Hawk III
+Hs 123 A-1 (China)
+I
+I-153 M-62 (China)
+I-15bis (China)
+I-16 Chung 28 (China)
+I-16 type 10 (China)
+I-16 type 17 (China)
+I-16 type 5 (China)
+IL-10 (1946) (China)
+J
+J-11
+J-2
+J-4
+J-6A
+J-7D
+J-7E
+J-7II
+J-8B
+J-8F
+JH-7A
+K
+Ki-27 otsu (China)
+Ki-43-III ko (China)
+Ki-44-II hei (China)
+Ki-45 hei/tei (China)
+Ki-61-I otsu (China)
+Ki-84 ko (China)
+L
+La-11 (China)
+La-9 (China)
+M
+Martin 139WC
+MiG-9 (China)
+MiG-9 (l) (China)
+Mosquito FB.Mk.26
+P
+P-38L-1 (China)
+P-40E-1 (China)
+P-43A-1 (China)
+P-47D-23-RA (China)
+P-47D-30 (China)
+P-51D-20 (China)
+P-51K (China)
+P-66
+P1Y1 mod. 11 (China)
+PB4Y-2 (China)
+Q
+Q-5 early
+Q-5A
+Q-5L
+S
+SB 2M-103U (China)
+Shenyang F-5
+T
+Tu-2S-44 (China)
+Tu-4 (China)
+V
+V-11
+V-12D
+W
+Wing Loong I
+
+Italy:
+A
+AMX
+Ariete (Fighter)
+AV-8B Plus (Italy)
+B
+B.R.20DR
+B.R.20M M1
+Ba.65 (K.14) L
+Bf 109 F-4 (Italy)
+Bf 109 G-14/AS (Italy)
+Bf 109 G-2 (Italy)
+Bf 110 G-4 (Italy)
+Breda 88 (P.XI)
+C
+C. 200 serie 3
+C. 200 serie 7
+C. 202
+C. 202D
+C. 202EC
+C. 205 serie 1
+C. 205 serie 3
+C. 205N2
+CL-13 Mk.4
+CR.32
+CR.32 bis
+CR.32 quater
+CR.42
+F
+F-104G (Italy)
+F-104S
+F-104S TAF (Italy)
+F-104S.ASA
+F-16A ADF (Italy)
+F-84F (Italy)
+F-84G-21-RE (Italy)
+F-86K (Italy)
+F.C.20 Bis
+G
+G.50 AS serie 7
+G.50 serie 2
+G.55 serie 1
+G.55 sottoserie 0
+G.55S
+G.56
+G.91 pre-serie
+G.91 R/1
+G.91 R/4
+G.91 Y
+G.91 YS
+H
+He 112 B-1/U2
+Hs 129 B-2 (Romania) (Italy)
+I
+IAR-81C
+IL-10 (Italy)
+IL-28 (Italy)
+J
+JAS39EBS HU C (Italy)
+Ju 87 D-3 (Italy)
+Ju 87 R-2 (Italy)
+M
+Marcolin's C.R.42 CN
+MiG-15bis (Italy)
+MiG-17PF (Italy)
+MiG-21bis-SAU (Italy)
+MiG-21MF (Italy)
+MiG-23MF (Italy)
+MiG-29 (Italy)
+P
+P-47D-30 (Italy)
+P.108A serie 2
+P.108B serie 1
+P.108B serie 2
+R
+Re.2000 G.A.
+Re.2000 serie 1
+Re.2001 CB
+Re.2001 CN
+Re.2001 gruppo 22
+Re.2001 serie 1
+Re.2002 Early
+Re.2005 serie 0
+Ro.43
+Ro.44
+Ro.57 Quadriarma
+S
+S.81
+S.M.79 AS
+S.M.79 B
+S.M.79 bis/T.M
+S.M.79 serie 1
+S.M.79 serie 8
+Sagittario 2
+SM.91
+SM.92
+Spitfire Mk Vb/trop (Italy)
+Su-22M3 (Italy)
+T
+Tornado ADV
+Tornado IDS (1995) (Italy)
+Tu-2S-59 (Italy)
+V
+Vampire FB 52A
+Y
+Yak-9P (Italy)
+Z
+Z.1007 bis serie 3
+Z.1007 bis serie 5
+
+France:
+A
+A-35B (France)
+AD-4 (France)
+AD-4NA (France)
+Alpha Jet E
+B
+B-26C
+Br.693AB2
+C
+C.R.714
+Challe's Yak-9T (France)
+D
+D.371
+D.371 H.S.9
+D.373
+D.500
+D.501
+D.520
+E
+Etendard IVM
+F
+F-100D (France)
+F-6C-10-NA
+F-84F (France)
+F-84F (IAF)
+F-84G-26-RE (France)
+F-86K (France)
+F-8E(FN) (France)
+F.222.2
+F4U-7
+F6F-5 (France)
+F6F-5N (France)
+F8F-1B (France)
+G
+GL.832HY
+H
+H-75A-1
+H-75A-4
+J
+Jaguar A
+Jaguar E
+L
+Lancaster MR.7
+Late 298D
+LeO 451 early
+LeO 451 late
+Loire 130C
+M
+M.B.152C1
+M.B.157
+M.B.162
+M.B.174A-3
+M.B.175T
+M.D.450B Barougan
+M.D.450B Ouragan
+M.D.452 IIA
+M.D.452 IIC
+M.S.405C1
+M.S.406C1
+M.S.410
+Martin 167-A3
+Milan
+Mirage 2000-5F
+Mirage 2000C-S4
+Mirage 2000C-S5
+Mirage 2000D-R1
+Mirage 4000
+Mirage 5F
+Mirage F1C
+Mirage F1C-200
+Mirage F1CT
+Mirage IIIC
+Mirage IIIE
+Mystere IVA
+N
+N.C.223.3
+NC.900
+P
+P-39Q-25 (France)
+P-40F-5 Lafayette (France)
+P-47D-22-RE (France)
+P-63C-5 (France)
+Pallier's D.510
+PB4Y-2 (France)
+PBY-5A Late (France)
+Potez 630
+Potez 631
+Potez 633
+S
+S.O.4050 Vautour IIA
+S.O.4050 Vautour IIB
+S.O.4050 Vautour IIN
+S.O.4050 Vautour IIN (late)
+S.O.8000 Narval
+SB2C-5 (France)
+Seafire LF Mk.III (France)
+Super Etendard
+Super Mystere B2
+Super Mystere B2 (YouTube Cup)
+V
+V-156-F
+V.G.33C-1
+Vautour IIA IDF/AF
+VB.10-02
+VB.10C-1
+Y
+Yak-3 (France)
+
+Sweden:
+A
+A21A-3
+A21RB
+A28B
+A29B
+A32A
+A32A Röd Adam
+AJ37
+AJS37
+Ar 196 A-5 (Sweden)
+B
+B-239 (Sweden)
+B17A
+B17B
+B18A
+B18B
+B3C
+Bf 109 G-2 (Sweden)
+Bf 109 G-6 (Sweden)
+Bf 109 G-6 Erla (Sweden)
+F
+Fokker D.XXI (Sweden)
+Fokker D.XXI-3 (Sweden)
+H
+Hurricane Mk I/L (Sweden)
+I
+Iacobi's J8A
+J
+J11
+J20
+J21A-1
+J21A-2
+J21RA
+J22-A
+J22-B
+J26
+J26 David
+J29A
+J29D
+J29F
+J32B
+J34
+J35A
+J35D
+J6B
+J8A
+J9 Early
+JA37C
+JA37D
+JAS39A
+Ju 88 A-4 (Sweden)
+M
+MiG-21bis (Sweden)
+Mörkö-Morane
+S
+S17BS
+Saab J35XS
+SAAB-105G
+SAAB-105OE
+SK60B
+T
+T 2
+T18B
+T18B (57)
+V
+Vampire FB 52A (Sweden)
+VL Myrsky II
+VL Pyörremyrsky
+
+Israel:
+A
+A-4E (Israel)
+A-4E Early (M) (Israel)
+A-4H (Israel)
+Ayit
+B
+B-17G (Israel)
+Barak II
+Baz
+F
+F-84F (Israel)
+K
+Kfir C.2
+Kfir C.7
+Kfir Canard
+Kurnass
+Kurnass 2000
+M
+M.D.450B Ouragan (Israel)
+Meteor F.8 (Israel)
+Meteor NF.13 (Israel)
+Mystere IVA (Israel)
+N
+Nesher
+Netz
+P
+P-51D-20-NA (Israel)
+S
+Sa'ar
+Sakeen
+Sambad
+Shahak
+Spitfire LF Mk.IXe Weizman's (Israel)
+Spitfire Mk IXc (Israel)
+Spitfire Mk.IX (CW) (Israel)
+V
+Vautour IIA (Israel)
+Vautour IIN (Israel)
+
+Helicopters:
+
+USA:
+A
+AH-1F
+AH-1G
+AH-1W
+AH-1Z
+AH-64A
+AH-64A (GR)
+AH-64A Peten (USA)
+AH-64D
+AH-6M
+H
+H-34
+M
+MH-60L DAP
+O
+OH-58D
+U
+UH-1B
+UH-1C
+UH-1C XM-30
+Y
+YAH-64
+
+Germany:
+B
+BO 105 CB-2
+BO 105 PAH-1
+BO 105 PAH-1A1
+E
+EC-665 Tiger UHT
+M
+Mi-24P (Germany)
+Mi-24P HFS 80 (Germany)
+Mi-8TB (Germany)
+S
+SA 313B Alouette II (Germany)
+U
+UH-1D (Germany)
+
+USSR:
+K
+Ka-29
+Ka-50
+Ka-52
+M
+Mi-24A
+Mi-24D (USSR)
+Mi-24P
+Mi-24V
+Mi-28N
+Mi-28NM
+Mi-35M
+Mi-4AV
+Mi-8AMTSh
+Mi-8TV
+
+Great Britan:
+A
+AH Mk.1 Apache
+G
+G-LYNX
+L
+Lynx AH.Mk.1
+R
+Rooivalk Mk1F CSH
+S
+Scout AH.Mk.1
+W
+Wasp HAS.Mk.1
+Wessex HU Mk.5
+
+Japan:
+A
+AH-1E (Japan)
+AH-1S
+AH-1S Kisarazu
+AH-64DJP
+U
+UH-1B (Japan)
+
+China:
+A
+AH-1W (China)
+O
+OH-58D (China)
+S
+SA.342L Gazelle
+Z
+Z-10
+Z-11WA
+Z-19
+Z-19E
+Z-9W
+Z-9WA
+
+Italy:
+A
+A-129 International (p)
+A.109EOA-2
+A129CBT
+AB 205 A-1
+AH-129D
+M
+Mi-24D (Italy)
+Mi-24P (Italy)
+Mi-24V (Italy)
+T
+T129
+
+France:
+E
+EC-665 Tiger HAD
+EC-665 Tiger HAP
+H
+H-34 (France)
+I
+IAR 316B
+S
+SA 313B Alouette II
+SA 316B Alouette III
+SA.341F Gazelle
+SA.342M Gazelle
+T
+Tiger HAD Block 2
+
+Sweden:
+A
+AHS
+H
+HKP2
+HKP3C
+HKP9A
+HKP9A (FC)
+M
+Mi-28A
+
+Israel:
+A
+AH-60 (Israel)
+AH-64A Peten (Israel)
+L
+Lahatut
+P
+Peten
+S
+Saraph
+T
+Tzefa A
+Tzefa B
+Tzefa D/E
+
+Fighters:
+
+USA fighters:
+P-26 Peashooter 	P-26A-33 · P-26A-34 · P-26A-34 M2 · P-26B-35
+P-36 Hawk 	P-36A · Rasmussen's P-36A · P-36C · ○P-36C · P-36G
+P-39 Airacobra 	P-400 · P-39N-0 · P-39Q-5
+P-40 	P-40C · P-40E-1 · P-40E-1 TD · P-40F-10
+P-43 Lancer 	P-43A-1
+P-47 Thunderbolt 	P-47D-22-RE · P-47D-25 · P-47D-28 · P-47M-1-RE · P-47M-1-RE · P-47N-15
+P-51 Mustang 	P-51 · P-51A (Thunder League) · P-51C-10 · P-51D-5 · P-51D-10 · P-51D-20-NA · P-51D-30 · P-51H-5-NA
+P-63 Kingcobra 	P-63A-5 · P-63A-10 · P-63C-5 · Kingcobra
+Prototypes 	XP-55
+F2A Buffalo 	F2A-1 · Thach's F2A-1 · F2A-3
+BF2C 	BF2C-1
+F3F 	F3F-2 · Galer's F3F-2
+F4F Wildcat 	F4F-3 · F4F-4
+F4U Corsair 	F4U-1A · F4U-1A (USMC) · F4U-1D · F4U-1C · F4U-4 · F4U-4B · F4U-4B VMF-214 · F2G-1
+F6F Hellcat 	F6F-5 · F6F-5N
+F8F Bearcat 	F8F-1 · F8F-1B
+Other countries 	Ki-43-II · Ki-61-Ib · A6M2 · Bf 109 F-4 · Fw 190 A-8 · Spitfire LF Mk IXc
+
+Germany fighters:
+Heinkel 	
+He 51 	He 51 A-1 · He 51 B-1 · He 51 B-2/H · He 51 C-1 · He 51 C-1/L
+He 100 	He 100 D-1
+He 112 	He 112 A-0 · He 112 B-0 · He 112 B-1/U2 · He 112 B-2/U2 · He 112 V-5
+Messerschmitt 	
+Bf 109 (Jumo) 	Flegel's Bf 109 A · Bf 109 B-1 · Bf 109 C-1
+Bf 109 (DB-601) 	Bf 109 E-1 · Bf 109 E-3 · Bf 109 E-4 · Bf 109 E-7/U2 · Bf 109 F-1 · Bf 109 F-2 · Bf 109 F-4 · Bf 109 F-4/trop
+Bf 109 (DB-605) 	Bf 109 G-2/trop · Bf 109 G-2 · Bf 109 G-6 · Bf 109 G-10 · Bf 109 G-14 · Bf 109 K-4
+Focke-Wulf 	
+Fw 190 (early) 	Fw 190 A-1 · Fw 190 A-4 · Fw 190 A-5 · Fw 190 A-5 · Fw 190 A-5/U2 · Fw 190 A-5/U14 · Fw 190 A-8 · Fw 190 C
+Fw 190 (late) 	Fw 190 D-9 · Fw 190 D-12 · Fw 190 D-13
+Ta 152 	Ta 152 C-3 · Ta 152 H-1
+Blohm & Voss 	
+BV 155 	BV 155 B-1
+ 	Foreign:
+USA 	▀P-47D-16-RE · ▀P-47D
+USSR 	▀La-5FN · ▀Yak-1B
+Britain 	▀Tempest Mk V
+Italy 	▀CR.42 · ▀Marcolin's C.R.42 CN · ▀G.50 serie 2 · ▀G.50 AS serie 7 · ▀C. 200 serie 3 · ▀C. 200 serie 7 · ▀C. 202
+Finland 	▀Hawk H-75A-2
+
+USSR fighters:
+I-15 	I-15 WR · I-15 M-22 · I-15 M-25 · I-15bis · Krasnolutsky's I-15bis
+ 	I-153 M-62 · Zhukovsky's I-153-M62 · I-153P
+I-16 	I-16 type 5 · I-16 type 10 · I-16 type 18 · I-16 type 24 · I-16 type 27 · I-16 type 28 · I-180S
+I-29 	I-29
+I-185 	I-185 (M-71) · I-185 (M-82)
+I-225 	I-225
+ITP 	ITP (M-1)
+MiG-3 	MiG-3-15 · MiG-3-15 (BK) · MiG-3-34
+LaGG 	I-301 · LaGG-3-4 · LaGG-3-8 · LaGG-3-11 · LaGG-3-23 · LaGG-3-34 · LaGG-3-35 · LaGG-3-66
+La 	La-5 · La-5F · La-5FN · La-7 · Dolgushin's La-7 · La-7B-20 · La-9 · La-11
+Yak-1/7 	Yak-1 · Yak-1B · Yak-7B
+Yak-3 	Yak-3 · Yak-3P · Yak-3T · Yak-3U · Yak-3 (VK-107)
+Yak-9 	Yak-9 · Yak-9B · Golovachev's Yak-9M · Yak-9T · Yak-9K · Yak-9U · Yak-9UT · Yak-9P
+Other countries 	P-40E-1 · P-47D-27 · Hurricane Mk IIB · Fw 190 D-9 · Spitfire Mk IXc
+P-39 	P-39K-1 · Pokryshkin's P-39N-0 · P-39Q-15
+P-63 	P-63A-5 · P-63A-10 · P-63C-5
+
+Britain fighters:
+Fury 	Fury Mk I · Fury Mk II
+Nimrod 	Nimrod Mk I · Nimrod Mk II
+Gladiator 	Gladiator Mk II · Tuck's Gladiator Mk II · Gladiator Mk IIF · Gladiator Mk IIS
+Sea Gladiator 	Sea Gladiator Mk I
+Hurricane 	Hurricane Mk I/L · Hurricane Mk.I/L FAA M · Hurricane Mk IIB/Trop
+Sea Hurricane 	Sea Hurricane Mk IB · Sea Hurricane Mk IC
+Martin-Baker 	MB.5
+Spitfire (early-Merlin) 	Spitfire Mk Ia · Spitfire Mk IIa · Spitfire Mk.IIa Venture I · Spitfire Mk IIb · Spitfire Mk Vb/trop · Spitfire Mk Vb · Spitfire Mk Vc/trop · Spitfire Mk Vc
+Spitfire (late-Merlin) 	Spitfire F Mk IX · Spitfire LF Mk IX · Spitfire F Mk IXc · Plagis' Spitfire LF Mk IXc · Spitfire F Mk XVI
+Spitfire (Griffon) 	Spitfire F Mk XIVc · Spitfire F Mk XIVe · Prendergast's Spitfire FR Mk XIVe · Spitfire F Mk XVIIIe · Spitfire F Mk 22 · Spitfire F Mk 24
+Seafire 	Seafire LF Mk.III · Seafire F Mk XVII · Seafire FR 47
+Typhoon 	Typhoon Mk Ia · Typhoon Mk Ib · Typhoon Mk Ib/L
+Tempest 	Tempest Mk II · Tempest Mk V
+Sea Fury 	Sea Fury FB 11
+Twin-engine fighters 	Hornet Mk.I · Hornet Mk.III · Whirlwind Mk I · Whirlwind P.9
+ 	Foreign:
+Australia 	Boomerang Mk I · Boomerang Mk II
+France 	D.520 · D.521
+USA 	Martlet Mk IV · Corsair F Mk II · Hellcat Mk II · Thunderbolt Mk.1 · Mustang Mk IA
+
+Japan fighters:
+Navy 	
+Carrier-based fighter 	
+A5M 	A5M4 · Hagiri's A5M4
+A6M 	A6M2 mod. 11 · A6M2 · A6M3 · A6M3 mod. 22 · A6M3 mod. 22Ko · A6M5 · A6M5 Ko · A6M5 otsu · A6M5 Hei · A6M6c
+A7He 	A7He1*
+A7M 	A7M1 (NK9H) · A7M2
+Land-based Fighter 	
+J2M 	J2M2 · J2M3 · J2M4 Kai · J2M5 · J2M5 (30 mm)
+J6K 	J6K1
+J7W 	J7W1
+N1K-J 	N1K1-Ja · N1K2-J · N1K2-Ja
+Fighter seaplane 	
+N1K 	N1K1
+A6M-N 	A6M2-N
+Army 	
+Ki-10 	Ki-10-I · Ki-10-I C · Ki-10-II · Ki-10-II C
+Ki-27 	Ki-27 otsu · Ki-27 otsu Tachiarai
+Ki-43 	Ki-43-I · Ki-43-II · Ki-43-III otsu
+Ki-44 	Ki-44-I · Ki-44-I 34 · Ki-44-II otsu · Ki-44-II hei
+Ki-61 	Ki-61-I ko · Ki-61-I otsu · Ki-61-I hei · Tada's Ki-61-I hei · Ki-61-I tei · Ki-61-II Otsu Kai
+Ki-84 	Ki-84 ko · Ki-84 otsu · Ki-84 hei
+Ki-87 	Ki-87
+Ki-94 	Ki-94-II
+Ki-100 	Ki-100 · Ki-100-II
+Other countries 	F4U-1A · P-51C-11-NT · Bf 109 E-7 · Fw 190 A-5
+
+China fighters:
+British 	Gladiator Mk I
+French 	D.510C
+Japanese 	A6M2 · Ki-27 otsu · Ki-43-III ko · Ki-44-II hei · Ki-61-I otsu · Ki-84 ko
+American 	CW-21 · Hawk III · P-66 · ␗P-40E-1 · H-81A-2 · P-43A-1 · P-47D-23-RA · P-47D-30 · P-51D-20 · P-51K
+Soviet 	I-15bis · I-153 M-62 · I-16 Chung 28 · I-16 type 5 · I-16 type 10 · I-16 type 17 · La-11 · La-9
+
+Italy fighters:
+Fiat 	CR.32 · CR.32 bis · CR.32 quater · CR.42 · Marcolin's C.R.42 CN
+ 	G.50 serie 2 · G.50 AS serie 7
+ 	G.55 sottoserie 0 · G.55 serie 1 · G.55S · G.56
+Reggiane 	Re.2000 G.A. · Re.2000 serie 1
+ 	Re.2001 serie 1 · Re.2001 gruppo 22 · Re.2001 CB · Re.2001 CN
+ 	Re.2002 Early
+ 	Re.2005 serie 0
+Macchi 	C. 200 serie 3 · C. 200 serie 7
+ 	C. 202 · C. 202D · C. 202EC
+ 	C. 205 serie 1 · C. 205 serie 3 · C. 205N2
+IMAM 	Ro.44
+ 	Foreign:
+Germany 	Bf 109 G-14/AS
+USA 	P-47D-30
+Britain 	Spitfire Mk Vb/trop
+Hungary 	Bf 109 F-4 · Bf 109 G-2 · Yak-9P
+Romania 	He 112 B-1/U2 · IAR-81C
+
+France fighters:
+Dewoitine 	D.371 · D.371 H.S.9 · D.373 · D.500 · D.501 · Pallier's D.510 · D.520
+Morane-Saulnier 	M.S.405C1 · M.S.406C1 · M.S.410
+Arsenal 	V.G.33C-1
+Bloch 	M.B.152C1 · M.B.157
+Caudron 	C.R.714
+Sud-Ouest 	S.O.8000 Narval
+American 	H-75A-1 · H-75A-4 · P-39Q-25 · P-40F-5 Lafayette · P-47D-22-RE · P-63C-5 · F-6C-10-NA
+ 	F6F-5 · F6F-5N · F4U-7 · F8F-1B
+Other countries 	Seafire LF Mk.III · Yak-3 · Challe's Yak-9T · NC.900
+
+Sweden fighters:
+ASJA 	J6B
+Saab 	J21A-1 · J21A-2 · A21A-3
+FFVS 	J22-A · J22-B
+Foreign Import 	J8A · Iacobi's J8A · J9 Early · J11 · J20 · J26 David · J26
+Finland 	
+VL 	Mörkö-Morane · VL Myrsky II · VL Pyörremyrsky
+(NL) Fokker 	Fokker D.XXI-3 · Fokker D.XXI
+(DE) Messerschmitt 	Bf 109 G-2 · Bf 109 G-6 Erla · Bf 109 G-6
+Other 	B-239 · Hurricane Mk I/L
+
+Israel fighters:
+Bf 109 	Sakeen
+P-51 	P-51D-20-NA
+Spitfires 	Spitfire Mk IXc · Spitfire LF Mk.IXe Weizman's · Spitfire Mk.IX (CW)
+
+Strike aircraft (all countries):
+A
+A-10A
+A-10A Late
+A-1H
+A-20G-25
+A-26B-10
+A-26B-50
+A-36
+A-4B
+A-4E (Israel)
+A-4E Early
+A-4E Early (M) (Israel)
+A-4H (Israel)
+A-5C
+A-6E TRAM
+A-7D
+A-7E
+A-7K
+A2D-1
+A32A
+A32A Röd Adam
+AD-2
+AD-4
+AD-4 (France)
+AD-4NA (France)
+AJ37
+AJS37
+Alpha Jet A
+Alpha Jet E
+AM-1
+AMX
+AU-1
+AV-8A
+AV-8B Plus (Italy)
+AV-8C
+Ayit
+B
+Ba.65 (K.14) L
+BB-1
+Beaufighter Mk 21
+Beaufighter Mk I (40-mm)
+Beaufighter Mk VIc
+Beaufighter Mk X
+Bf 110 C-6
+Bf 110 C-7
+Bf 110 F-2
+Bf 110 G-2
+Bf 110 G-4
+Bf 110 G-4 (Italy)
+Br.693AB2
+Breda 88 (P.XI)
+Buccaneer S.1
+Buccaneer S.2
+Buccaneer S.2B
+D
+Do 335 A-0
+Do 335 A-1
+Do 335 B-2
+E
+Etendard IVM
+F
+F-105D
+F-111A
+F-84B-26
+F-84F
+F-84F (France)
+F-84F (Germany)
+F-84F (IAF)
+F-84F (Israel)
+F-84F (Italy)
+F-84G-21-RE
+F-84G-21-RE (China)
+F-84G-21-RE (Italy)
+F-84G-26-RE (France)
+F-84G-31-RE (China)
+F.C.20 Bis
+F3D-1
+Firebrand TF Mk IV
+Firecrest
+Firefly F Mk I
+Firefly FR Mk V
+FJ-4B
+FJ-4B VMF-232
+Fw 190 F-8
+H
+Harrier GR.1
+Harrier GR.3
+Harrier GR.7
+He 219 A-7
+Hs 129 B-2
+Hs 129 B-2 (Romania)
+Hs 129 B-2 (Romania) (Italy)
+Hs 129 B-3
+Hurricane Mk IV
+I
+IL-10
+IL-10 (1946)
+IL-10 (1946) (China)
+IL-10 (Italy)
+IL-2 (1941)
+IL-2 (1942)
+IL-2 (1942) (Germany)
+IL-2 M-82
+IL-2-37
+IL-2M "Avenger"
+IL-2M (1943)
+IL-2M type 3
+IL-8 (1944)
+J
+Jaguar A
+Jaguar E
+Jaguar GR.1
+Jaguar GR.1A
+Jaguar IS
+JH-7A
+Ju 87 G-1
+Ju 87 G-2
+K
+Ki-109
+M
+Me 262 A-1/U4
+Me 262 A-1a/Jabo
+Me 262 A-1a/U1
+Me 262 A-2a
+Me 410 A-1
+Me 410 A-1/U4
+Me 410 B-1
+Me 410 B-2/U4
+Me 410 B-6/R3
+MiG-23BN (Germany)
+Mirage 2000D-R1
+Mosquito FB Mk VI
+Mosquito FB Mk XVIII
+Mosquito FB.Mk.26
+MQ-1
+O
+Orion
+P
+P.108A serie 2
+PBJ-1H
+PBJ-1J
+Pe-3
+Pe-3 (e)
+Pe-3bis
+Q
+Q-5 early
+Q-5A
+Q-5L
+R
+Ro.57 Quadriarma
+S
+SAAB-105G
+SAAB-105OE
+Sea Harrier FRS.1
+Sea Harrier FRS.1 (e)
+SK60B
+SM.91
+SM.92
+Strikemaster Mk.88
+Su-17M2
+Su-17M4
+Su-2 (M-82)
+Su-2 MV-5
+Su-2 TSS-1
+Su-22M3
+Su-22M3 (Italy)
+Su-22M4 (Germany)
+Su-22UM3K (Germany)
+Su-25
+Su-25BM
+Su-25K
+Su-25SM3
+Su-25T
+Su-39
+Su-6
+Su-6 (AM-42)
+Su-6 (M-71F)
+Su-7B
+Su-7BKL
+Su-7BMK
+Su-8
+Super Etendard
+T
+Tandem MAI
+Tempest Mk V (Vickers P)
+TIS MA
+Tornado GR.1
+Tornado IDS (1995) (Italy)
+Tornado IDS ASSTA1 (Germany)
+Tornado IDS MFG (Germany)
+Tornado IDS WTD61 (Germany)
+Tu-1
+V
+V-11
+V-12D
+W
+Wing Loong I
+Wirraway (Great Britain)
+Wyvern S4
+X
+XA-38
+Y
+Yak-2 KABB
+Yak-38
+Yak-38M
+
+Bombers:
+
+USA bombers:
+Dive 	SB2U-2 · SB2U-3 · SBD-3 · SB2C-1C · SB2C-4
+Torpedo 	TBD-1 · PBY-5 Catalina · PBY-5A Catalina · TBF-1C · BTD-1
+Medium 	B-10B · B-18A · B-34 · PV-2D · B-25J-1 · B-25J-20 · A-26C-45 · A-26C-45DT · B-26B
+Heavy 	B-17E · B-17E/L · B-17G-60-VE · PB4Y-2 · B-24D-25-CO · B-29A-BN
+Hydroplanes 	OS2U-1 · OS2U-3 · PBM-1 "Mariner" · PBM-3 "Mariner"
+
+Germany bombers:
+Arado 	Ar 196 A-3
+Blohm & Voss 	BV 138 C-1 · BV 238
+Dornier 	Do 17 E-1 · Do 17 Z-2 · Do 217 E-2 · Do 217 E-4 · Do 217 K-1 · Do 217 M-1
+Focke-Wulf 	Fw 189 A-1 · Fw 200 C-1
+Henschel 	Hs 123 A-1
+Heinkel 	He 111 H-3 · He 111 H-6 · He 111 H-16 · He 115 C-1 · He 177 A-5
+Junkers 	Ju 87 B-2 · Ju 87 R-2 · Ju 87 R-2 Libya · Ju 87 D-3 · Ju 87 D-5 · Ju 88 A-1 · Ju 88 A-4 · Ju 188 A-2 · Ju 288 C
+Messerschmitt 	Me 264
+Savoia-Marchetti 	▀S.M.79 serie 1 · ▀S.M.79 B · ▀S.M.79 serie 4 · ▀S.M.79 serie 8
+ 	▀S.M.79 AS · ▀S.M.79 bis/N · ▀S.M.79 bis/T.M
+Trophies 	▀Wellington Mk Ic
+
+USSR bombers:
+SB and Ar 	SB 2M-100 · SB 2M-103 · SB 2M-103 MV-3 · SB 2M-103U · SB 2M-103U MV-3 · SB 2M-105 · Ar-2
+Yer-2 (petrol) 	Yer-2 (M-105) · Yer-2 (M-105) TAT · Yer-2 (M-105R) TAT · Yer-2 (M-105R) LU
+Yer-2 (diesel) 	Yer-2 (ACh-30B) (e) · Yer-2 (ACh-30B) (l)
+Tu 	Tu-2 · Tu-2S · Tu-2S-44 · Tu-2S-59 · Tu-4
+Pe 	Pe-2-1 · Pe-2-31 · Pe-2-83 · Pe-2-110 · Pe-2-205 · Pe-2-359 · Pe-8
+IL 	DB-3B · IL-4
+ 	Po-2 · Po-2M · MBR-2-M-34 · TB-3M-17-32 · Yak-4 · Be-6
+Lend-Lease 	PBY-5A Catalina · Hampden TB Mk I · A-20G-30 · B-25J-30
+
+Britain bombers:
+Torpedo 	Swordfish Mk I · Swordfish Mk II · Avenger Mk II
+Dive 	V-156-B1
+Hydroplanes 	Catalina Mk IIIa · Sunderland Mk IIIa · Sunderland Mk V
+Light 	Blenheim Mk IV · Beaufort Mk VIII · Hudson Mk V · Brigand B 1
+Based on A20 	Havoc Mk I · Boston Mk I · DB-7
+Hampden 	Hampden Mk I · Hampden TB Mk I
+Wellington 	Wellington Mk Ic · Wellington Mk Ic/L · Wellington Mk III · Wellington Mk X
+Halifax 	Halifax B Mk IIIa
+Stirling 	Stirling B Mk I · Stirling B Mk III
+Lancaster 	Lancaster B Mk I · Lancaster B Mk III
+Lincoln 	Lincoln B Mk II
+Shackleton 	Shackleton MR.Mk.2
+
+Japan bombers:
+Navy 	
+Carrier-based attack bomber 	
+B5N 	B5N2
+B6N 	B6N1 · B6N2 · B6N2a
+B7A 	B7A2 · B7A2 (Homare 23)
+Carrier-based dive bomber 	
+D3A 	D3A1
+D4Y 	D4Y1 · D4Y2 · D4Y3 Ko
+Shipboard Observation seaplane 	
+F1M 	F1M2
+Land-based Attack bomber 	
+G4M 	G4M1
+G5N 	G5N1
+G8N 	G8N1
+Flying boat 	
+H6K 	H6K4
+H8K 	H8K2 · H8K3
+Land-based Bomber 	
+P1Y 	P1Y1
+Army 	
+Light 	Ki-32
+ 	Ki-48-II otsu
+Heavy 	Ki-21-Ia · Ki-21-I hei
+ 	Ki-49-I · Ki-49-IIa · Ki-49-IIb · Ki-49-IIb/L
+ 	Ki-67-I Ko · Ki-67-I otsu
+Other countries 	B-17E
+
+China bombers:
+American 	Martin 139WC*(B-10B) · A-29 · B-25J-30 · PB4Y-2
+German 	Hs 123 A-1
+Soviet 	SB 2M-103U · DB-3A · Tu-2S-44 · Tu-4
+Japanese 	P1Y1 mod. 11
+
+Italy bombers:
+Fiat 	B.R.20DR · B.R.20M M1
+Savoia-Marchetti 	S.81 · S.M.79 serie 1 · S.M.79 B · S.M.79 serie 8 · S.M.79 AS · S.M.79 bis/T.M
+CANT 	Z.1007 bis serie 3 · Z.1007 bis serie 5
+Piaggio 	P.108B serie 1 · P.108B serie 2
+ 	Foreign:
+Germany 	Ju 87 R-2 · Ju 87 D-3
+Hungary 	Tu-2S-59
+
+France bombers:
+Farman 	F.222.2 · N.C.223.3
+Latécoère 	Late 298D
+Potez 	Potez 633
+Liore et Olivier 	LeO 451 early · LeO 451 late
+Bloch 	M.B.174A-3 · M.B.162 · M.B.175T
+American 	V-156-F · Martin 167-A3 · A-35B · SB2C-5 · B-26C · PBY-5A Late · PB4Y-2
+British 	Lancaster MR.7
+
+Sweden bombers:
+B3 	B3C
+B17 	B17A · B17B · S17BS
+SAAB 18 	B18A · B18B · T18B · T18B (57)
+T 2 	T 2
+Finland 	Ar 196 A-5 · Ju 88 A-4
+
+Israel bombers:
+B-17G
+
+Jet aircraft:
+
+USA jet aircraft
+ 	Fighters
+F-4 	F-4C Phantom II · F-4E Phantom II · F-4J Phantom II · F-4S Phantom II
+F-5 	F-5A · F-5C · F-5E · F-20A
+F-8 	F8U-2 · F-8E
+F-80 	F-80A-5 · F-80C-10
+F-84 	F-84B-26 · F-84F · F-84G-21-RE
+F-86 	F-86A-5 · F-86F-25 · F-86F-2 · F-86F-35
+F-89 	F-89B · F-89D
+F-100 	F-100D
+F-104 	F-104A · F-104C
+F-14 	F-14A Early · F-14B
+F-15 	F-15A
+F-16 	F-16A · F-16A ADF · F-16C
+F9F 	F9F-2 · F9F-5 · F9F-8
+Other 	P-59A · F2H-2 · F3D-1 · F3H-2 · F4D-1 · F11F-1
+ 	Strike Aircraft
+FJ-4 	FJ-4B · FJ-4B VMF-232
+A-4 	A-4B · A-4E Early
+A-6 	A-6E TRAM
+A-7 	A-7D · A-7E · A-7K
+AV-8 	AV-8A · AV-8C
+A-10 	A-10A · A-10A Late
+B-57 	B-57A · B-57B
+F-105 	F-105D
+F-111 	F-111A
+
+Germany jet aircraft:
+Ar 234 	Ar 234 B-2 · Ar 234 C-3
+He 162 	He 162 A-1 · He 162 A-2
+Ho 229 	Ho 229 V3
+Me 163 	Me 163 B · Me 163 B-0
+Me 262 A 	Me 262 A-1a · Me 262 A-1a/Jabo · Me 262 A-1a/U1 · Me 262 A-1/U4 · Me 262 A-2a
+Me 262 C 	Me 262 C-1a · Me 262 C-2b
+Tornado 	Tornado IDS WTD61 · Tornado IDS MFG · Tornado IDS ASSTA1
+West Germany 	Alpha Jet A
+USA 	F-84F
+ 	CL-13A Mk 5 · CL-13B Mk.6 · F-86K
+ 	F-104G
+ 	F-4F Early · F-4F
+USSR 	MiG-15bis
+ 	MiG-19S
+ 	MiG-21 SPS-K · ◊MiG-21MF · ◊MiG-21bis-SAU · ◊MiG-21 "Lazur-M"
+ 	MiG-23BN · ◊MiG-23MF · ◊MiG-23MLA
+ 	MiG-29 · MiG-29G
+ 	Su-22UM3K · ◊Su-22M4
+ 	IL-28
+Poland 	Lim-5P
+Britain 	Sea Hawk Mk.100 · ◌Hunter F.58 (Swiss)
+Italy 	G.91 R/3 · G.91 R/4
+
+USSR jet aircraft:
+Bereznyak-Isayev 	BI
+Yakovlev 	Yak-15 · Yak-15P · Yak-17 · Yak-23 · Yak-28B · Yak-30D · Yak-38 · Yak-38M · Yak-141
+Mikoyan-Gurevich 	MiG-9 · MiG-9 (l) · MiG-15 · MiG-15bis · MiG-15bis ISH · MiG-17 · MiG-17AS · MiG-19PT
+ 	MiG-21F-13 · MiG-21PFM · MiG-21S (R-13-300) · MiG-21SMT · MiG-21bis
+ 	MiG-23M · MiG-23ML · MiG-23MLD · MiG-27M · MiG-27K
+ 	MiG-29 · MiG-29SMT
+Lavochkin 	La-174 · La-15 · La-200
+Sukhoi 	Su-9 · Su-11
+ 	Su-7B · Su-7BKL · Su-7BMK · Su-17M2 · Su-17M4 · Su-22M3
+ 	Su-25 · Su-25BM · Su-25K · Su-25T · Su-25SM3 · Su-39
+ 	Su-27
+Ilyushin 	IL-28 · IL-28Sh
+Tupolev 	Tu-14T
+
+Britain jet aircraft:
+Blackburn 	Buccaneer S.1 · Buccaneer S.2 · Buccaneer S.2B
+British Aerospace 	Harrier GR.7 · Sea Harrier FRS.1 (e) · Sea Harrier FRS.1
+British Aircraft Corporation 	Strikemaster Mk.88
+English Electric 	Canberra B Mk 2 · Canberra B (I) Mk 6 · Lightning F.6 · Lightning F.53
+Gloster 	Meteor F Mk 3 · Sea Meteor F Mk 3 · Meteor F Mk 4 G.41F · Meteor F Mk 4 G.41G · Meteor F Mk 8 G.41K · Meteor F Mk.8 Reaper
+ 	Javelin F.(A.W.) Mk.9
+de Havilland 	Vampire F.B.5 · Venom FB.4 · Sea Venom FAW 20 · Sea Vixen F.A.W. Mk.2
+Hawker 	Sea Hawk FGA.6 · Hunter F.1 · Hunter F.6 · Hunter FGA.9 · Harrier GR.1 · Harrier GR.3
+Panavia 	Tornado GR.1 · Tornado F.3
+SEPECAT 	Jaguar GR.1 · Jaguar GR.1A · Jaguar IS
+Supermarine 	Attacker FB 1 · Attacker FB.2 · Scimitar F Mk.1 · Swift F.1 · Swift F.7
+Foreign 	Phantom FG.1 (USA) · Phantom FGR.2 (USA) · F-4J(UK) Phantom II (USA)
+ 	JAS39C (Sweden)
+
+Japan jet aircraft:
+IJNAS 	
+Experimental 	Kikka
+Reconnaissance 	R2Y2 Kai V1 · R2Y2 Kai V2 · R2Y2 Kai V3
+IJAAS 	
+Fighters 	Ki-200
+JASDF 	
+Fighters 	F-86F-30  · F-86F-40  · F-86F-40 JASDF
+ 	F-104J
+ 	F-4EJ Phantom II · F-4EJ ADTW · F-4EJ Kai Phantom II
+ 	F-15J
+ 	F-16AJ
+ 	F-1
+Trainers 	T-2 Early · T-2
+Foreign 	
+Thailand 	F-5E FCU
+
+China jet aircraft:
+Fighters 	J-2 · J-4 · Shenyang F-5 · J-6A · J-7II · J-7D · J-7E · J-8B · J-8F · J-11
+Strike aircraft 	Q-5 early · Q-5A · Q-5L · A-5C · JH-7A
+Bombers 	H-5
+American 	F-84G-21-RE · F-84G-31-RE · F-86F-30 · F-86F-40 · F-100A · F-100F · F-104A · F-104G · F-5A · F-5E · F-16A MLU
+Soviet 	MiG-9 · MiG-9 (l)
+
+Italy jet aircraft:
+Aefer 	Sagittario 2 · Ariete
+Fiat 	G.91 pre-serie · G.91 R/1 · G.91 R/4 (Portugal) · G.91 Y · G.91 YS
+AMX International 	AMX
+Panavia 	Tornado ADV · Tornado IDS (1995)
+ 	Foreign:
+Vampire 	Vampire FB 52A
+F-84 	F-84F · F-84G-21-RE
+F-86 	CL-13 Mk.4 · F-86K
+F-104 	F-104G · F-104S · F-104S TAF (Turkey) · F-104S.ASA
+F-16 	F-16A ADF
+AV-8 	AV-8B Plus
+Hungary 	
+Mikoyan-Gurevich 	MiG-15bis · MiG-17PF · MiG-21MF · MiG-21bis-SAU · MiG-23MF · MiG-29
+Ilyushin 	IL-28
+Sukhoi 	Su-22M3
+Saab 	JAS39EBS HU C
+
+France jet aircraft:
+Fighters 	M.D.450B Ouragan · M.D.450B Barougan · M.D.452 IIA · M.D.452 IIC · Mystere IVA · Super Mystere B2
+ 	F-86K · F-100D · F-8E(FN)
+ 	Mirage IIIC · Mirage IIIE · Milan · Mirage 5F · Mirage 2000C-S4 · Mirage 2000C-S5 · Mirage 2000-5F · Mirage 4000
+ 	Mirage F1C · Mirage F1C-200 · Mirage F1CT
+Strike aircraft 	F-84F · F-84F IAF · F-84G-26-RE
+ 	Etendard IVM · Super Etendard · Alpha Jet E
+ 	Jaguar A · Jaguar E · Mirage 2000D-R1
+Bombers 	S.O.4050 Vautour IIA · Vautour IIA IDF/AF · S.O.4050 Vautour IIB · S.O.4050 Vautour IIN · S.O.4050 Vautour IIN (late)
+
+Sweden jet aircraft:
+Fighters 	J21RA
+ 	J29A · A29B · J29D · J29F
+ 	J32B
+ 	J34
+ 	J35A · J35D
+ 	JA37C · JA37D
+ 	JAS39A
+Strike aircraft 	A21RB
+ 	A32A · A32A Röd Adam
+ 	A28B
+ 	AJ37 · AJS37
+ 	SK60B · SAAB-105G
+Export 	SAAB-105OE
+Finland 	Vampire FB 52A · MiG-21bis · Saab J35XS
+
+Israel jet aircraft:
+ 	Kfir Canard · Kfir C.2 · Kfir C.7 · Nesher
+Britain 	
+Meteor 	Meteor NF.13 · Meteor F.8
+France 	
+Vautour 	Vautour IIA · Vautour IIN
+Super Mystere 	Sambad · Sa'ar
+Mirage III 	Shahak
+Other 	M.D.450B Ouragan · Mystere IVA
+USA 	
+F-84 	F-84F
+A-4 	A-4H · A-4E Early (M) · A-4E · Ayit
+F-4 	Kurnass · Kurnass 2000
+F-15 	Baz
+F-16 	Netz · Barak II
+
+UCAV:
+
+USA:
+MQ-1
+
+USSR:
+Orion
+
+China:
+Wing Loong I

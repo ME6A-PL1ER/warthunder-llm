@@ -1,0 +1,38 @@
+Sound modifications
+In update 1.99.1.39, the original game sound files have been changed. Download the repository, to update your sound mod for War Thunder!
+
+Be careful! Sound modifications, if not executed perfectly, are capable of leading to problems operating the game and may even harm your health!
+Any individual that creates custom sound modifications, modifies the game’s audio files, or makes use of sound modification files created by any other person, does so at their own risk, and we (Gaijin) will take no responsibility for their, or anyone else’s, use of those modifications.
+
+How to implement sound modifications
+Visit the sound modifications section on War Thunder LIVE
+
+Choose and download your chosen modification files, (make sure you trust the source before doing so).
+Open the game’s config.blk, which is located in the War Thunder game folder, using any text editor and add the line: enable_mod:b=yes to the sound block, pictured below.
+Some mods require the following variables and values ​​to be added to the sound {} block of the config.blk file.
+useLoopsForGunSound:b=yes - enables support for the sounds of rapid-fire aircraft guns, implemented by the method of loops (looped pre-rendered sounds of gun bursts). The need to add a line is indicated by the author of the modification.
+useLoopsForGunSound:b=no - default value (no need to specify in the config.blk). In this case, the sounds of rapid-fire aircraft guns also play using the loop method, but the sound of the queue starts when the on_shot parameter is set to "1". Returning to "0" ends the queue sound.
+useLoopsForGMGunSound:b=no - in this case, sound of ground and naval vehicles plays in the oneshot mode, i.e. every shot requires on_shot parameter set to 1.
+useLoopsForGMGunSound:b=yes - default value (no need to specify in the config.blk). In this case, the sounds of rapid-fireground and naval guns also play using the loop method, but the sound of the queue starts when the on_shot parameter is set to "1". Returning to "0" ends the queue sound.
+Save the changes made to the file.
+Find the “sound” folder located in the War Thunder game folder, and within it, create a new folder named “mod”.
+Extract the modification files to the newly created ‘mod’ folder.
+War Thunder will now use the new modified sounds.
+
+Note: If the modifications have not been created or implemented correctly, the game may exhibit errors!
+
+How to rollback sound modification changes
+If the game becomes unstable following the implementation of a sound modification, or you decide you don’t like the result of the modification, you can rollback the changes. To do this, just change the line “enable_mod:b=yes” to “enable_mod:b=no” in the config.blk or just delete this line entirely. Also, be sure to delete the mod folder with all content from the sound folder.
+
+Following these steps, War Thunder will start using the standard sound effects once again.
+
+How to create sound modifications
+The creation of custom sound modifications is possible with the Fmod Studio (you will need to register on the relevant page and download the software).
+
+Download or clone the sound project from the official repository. 
+Open the sound project in the current version of Fmod Studio.
+The current version of the Fmod Studio for War Thunder can be found on the sound project page on Github in the readme file.
+Make changes to the sound events without changing the names of the files, the location of the files, or the structure/hierarchy of the folder.
+Please note that if you want to implement sounds of rapid-fire guns via loops (looped pre-rendered sounds of the gun bursts) you will need to add the following line to the block sound{} of the config.blk file: useLoopsForGunSound:b=yes - Also don’t forget to notify the users of your mod about this.
+Assemble the data banks where change events are located without amending the names of the data banks or the composition of events in them.
+Check your saved project before sharing it with other players!

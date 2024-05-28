@@ -1,0 +1,222 @@
+Custom hangars
+Custom hangars are not working on clients installed in the launcher setting "compatibility mode".
+With the introduction of update 1.59 "Flaming Arrows", players are able to change the hangar for a custom one.
+
+How to create a custom hangar
+
+Standard "Hangar" for ground vehicles in version 1.59
+First you need to create the location. You can create it yourself or use a custom location created by someone else. The location file has an extension .bin.
+
+The appropriate location is situated in the game directory, you need to add it to the game root directory attached to the myhangar.blk file or create it yourself.
+
+The main parameters that are responsible for the location of the equipment in the hangar are:
+
+ level:t = "levels/*location_file_name*.bin" - path to the location designated as the hangar in the game directory.
+ modelRotation:r = 60 - direction of the player vehicles in the location.
+ modelPos:p3 = 2154, 17.7, -684.4 - vehicle placement in the location.
+For different types of vehicles you are able to add a different place in the hangar.
+
+Tanks
+unitPos {
+ hangarPlace:t = "tank"
+ modelPos:p3 = 1806.49, 58.9, -1099.33
+ modelRotation:r = 75.8
+ unitOffset:p3 = 0, 1, 0
+}
+
+Planes
+unitPos{
+ hangarPlace:t = "aircraft"
+ modelPos:p3 = 2154.0, 17.7, -684.4
+ modelRotation:r = 60.0
+ unitOffset:p3 = 0.0, 0.0, 0.0
+}
+Ships / Hydroplane
+unitPos{
+ hangarPlace:t = "ship"
+ hangarPlace:t = "hydroplane"
+ modelPos:p3 = 120.0, 2.0, 2250.0
+ modelRotation:r = 0.0
+ unitOffset:p3 = 0.0, 0.0, 0.0
+ unitOnWater:b= yes
+ cameraEllipsoidWeights:p4= 0.1, 0.0, 0.0, 0.6
+ cameraMinDistanceToModel:r = 10.0
+}
+The above parameters are responsible for the position of units in the hangar. If different types of vehicles are given different locations, switching between them in the hangar will initiate a smooth change of camera view.
+
+Final step - in the file config.blk you must add a parameter pointing to the name of the configuration file for your new hangar:
+
+ hangarBlk:t="myhangar.blk"
+We already have variants of the hangar in our client:
+
+ hangarBlk:t="config/hangar.blk" - default
+ hangarBlk:t="config/hangar_military_base.blk" - hangar with a military base on the island
+ hangarBlk:t="config/hangar_airfield.blk" - hangar on airfield (before update 1.59)
+Have you completed your hangar? Don’t forget to share your creation with other players on Live.warthunder.com in the section "Locations".
+
+More options
+Hangar parameters
+Explanation of some parameters that are located at the top of file.
+
+Option, Description
+objectSphereDefaultScreenAspectRatio	Can be used to increase or reduce the spheric effect
+objectSphereAirplaneYFactor	Can be used to increase or reduce the spheric effect
+objectSphereTankYFactor	Can be used to increase or reduce the spheric effect
+minCamAlt	Sets the minimum height of camera
+vertRange	Sets the height of camera
+additionalHangarCameraBias	Changes the view distance, can add the blur effect
+timeToIdle	Changes how long it takes to enable the idle camera movement (seconds)
+mouseZoomSpeed	Changes the zoom speed by using a mouse scroll wheel
+mouseDecalRotSpeed	Changes the decal rotation speed
+mouseDecalSizeSpeed	Changes the decal resizing speed
+weather and hqWeather	
+Sets the specific weather setting
+List of available weather presets:
+
+clear
+good
+hazy
+cloudy
+thin_clouds
+thin_clouds_storm
+poor
+blind
+rain
+storm
+thunder
+Not all of them work on every map, it depends on what weather preset is used on the specific map, for example the default hangar location can use only clear, good and cloudy settings and they will also look different compared to those from weather presets for other maps.
+
+Used to set the default time in hangar
+List of available time settings:
+
+day
+evening
+morning
+dusk
+dawn
+noon
+fmGearsSpringsCoeffMul	Sets how much the plane will bounce. If set to too high values it can affect some planes like the Me 163 (flipping issue)
+
+Adjusting time settings
+It is possible to set the time to specific hour and then set its chance of appearance.
+
+env{
+ env:t = "13"
+ weight:r = 90.0
+}
+env - Sets the time, can be set in range from 0 to 24
+weight - Sets how often the game will choose this setting, the higher the number, the more often it will appear
+Adding units in the background
+Adding units to the custom hangar can be achieved by using this code:
+
+backgroundModel{
+ fmName:t = "b-17e"
+ pos:p3 = 2068.4, 18.6, -766.8
+ rotation:r = 44.3
+ tag:t = "country_usa"
+ forUnitType:t = "aircraft"
+}
+fmName - Sets the unit type
+Only flying units are allowed, you can find their names here
+pos - Sets the unit's position in the hangar
+It is the best to load the location in the mission editor, put the unit in the place you want and then copy its coordinates
+rotation - Sets the unit's direction
+tag - Makes it so only specific units are appearing for different nations
+Available tags:
+country_usa
+country_germany
+country_italy
+country_ussr
+country_britain
+country_australia
+country_japan
+country_france
+country_sweden
+country_china
+country_israel
+forUnitType - Sets for which unit type will it show background models
+Adding objects in the background
+It is possible to add many different objects and effects like pumpkins, lights and other similar.
+
+backgroundObject{
+ res:t="red_balloon_a_dynmodel"
+ tm:m=[[-0.20992, 0.0, 0.586354] [0.0, 0.622798, 0.0] [-0.586354, 0.0, -0.20992] [1785.91, 58.87, -1075.34]]
+}
+res - Name of the object
+Only simple models are allowed
+tm - Sets the object coordinates
+To get them you need to add place the object in the mission editor, save the mission and copy its coordinates from the blk file
+backgroundModel{
+ effectName:t="light_indoor_10_yellow"
+ pos:p3=1786.68, 63.5254, -1075.87
+}
+Name of the effect
+Sets the effect coordinates
+Adding effects
+To add effects like fireworks use this code:
+
+hangarEffect{
+   effect:t="firework_large_yellow_single_sparks"
+   areaMin:p3=-2040.0, 250.0, 1780.0
+   areaMax:p3=4200.0, 600.0, 200.0
+   delay:p2=5.0, 50.0
+}
+effect: Effect name, full list of available effects can be found here
+areaMin: Sets the first corner of the area where the effect appears
+areaMax: Sets the second corner of the area where the effect appears
+delay: Sets the time range between which effects will appear (seconds)
+Adjusting the idle camera movement
+Idle camera movement can be adjusted by using this code:
+
+procCamera{
+ fov:r=80.0
+ zNear:r=0.05
+ time:r=8.0
+
+ from{
+
+   start{
+     nodeName:t="wing_l_dm"
+     offset:p3=0.0, 1.0, 0.5
+   }
+
+   end{
+     nodeName:t="wing_l_dm"
+     offset:p3=1.0, 1.0, 0.7
+   }
+ }
+
+ to{
+
+   start{
+     nodeName:t="pilot_dm"
+     offset:p3=0.0, 1.0, 0.0
+   }
+
+   end{
+     nodeName:t="pilot_dm"
+     offset:p3=0.0, 1.0, 1.0
+   }
+  }
+}
+fov - Sets the zoom
+time - Sets for how long will it last
+nodeName - Part of the unit which will be followed by the camera
+Can be found in the Asset Viewer in _skeleton models
+Adding units and scripts
+The other thing that can be done in hangars is adding units and scripts through the CDK Mission editor. In order to do that the player needs to add the following line to the main hangar file:
+
+ hangarMission:t="gameData/scenes/hangar_field_mission.blk"
+This file can be created in the Mission Editor by just normally saving any mission created there, so creating a BLK file. Thanks to this functionality it is possible to add objects like tanks which drive around, or flying around planes, it is also possible to add structures and other similar objects. The triggers are also supported, so it is possible to create scripts by using conditions and actions. Basically all of the Mission Editor functionality except for anything related to weather and main mission parameters is available to use is in the hangar's environment.
+
+How to setup custom hangar
+If you are the author of your own hangar, your installation will be completed already when referring to the "how to create a custom hangar" instructions. When downloading a custom location from "live.warthunder.com" for example, you need to correctly add the location of the hangar and set the path to the appropriate files.
+
+Download the new hangar location file. The file must have an extension of .bin.
+Add the file to a created folder in the game directory.
+In the root directory place the configuration file myhangar.blk and set it up with a direct parameter to the location file .bin with vehicles. Follow the instructions "how to create a custom hangar".
+In the config.blk, add the parameter:
+hangarBlk:t="myhangar.blk"
+The next time you run the game, you will log in to the new hangar.
+
+Remember! Custom hangars are used entirely at your own risk - they may function incorrectly, or cause errors in the game client.

@@ -1,0 +1,1324 @@
+Basic information about creating models for Dagor Engine
+
+Installation of 3ds Max plugin
+To developing models for the dagor Engine, it currently requires Autodesk 3d studio Max 2011 32 and 64 bit onwards (there are also tools for versions Max2009, Max2012, Max7, Max9, but these are not actively supported). To install, the file from your installed copy of 3ds Max should be written into the plugin.ini, the way to the installed WarThunderCDK
+and the plugin
+For example
+[Directories]
+Dagor Engine Plugin = C:\WarThunder\WarThunderCDK\dagor3_cdk\plugin3dsMax\Max2011
+Your 3ds max is now ready for work
+
+Basic information about work with the Dagor Engine and War Thunder models
+The models should be in the metric system of coordinates
+All the objects in the model format should be exported with the Dagor materials
+Export plugin is placed in Utilities (Dagor Scene Export)
+Textures are supported in formats .dds and .tga, TGA is more preferable (as it stores information without compression)
+To review your flight model in AssetViewer, export the model with the name <aircraft_name>.lod00.dag to the folder
+<WarThunderCDK>\develop\assets\gameres\aircrafts\<aircraft_name>\
+
+You also need to export 3 LOD models of the aircraft (.lod01.dag, lod02.dag, and lod03.dag) and to place all necessary textures in an understandable format beside the model (see also the next article)
+
+To review a cockpit model, you should export it with the Dagor materials to the file
+<WarThunderCDK>\develop\assets\gameres\cockpits\<aircraft_name>\<aircraft_name>_cockpit.lod00.dag
+
+Cockpit models don't require LOD models.
+
+Work with the model view component AssetViewer
+Model view component AssetViewer (which also performs functions of separate assets editor and game resources building-instrument) has an apparent enough interface. The asset list shows not those files the game resources are assembled of, but the game resources themselves. The AssetViewer can also use contiguous resources in the game. Necessary information. All texture converting and model building parameters are placed in the .folder.blk files or, for each particular resource type, in <asset_name>.<asset_type>.blk. The .folder.blk files have a simple enough format and description rules, but these rules will be set forth in a separate article. Controls are very simple in the AssetViewer - by pressing "space", you switch to the flight mode (WASD+mouse), and by repeated pressing of the same key, you return to the standard way of camera control. The menu contains the option "build resources" - it's a possibility to assemble game resource packs for testing (more details in a separate article).
+
+Added with the release of the Update 1.77 "Advancing Storm", Dagor Engine 5.0 is now necessary to use.
+Microdetails
+Nothing will appear to change for you when creating new objects or viewing the old ones (except for microdetails) in the latest version of War Thunder CDK. However, when you try to open or create an object with microdetails, it will not be displayed correctly since the latter are not yet connected to your AssetViewer.
+
+
+To connect them you need to:
+
+Go to Environment Settings (“sun” icon).
+Choose the section titled Environment textures.
+In the Level BLK (for microdetails texture) choose WarThunderCDK\levels\location_sample.blk.
+If you are doing the asset for your location, you will need to select‘level.blk’ for your location.
+To learn how to put microdetail in level.blk for your locations, please read the following article "Creating locations”.
+
+3D models for aircraft
+General Scene Requirements
+The scene must be fully compatible with Autodesk 3ds Max 2011
+Use lowercase Latin letters for naming scene files. No spaces are allowed. Scene and texture names cannot contain capital letters or hyphens «-». Instead, use underscores «_».
+Stacks must be collapsed on all objects (objects must be Editable Poly)
+Models are made in real scale using metric units (System units = Meters). Display units may be anything you are comfortable with.
+All objects must have their Scale reset to 100, 100, 100 (use Hierarchy/Reset Scale)
+The nose of the model must be oriented along the positive X-axis; the Z-axis should be pointed upwards; the Y-axis is pointed to the left of direction of flight.
+The scene must contain the model's initial object state (LOD0 - LOD3) and additional auxiliary geometry. Please notice that damaged model state is no longer required (DMG2_LOD0 - DMG2_LOD3). Details are provided in the appropriate sections of this document.
+
+Layers
+All objects in the scene must be composed in layers:
+
+DM - Damage Model – collision objects for an aircraft. Bullet and shell hits are calculated using these objects. They are made with simplified geometry. Aircraft collision with other objects and ground collision is made possible by clipping points. They mark the extent of certain parts of the plane: wings, fuselage etc.
+GUN - flames from gun barrels, attachment nodes for bomb and rocket payloads (see sample model for details)
+LOD0 - undamaged state LOD0. Effect emitters also go here (emitters can be found in the sample model)
+LOD1 - undamaged state LOD1
+LOD2 - undamaged state LOD2
+LOD3 - undamaged state LOD3
+pilot - the model of a pilot goes here, it is not the actual pilot model that will be visible in game. Only its pivot will be used to place the actual pilot. The size of the model is roughly the same size of the actual pilot that will be used in game.
+prop_side - is a plane with the texture of propeller viewed from the side. It is only displayed when looking at the propeller from the side. When looking at different angles it fades away evenly. It is placed in its own separate layer because it does not require LODs.
+nodes_gunner - reference gunner models or gunner animation nodes go here
+Before you start: It is a good practice to study photos and drawings thoroughly. Match drawings; with photos and select the most suitable layout. Many drawings usually have errors. There is no perfect drawin;- Only factory ones are accurate. Always choose: the drawing most similar to photographs and use them as a starting point; carefully comparing all of the shapes with photos. Select photos of an aircraft, which clearly show projection views (top, left, front etc.). Superimpose. drawings on top of them. Then, compare and make notes of any discrepancies.
+
+Suggested modeling steps
+1st Stage - Accurately laid out model which fits nicely into proper dimensions. At this point it is better not to weld or merge wings, engine nacelles, cabin interiors and other parts together. All parts should be separate at this stage.
+So it is easy to move parts and modify shapes in case of any error found. The fuselage must have correct shapes along its run. Wings must have correct shapes, angle of attack, twist or dihedral, if any. Same goes for propeller blades.
+The scene may include all drawings in a separate layer called «drawings». You can store all related pictures and drawings inside your model folder for easy access.
+2nd Stage - Final geometry including details: navigational lights, landing lights, engine, pitot tube, cockpit, the interior of wings and fuselage, landing gear animation, correct placement of all pivots for moving parts, correct object naming, null-polygons done (polygons with non-renderable shader).
+The LOD0 geometry at this point should be optimized and have a “final” look.
+3rd Stage - A fully mapped model with baked Ambient Occlusion. At this point ambient occlusion may be rough since UV-coordinates may change. The multi-material can be applied to the model, with correct material IDs. Correct IDs also have to be assigned to polygons in accordance to material.
+4th Stage - The model with diffuse texture containing aircraft colors, paneling, riveting, access hatches, identification marks, and finalized Ambient Occlusion.
+5th Stage - All LODs are done at this point. The model with final diffuse texture containing all of the above mentioned items plus wear and tear, aging and service labels.
+6th Stage - Finished model with all of the textures (diffuse, normal, and specular). Including all textures for damaged state (with bullet holes).
+
+Model
+LODs and polygon count
+The figures below are recommended: For complex models overhead of 5-10k is allowed.
+
+LOD0 – around 50-150k triangles for fighters and 60-250k for bombers
+LOD1 – around 15-23k tris for fighters and 18-33k tris for bombers
+LOD2 – around 1,500-2,000 tris
+LOD3 – up to 150 triangles
+When making LODs bear in mind that LOD switching has to be smooth and the model should look good at certain distances. Here are the LOD visibility distances:
+
+LOD0 – 0 to 70 meters
+LOD1 – 70 to 200 meters
+LOD2 – 200 to 550 meters
+LOD3 – 550+ meters
+at 90 degree FOV.
+
+
+Aircraft model positioning
+Correct positioning of the aircraft model along X and Y and Z axis is important because it influences flight dynamics. Aircraft’s center of gravity should be at world zero (0,0,0) coordinates. Usually aircraft’s symmetry axis is at Y=0 coordinates (when viewed from the top). Engine thrust line is at Z=0. And X=0 coordinate for a fixed wing aircraft with ordinary tapered wing (most common type for War Thunder timeframe) is calculated using this graphical method.
+
+Define a wing with a trapezoid. Sides are tip and root chord (on the axis of symmetry) and straight lines running along leading and trailing edges of the wing
+Draw 50% chord line (divides tip and root chord in half)
+Extend tip and root chords with opposite copies
+Draw a line connecting resulting extremes
+Intersection of this line and 50% chord line is where our mean aerodynamic chord is at
+Center of Gravity is usually located at 25% of the mean aerodynamic chord
+When CG is found you can move the whole aircraft so CG matches X=0 coordinate.
+
+Undamaged state
+Model with undamaged texture. (Shown in Figure 1)
+
+
+The model must be split into 4 fixed objects: the fuselage, left and right wings, and tail. (Figure 1) This must be done in order to damage parts separately, and not the whole aircraft. The local axis (pivots) of these objects must match the world axis and be positioned at world zero (0,0,0).
+All movable parts are to be created as separate objects: landing gear, landing gear doors, bomb bays, aircraft control surfaces, ailerons, flaps, elevators and rudder, air brakes (if any), propeller spinner with blades, canopy, turrets and guns.
+The structural framework needs to be created inside the wings, fuselage and tail (spars, ribs, frames and stringers). Structural framework should be present in places where damage texture has large openings revealing the internal structure of the plane.
+With the introduction of new damage system internal structure should also be present between emtr_break_* emitters placed inside wings and tail parts. Parts will break off revealing the internal structure.
+Assign Material ID (6) to interior polygons. (figure 3) Interior texture must have «_inside» postfix. Our existing interior textures are suitable for many aircraft. But not always. If ready samples are not suitable, then a new one, specifically for your aircraft, will have to be drawn. Please do not forget about the postfix.
+Because polygons with this texture name will be hidden automatically for undamaged state in game. So naming convention should be strictly followed.(Figure 2)
+
+
+If there are antennae or bracing wires stretching from the fuselage to the tail, they must be done as separate objects called Antenna.
+When the tail is torn off the antenna will be hidden which otherwise is not possible.
+Antennae should be made with polygons which are wider than the actual antenna. The texture with alpha channel (provided with the sample model) have some slack space for this.
+Together with blend shader this method will remove jagged edges in game modes without antialiasing.
+
+There are 3 separate meshes for an aircraft propeller.(Figure 7)
+
+In figure 8 parts are spread apart: it looks like this:
+
+prop01_1 - the spinner (hub fairing) or hub itself + blades (geometry)
+prop02_1 - the blurred spinner or hub + a texture of radially blurred blades
+prop03_1 - the blurred spinner or hub + a texture of a greater blurred blades
+Some texture samples for spinning props are provided with the sample model. In «Hangar» game mode we see prop01_1. All other geometry prop objects are hidden. When the engine is started in the game, prop01_1 begins to spin, and is replaced by prop02_1 at certain RPM. When the engine reaches operational RPM, prop02_1 is replaced by prop03_1. The numbers immediately after the word «prop» correspond to different propeller states. The number after the underscore correspond to the propeller number in the multi-engined aircraft. If an aircraft has 2, 3, or 4 propellers, the last numbers are changed accordingly.
+
+The illustration in figure 9 how the propeller objects look for the B-17 four-engined heavy bomber (objects are split apart for a better view): Billboards named prop_side show only one state. At different speeds the prop looks the same from the side. So only the last number is present and should be changed.
+
+If there is a stripe at the tip of the blades, then it must be depicted on the blurred prop diffuse texture: (Figure 10)
+
+In Figure 11; This is the example of an alpha channel for a 2-bladed prop: for prop_02_1 and for prop_03_1The texture size is 1024x1024.
+
+The propeller must be modeled very thoroughly. It is a large element seen up close inside the «Hangar». Please do not hesitate to use more polys to get a smoother and more rounded detailed look.
+
+Blades can be huge: In figure 13, this shows how big some propeller blades are, in comparison to everyday objects like door ways.
+
+Please do not forget about the prop blades twist. The angle of attack is maximum at blade root and minimal at the tip. (Figure 14 & 15)
+
+
+Additional geometry required for aircraft damaged state
+Separate geometry for damaged state and severed parts are no longer required. It is replaced by automatic damage. In order for it to function properly additional emitters need to be placed in the LOD0 of the scene. These emitters are required to mark the range where cutting may occur. For wings they are:
+
+emtr_break_wing_l_from
+emtr_break_wing_l_to
+emtr_break_wing_r_from
+emtr_break_wing_r_to
+
+For tail part emitters are: emtr_break_tail_from and emtr_break_tail_to. “_from” emitters are placed closer to aircraft’s center and inside the mesh. “_to” emitters are placed inside the mesh closer to perimeter. Caps and all internal framework should have Material ID (6) assigned. Caps are placed to cover breach extremes. Tail caps may have conical shape with texture faking part depth. Wing caps may be flat. When the part is cut off we may have some artefacts. External paint visible on internal shell because damage material is two sided. To solve this problem internal shell have to be modeled. The easiest way is to select outer polygons in range then copy and scale down a bit and invert normals. You can use «_inside» texture for internal shell as well.
+
+Damaged state prop have to be made for each LOD where undamaged prop01_# exist (LOD0-3). For naming just add add «_dmg» postfix to the prop name.
+
+The propeller blades should be bent, as if: made of metal and broken if made of wood. Make them look as if the plane crash landed, with landing gear retracted.
+
+It is easy with the wooden propellers, just tear away a portion of the blades and leave some shreds:
+
+It is slightly more complicated with metallic blades. They bend when hitting the ground: then the tips twist if the propeller has high rpm when blades hit the ground.
+
+It is important to remember that a propeller cannot be bent transversely. It bends only in spiral fashion with relation to the blade angle of attack.
+
+
+UV mapping
+  * All faces must be mapped and have UV coordinates
+  * UV coordinates must not exceed 8x tiling in each direction
+Otherwise there will be conversion errors. It is a good practice for ordinary geometry to have all mapping inside 0-1 UV space.
+
+  * All wing surfaces, fuselage, tail assembly, ailerons and flaps must be unique
+An aircraft should be uniquely mapped. With minimal or no repeats at all. It is important because an average plane has many different camo schemes which are impossible to paint if primary surfaces are mapped from the same place. An exception is made for engine parts. Cylinders, valve rods, spark plug wires and other repeating details may be mapped from one place. Texture resolution may be increased twice for cylinders and heads so that cooling ribs can be drawn with proper resolution and detail.
+
+
+The engine may have 5, 7, or 9 cylinders in one row and there can be up to 4 rows. As you can see it is reasonable to make one cylinder with all the necessary detailing, and then clone copy it the required number of times in a circle to form a row. If the second row is not visible enough it may be replaced by a billboard. Again a billboard should contain one cylinder and then copied required number of times in a circular pattern. Please do not make 2 face billboards with all of the cylinders drawn on texture. As it will waste our precious texture space.
+
+Above are diffuse, normal and specular maps. As you can see, a single cylinder occupies roughly the same space as the vertical stabilizer of an aircraft even though the cylinder is much smaller in size. In-line water cooled engines usually are hidden under the cowling and not visible. So nothing have to be modeled. The same applies to jet engines. For the most part the detailing is not visible. Ambient occlusion eats most of the detailing inside the air intake and exhaust. Gradually fading into dark. In some cases blades and detailing may still be visible though. It depends. If it is not eaten out by AO then it should be modeled. Jet blades can be done using 3 objects like propeller.
+
+Wheels of the same size and pattern may be mapped from a single place.
+Glass does not require a texture. So the scale of the mapping is not important. It may even be mapped from a couple of pixels somewhere in the corner of the texture.
+It is better to make the blades unique so that it is possible to add some nice detail like chipped paint to the edges of each blade.
+
+To avoid this geometry can be cut into segments of the antenna layout and put on each other. pay attention. The layout of extended objects such as Antenna can go beyond the permitted limits -8 +8 UV.
+
+To avoid this, you can cut the geometry of the antenna segments and put them on each other.
+
+
+Naming and hierarchy
+None of the model objects should be linked to anything. The only exceptions are the landing gear wheels which are linked to the appropriate struts. Temporary linking is allowed for making complex animations.
+
+All such linking should be erased and animation baked in the end.
+
+
+Valid object names are listed in the table below. Use lowercase Latin letters and underscores «_» for naming parts.
+
+Aircraft parts:
+
+
+Object, Name in the scene
+Fuselage	fuse
+Left wing	wing_l
+Right wing	wing_r
+Tail	tail
+Rudder	rudder
+Left Rudder	rudder0 *
+Right Rudder	rudder2 *
+Elevator	elevator
+Left elevator	elevator0 *
+Right elevator	elevator1 *
+Left slat	lat_l
+Right slat	slat_r
+Left air brake	airbrake_l
+Additional left airbrake moving parts	airbrake_l#
+Right air brake	airbrake_r
+Additional right airbrake moving parts	airbrake_r#
+Left landing gear	gear_l
+Left wheel	wheel_l
+Right landing gear	gear_r
+Central landing gear	gear_c
+Central wheel	wheel_c
+Details of left landing gear strut	gear_l# ****
+Details of right landing gear strut	gear_r# ****
+Details of central landing gear strut	gear_c# ****
+Bomb bay doors and actuators	hatch#
+Engine #	engine#
+Propeller #, low rpm/static	prop01_#
+Propeller #, medium rpm	prop02_#
+Propeller #, high rpm	prop03_#
+Radiator doors and elements	radiator#
+Sliding/moving canopy parts	blister#
+Turret #	turret#
+Machine gun on turret #	gun#
+Flame from gun #	flare#
+Bomb hook object #	bomb#
+Rocket hook object #	rocket#
+Torpedo hook object #	torpedo#
+Bomb hardpoint #	pylon_bomb#
+Rocket hardpoint #	pylon_rocket#
+Torpedo hardpoint #	pylon_torpedo#
+Aircraft arrestor hook	hook
+Additional hook parts	hook#
+Jet flame object	jet_flame
+Additional jet flame objects (for aircraft with more than 1 engine)	jet_flame#
+
+*) – if the rudders are made of two unaligned parts **) – if there is only one flap positioned in the center (for example, on Yakovlev aircraft) ***) – if flaps have several parts on each wing ****) – all objects related to the landing gear, including landing gear doors # is replaced by natural numbers starting from 1. So we will have successive names like radiator1, radiator2, radiator3 etc. Hardpoints are named successively from left (left wing) to right. It is important to follow naming for pylons, because they are automatically hidden if the plane does not carry any payload.
+
+Local axis
+   Important notice:
+      The position of pivots and local pivot orientation must completely match on all LODs for an element.
+
+Local axis of rudders, aerodynamic surfaces, and propeller (Figure 34)
+The direction of the Y-axis is critical for aerodynamic control surfaces. Rudders, ailerons etc. Local Y-axes should be aligned with axis of rotation and oriented according to the following drawing:
+Y-axis orientation:
+rudder – up
+elevator, flaps – to the left of the direction of flight
+ailerons – toward the aircraft’s center
+props – forward for clockwise propeller rotation and backward for counter clockwise propeller rotation
+Propellers may have different spin direction for each engine on multi engined aircraft.
+X-axis – must be pointed forward in the direction of flight
+
+Local axis for landing gear wheels and struts (Figure 35)
+The Y-axis should be pointed to the left of direction of flight, along the axis of wheel rotation. Orientation is given for an extended gear state.
+Landing gear struts may have any local axis orientation since gear legs are animated in 3ds max.
+
+Turrets (Figure 36)
+For all objects: X-axis is along the shooting axis, Y-axis is pointed vertically. The pivot position and orientation for the gun itself and corresponding flares must match completely.
+Meaning that flare pivot is positioned exactly in the rotation point of machine gun/cannon.
+
+Bomb bay doors (Figure 37)
+Bomb bay doors must open along negative Y-axis.
+
+Flames from nose mounted guns
+The local X-axis is set along shooting axis for flames from gun barrels. Y and Z are arbitrary.
+
+Other objects (stationary)
+For other stationary objects, fuselage, wings, tail, etc. pivot must be located at world zero (0,0,0) and local pivot orientation must be aligned to the world. The best practice is to reset object transforms.
+
+The modeling of joint parts (null-polygons)
+When splitting an aircraft into separate objects many of the model's adjoining parts must retain their surface curvature (fuselage and tail, gear doors and bomb doors, wing fairings etc.)
+If objects are detached as is, then the curvature will be broken due to different vertex normals.
+
+Labels (Figure 37)
+
+from left to right
+Vertex normals match
+Vertex normals differ
+Vertex normals match
+Object 1 (Displayed in Blue)
+Object 2 (Displayed in Green)
+To avoid this undesired effect, edge polygons from each part should overlap.
+
+
+Labels: (Figure 38)
+
+Vertex normals match
+Object 1 (Displayed in Blue)
+Object 2 (Displayed in Green)
+
+These dummy polygons must have Material ID (1). (Figure 39)
+
+The null-shader will be applied to those polygons and they will not be visible in game but the curvature will be preserved.
+
+Animation
+    As a measure of precaution please apply Reset Scale and Reset Transform to all objects which do not require special pivot orientation before creating an animation.
+Objects to animate:
+
+landing gear struts, doors and mechanisms
+moving and sliding canopy parts
+flaps, air brakes, interceptors
+radiator flaps and related mechanisms
+arrestor hook
+bomb bay doors and actuators
+Animation is done only for LOD0. Animation should be made in the 0 to 100 frame range. A Note Track needs to be created in the “Track View - Dope Sheet” editor with keys start in frame 0 and finish in frame 100 for one of the objects. The game code reads the start and finish keys for playing the animation. Note Track for the external model is added to gear_l object. Please do not add note tracks to other objects.
+
+Only Linear Position, Linear Rotation and Linear Scale controllers are allowed for animated objects: (Figure 40)
+
+There should be no Euler or other controllers. And no constraints. (Figure 41)
+
+During the intermediate stages of animation creation process you can have any hierarchy and constraints you want. For example “LookAt” or “Orientation” constraints are particularly useful. It is difficult to create animation with linear controllers only. But in the end all animation for all animated objects should be baked. Leaving only the most simple controllers: linear motion, rotation and scale (very rarely). No hierarchy should be present. At frame 0 we have fully retracted/closed object animation. At frame 100 we have fully extended open object animation. Landing gear, doors, flaps e.t.c.
+
+
+Emitters
+Emitters are the spawn points for various aircraft related particle effects. Also they mark certain coordinates for game logic. Particles are spawned at the pivot point of the emitter. Emitters are provided with the sample model.
+
+emtr_inversion_l – for inversion trail streaming from the left wing
+emtr_inversion_r – for inversion trail streaming from the right wing
+emtr_shellrejection# – for shell casings discharge when guns are fired. Placed near shell discharge ports
+emtr_exhaust# – engine exhaust effects. Placed at the ends of exhaust pipes (end of jet nozzle)
+emtr_oil# – oil leak, oil burn effects. Placed inside of oil radiators
+emtr_fuel# – fuel leak, fuel burn effects. Placed on the surface of fuel tanks. Please see aircraft x-ray layout for fuel tank positions. Each fuel tank must have an emitter
+emtr_engine# – damaged engine on fire effects
+hook_catch – special emitter for aircraft carrier AI. Placed at the tip of the hook and parented to the hook
+emtr_break_wing_l_from, emtr_break_wing_l_to - mark left wing damage span
+emtr_break_wing_r_from, emtr_break_wing_r_to - mark right wing damage span
+emtr_break_tail_from, emtr_break_tail_to - mark tail damage span
+# is replaced by natural numbers 1,2,3.. etc. Multi-engined aircraft may have multiple emtr_engine, oil and fuel emitters. One set per each engine. If exhaust pipes are grouped together then 1 emitter for a group is possible. Please see reference model for particular emitter placement examples. Emitters must be present only in the scene LOD0.
+
+Materials (the order of material IDs)
+One Multi/Sub-Object material is assigned to almost all objects in the scene. With the following Material IDs:
+
+(1) - null - Sub-material for null-shader
+(2) - camo or body - Sub-material for primary textures
+(3) - glass - Glass (without the diffuse texture)
+(4) - slow_prop - Low-rpm propeller (prop02.tga)
+(5) - fast_prop - High-rpm propeller (prop03.tga)
+(6) - inside - Sub-material for structural framework texture (spars, ribs, stringers, caps)
+(7) - interior - Interior texture for large aircraft. Visible for all states. Not used for fighters
+(8) - antenna - Antennae
+Usually primary multi-sub material is called «aces». Different materials are allowed for separate reusable pieces of geometry like turrets, turret guns, bomb and flare hooks, jet flames etc.
+
+Important!
+
+Lowering the material count for LODs (textures/shaders used) is as important as lowering polygon count.
+LOD0 and LOD1 polygons may have all range of IDs for damaged and undamaged state
+LOD2 may have only primary camo ID (2); glass ID (3) and propeller ID (4) and (5) assigned to polygons. Null shader and polygons are not necessary starting from LOD2
+LOD3 must have primary camo ID2 only, assigned to all polygons Please make sure LODs use proper IDs.
+
+
+Textures
+Diffuse texture, normal map texture and specular map texture are used for a model. Separate texture sets for damaged and undamaged states.
+
+The diffuse texture for undamaged state should not have an alpha channel.
+The diffuse texture for damaged state has bullet and shell holes in the alpha channel.
+Specular map is placed in the alpha channel of a normal map texture.
+Some important notes about diffuse colors. It is better not to sample diffuse colors from photos and color profiles. Lighting conditions on different photos are different. And color profiles may sometimes be wrong. Instead use trusted sources with exact color information like US Federal Standard 595 colors. In many cases text information about aircraft paint is available. For example if an aircraft was painted ANA 606 Semi-Gloss Sea Blue you can always find corresponding FS color. In our case it will be FS 25042. You can open color server page and sample this color for use with your diffuse texture. Use FS standard for consistency and accuracy purposes.
+
+Rivets are 1 pixel in size. It is better to draw them in gray color and then overlay with opacity or layer blend effect if necessary. Rivets should be a little lighter on painted surfaces and a little darker on bare metal (Figure 42)
+Apply «Drop Shadow» or «Outer Glow» effect around rivets to create sheet metal recess effect around a rivet, since a normal map is not always clearly visible at certain angles. Paneling seams are also to be drawn 1 pixel wide with a brush to create anti-aliasing effect on tilted and curved seams. Please do not use vectors to draw lines. To prevent smearing (unless you use vector to pixel snap). Because when a vector is rasterized between pixels it will give us a blurred 2 pixel line instead of a sharp 1 pixel line. Keep in mind the materials used to make various aircraft parts, when creating textures, for example, the engine cowling and central fuselage section were mostly produced from aluminum sheet and were joined by rivets. These surfaces are usually uneven, with noticeable recess areas across the skin and around rivets and bolts.
+
+Wings and the rear of the fuselage were often made of plywood or fabric on a frame. Rudders were almost always covered with fabric with noticeable frame ribs and recessed fabric between them.
+
+There should be no bumps near the edges of elements wrapped in fabric. Because there is a framework beneath.
+
+Diffuse Texture
+The diffuse texture dimension for a fighter aircraft is 2048x2048 pixels.
+The diffuse texture dimension for a large bomber aircraft is 4096x4096 pixels.
+The «_inside» texture dimension usually range from 512x512 to 1024x1024 pixels. Fixed hardpoints are mapped from the primary texture. If an aircraft has detachable pylons which can be reused by other planes then separate texture is required. The size can vary from 256 to 1024 depending on the pylon size, aspect ratio of this texture may differ from 1x1 and be 2x1 for example which will result in non-square textures. Use aircraft texel for deciding upon the pylon texture size. Although it is allowed for pylons to have slightly higher texture resolution.
+
+A full set of textures for an aircraft will look like this:
+
+f3f_1_usn_a.tga
+f3f_1_usn_a_dmg.tga
+f3f_1_usn_n.tga
+f3f_1_usn_n_dmg.tga
+f3f_1_inside_a.tga
+f3f_1_inside_n.tga
+You can see the additional «_usn» postfix in the file name. It is required to describe camo scheme of the primary texture set. One model can have many paint schemes. Please pay attention that framework texture «_inside» lacks this additional postfix because it is shared with all camo schemes.
+
+Postfixes for texture names:
+
+«_c» postfix is for textures without alpha channel
+« _a» postfix is for textures with alpha chanel
+« _n» postfix is for normal map textures with specular map inside alpha channel
+A note about texture postfixes. Damaged and undamaged state textures must have same postfixes. The texture with alpha has a priority giving both textures an « _a» postfix. Even though undamaged texture is lacking the alpha channel.
+
+You can find and examine additional textures shared by multiple aircraft in the sample model archive. When using graphics software suite with layer functionality it is better to store diffuse, damage, normal map and specular maps all in one file. The resulting combined names will be (in case of Photoshop):
+
+f3f_1_usn.psd
+f3f_1_inside.psd
+The diffuse texture must not be «sterile». The texture for a battle-scarred machine should look worn. Paintwork can be off on wings where pilot climbs into the cockpit, scratches and chipped paint, dirt at panel overlaps, weapon and exhaust pipe smoke trails, oil streaks on the belly, etc., to emphasize that it is a combat vehicle with a high degree of artistic realism. All paneling on the aircraft should be emphasized both on diffuse, normal and specular map textures. hOWEVER, there should be no thick clearly visible seams:
+
+Bare metal (for chips and wear, as well as space around bullet holes) have to be within 90-120 RGB range.
+
+Normal and Specular Texture
+The normal map and specular maps are the same size as primary diffuse texture. Normal map uses RGB channels and Specular map uses an alpha channel. Normal maps in layered source files should be present as height maps before the NormalMapFilter conversion. Converted (blue) normal maps in layers are used for minor corrections only. Use filter default settings for height to normal map conversion: Min Z = 0, Scale = 8.
+The normal map Y (green) channel should not be inverted
+Convex parts should look as if they are «lit» from below in the green channel. Normal and specular maps are used to imitate mid-sized irregularities: crumpled metal surfaces, ribs, fabric recess, paneling and riveting. Please note that specular of painted metal, wooden, and fabric surfaces is almost the same, because they all share the same paintwork. Specular map must emphasize paneling and riveting. They have to be visible in highlight.
+
+Based on previous experience following brightness values are recommended for the specular map:
+Primary surfaces (paintwork): K~65% (~110 RGB)
+Bare metal (chips, wear) K~20-40% (170-210 RGB)
+Rivets (brightest pixels): K~55-60% (120-135 RGB)
+Please remember, that chips on wooden surfaces do not have as much specular compared to metal.
+Tips for users with advanced graphics software suites
+It is better to have 4096x4096 pixel resolution for your primary texture sources. When saving out to targas for in game use you can rescale them to 2048 for fighters. For high end graphics suite users (ex. Photoshop) you would want to keep the size of *.psd files low. Lower file sizes are more convenient to work with. Try to stay under 1GB for a 4k texture. Primary size eaters are the ordinary layers with masks. Using them on every occasion can increase the size of the file dramatically in no time. Use masks with care and only where really necessary. It is advised not to use 4k masks just to change the transparency of several pixels on a layer. Solid color fills with masks are ok. They are not size eaters. Camo schemes are best done using solid color fills with a mask. Keep reasonable layer count so any element of the texture is easily editable. Not too many but not too few. Textures must have sensible names depending on the aircraft you are doing.
+
+
+Layer name suggestions: uv – rendered UV template goes here. Should be the topmost layer. Hidden by default. Layers with base camo colors may have FS color number in the beginning. And the basic description what this color is for.
+
+fs37875 inside
+fs37875 belly
+fs35164 camo
+fs25042 primary
+The rest of the layers must have sensible names which are easy to understand. For your convenience.
+
+smoke gun 0.5cal
+smoke exhaust
+decal fin flash
+decal wing stars
+Using the default layer names Layer 1, Layer 2 etc. may become uncomfortable in the long run.
+
+Suggested layer groups:
+
+dmg or damage – for battle damage holes
+s – specular
+n – normals
+ao – rendered ambient occlusion
+lines – rivets and paneling
+text – text and insignia layers
+dirt – dirt layers
+volume – hand painted light/dark volumes
+decals – identification marks and service labels
+cockpit – cockpit parts
+color or c – base colors and paint schemes
+You can group diffuse colors together for a certain camo scheme:
+color_usn
+color_usmc
+color_usn_neutrality
+Postfixes depend on the paint scheme you are doing.
+
+It is better not to rasterize text layers. So that you can correct them anytime without the need of retyping anything from scratch.
+
+Damaged state texture
+When part of an aircraft is damaged then regular textures are swapped with their damaged «_dmg.tga» counterparts. This texture is fairly easy to do. Having mastered this step it can be done within several hours together with normal and specular maps. «_dmg» postfix is added to the regular texture name. The resulting file names will be the following format: la_5_c_dmg.tga for diffuse and la_5_n_dmg.tga for normal maps. The damaged texture is the same as the standard texture, Only holes from bullets and damage from other explosives are added.
+
+
+Important!
+
+It is advised not to make any additional layers of dirt or other wear and tear inside the damaged layer group. Only the battle damage should be there. The difference between damaged and undamaged states must be ~ 20-30%, because of holes. Check in advanced image editor (with layers) if everything is ok by putting collapsed damage texture over the undamaged one with «Difference» layer blend mode. Everything except the holes must be black. Since aircraft dimensions are different and the texture size is usually the same 2048x2048 for differently sized aircraft, please make sure that absolute size of holes stays the same. I.e. holes on small aircraft are not too small, and holes on large aircraft are not too large. Keep in mind absolute size and texel.
+
+Bullet holes should be roughly 15 to 30mm in diameter.
+Holes from explosive shells should be ~ 250-400mm.
+Please do not forget to add hole transparency into the alpha channel. Transparent holes are usable in places where internal structure is done and visible: wings, stabilizer, rudder. Alpha-cut holes must not be made where internal parts do not exist. Usually it is cowling, mid fuselage and space around wing mounted guns. Although you can model any internals you would like. Please do not overuse large explosive shell holes. One or two large holes per each aircraft part is enough.
+
+Important: It is necessary to ensure that the damaged textures do not have bullet holes in the areas where separate parts are joined together (fuselage, tail, and wings). Otherwise when one part changes its state from undamaged to damaged and the other is not we will see only half of the hole.
+On the damage texture additional chipping to bent metal propeller blades may be added.
+
+
+Ambient occlusion
+An ambient occlusion layer must be rendered for a model. To have nice ambient shadows. You can use mental ray Renderer for these purposes. Select Ambient Occlusion (MR) when adding a component in the Output section of Render To Texture dialog. Use Edge Padding of 2 pixels. Following mental ray parameters are suitable for a good render:
+
+Samples = 96 or more
+Falloff = 10,0
+Do not forget to switch to mental ray renderer in the Render Setup dialog window (F10).
+
+Ambient occlusion must be rendered against a white background. In advanced graphics editor use «Multiply» layer blend and place the «ao» layer group on top of the layer stack. Play with opacity as you see fit to get a good looking result.
+Please note that there will be static shadows rendered in places where we do not want them to be. On rotating wheels for example. Keep this in mind. Such places on rendered AO have to be adjusted manually. The following trick might ease this task a little. You can have multiple opaque AO layers: the initial one and correction layers on top of it. Without any transparency. Then you can change the opacity of a whole «ao» layer group to get desired look.
+DM modeling
+Damage Model of an aircraft is a low poly representation of aircraft hull and internal systems. It consists of geometry objects and clipping points. Geometry objects are used in hit calculations. Clipping points are used to calculate intersections with terrain and other objects and follow aircraft contours.
+Each DM object (shell and internal parts) must have «_dm» suffix added to their names. Objects do not have to be convex because hit calculations are polygon based. This is good for modeling internal parts which may have complex shapes. Also a single object can consist of separate mesh sub-objects. For a typical fighter aircraft the DM polygon cap (excluding clips) is 3-5K triangles. For a typical bomber the cap is 4-6K triangles.
+
+Clipping points for different aircraft parts have respective names.
+
+Fuselage clips are placed at extreme points of the fuselage and on its surfaces. Several clips are placed on wings roughly where emtr_break_wing_#_from emitters are located. Usually at the ends of “wing_l_dm” and “wing_r_dm" parts.
+
+Important notice:
+
+There should always be a root clip object _Clip present in the scene at world [0,0,0] coordinates. Pivot of any _Clip# object should be at its center.
+The numbering of _Clip# objects inside the group (fuse, wing etc.) must be continuous.
+Otherwise clipping planes will not build properly and collision with ground will have artifacts.
+
+
+Valid clip names and locations are:
+
+Clip name, Clip location
+_Clip	scene root [0,0,0]
+_ClipCGear	central wheel (tail or nose) lowest point. Or at the rear of the central float on the waterline
+_ClipLGear	left wheel lowest point
+_ClipRGear	right wheel lowest point
+_ClipNGear	additional clip for central float (float planes) at the front of the central float on the waterline
+_ClipHookRoot	arrestor hook hinge
+_ClipHookEnd	at the extended arrestor hooks end
+_Clip## (from 00 up to 50)	fuselage perimeter
+_Clip_prop_1_## (from 00 up to 08)	prop_01_1 at the prop blade tips
+_Clip_prop_2_## (from 00 up to 08)	prop_01_2 at the prop blade tips
+_Clip_prop_3_## (from 00 up to 08)	prop_01_3 at the prop blade tips
+_Clip_prop_4_## (from 00 up to 08)	prop_01_4 at the prop blade tips
+_Clip_tail_## (from 00 up to 20)	tail perimeter
+_Clip_wing_l_## (from 00 up to 20)	left wing perimeter
+_Clip_wing_r_## (from 00 up to 20)	right wing perimeter
+
+Valid DM part names are:
+
+
+DM part name, Description
+External shell	
+cover#_dm (1 to 16)	parts like canopy, radomes, nacelles
+engine#_dm (1 to 4)	aircraft engines
+fin_dm	single tail fin config
+fin#_dm (1 and 2)	double tail fin config
+fuse_dm	primary fuselage part (must always be present)
+fuse#_dm (1 to 5)	additional fuselage parts
+stab_dm	horizontal stabilizer
+stab#_dm (1 and 2)	additional h-stab parts
+tail_dm	primary tail part
+wing_l_dm, wing1_l_dm, wing2_l_dm	left wing parts. all 3 must be present
+wing_r_dm, wing1_r_dm, wing2_r_dm	right wing parts. all 3 must be present
+Stationary inner parts	
+armor#_dm (1 to 10)	armor parts. glass or metal
+cannon#_dm (1 to 8)	forward firing cannons
+gunner#_dm (1 to 12)	turret gunners
+mgun#_dm (1 to 12)	forward firing machine guns
+oil#_dm (1 to 8)	oil radiators and reservoirs
+pilot_dm	pilot
+pilot1_dm	co-pilot
+spar_l_dm, spar1_l_dm, spar2_l_dm	left wing primary framework. all 3 must be present
+spar_r_dm, spar1_r_dm, spar2_r_dm	right wing primary framework. all 3 must be present
+tailcontrol_dm	rudder and elevator control wires
+tank#_dm (1 to 9)	fuel tanks
+water#_dm (1 to 8)	water radiators and reservoirs
+wingcontrol_dm	shared control wires
+wingcontrol_l_dm	control wires going through the left wing
+wingcontrol_r_dm	control wires going through the right wing
+Moveable parts	
+aileron_l_dm	left aileron
+aileron_r_dm	right aileron
+elevator_dm	primary elevator part (single elevator config)
+elevator#_dm (0 to 2)	double/triple elevator config
+rudder_dm	primary rudder part (single rudder config)
+rudder#_dm (0 to 2)	double/triple rudder config
+flap_l_dm	primary left flap piece
+flap#_l_dm (1 to 3)	additional left flaps pieces
+flap_r_dm	primary right flap piece
+flap#_r_dm (1 to 3)	additional right flaps pieces
+gear_c_dm	nose or tail wheel assembly
+gear_l_dm	left gear assembly
+gear_r_dm	right gear assembly
+gun#_dm (1 to 12)	turret gun
+
+On moveable parts (see table) please align DM object pivots to their LOD0 visual counterparts. So they can move the same way.
+
+Dagor Tools
+Object Properties Editor
+Object properties required for game engine are set with the Dagor “Object Properties Editor” which can be found in 3ds max; Utilities tab. Select Configure Button Sets and add it as a button to utilities panel.
+
+Please set properties for each object that is to be exported. You can set properties for multiple objects at once if they share the same.
+
+Assigning Dagor materials and shaders
+Game materials DagorMat2 with proper shaders have to be assigned to a model prior to export. You can bulk convert all Standard materials assigned to scene geometry to DagorMat2 format using “Dagor Utility”.
+
+It is located in Utilities tab and can be assigned to a button as well.
+Click on the Standard button inside the material editor.
+
+In the “Dagor Utility” Materials tab press “StdMat -> DagorMat” (1) to convert all assigned standard materials to a previous generation DagorMat material. Then press “Dagor -> Dagor New” (2) to convert DagorMat to DagorMat2. Diffuse texture links are preserved during the conversion. “aces_weapon_fire” shader is used by default in the DagorMat2 material. You can change it later depending on the object purpose or surface type. Also you can switch to DagorMat2 material manually.
+
+And choose Dagor Dagorrat Material 2 material.
+
+Here are examples of common shaders and settings used with Dagor2 materials. For ID (1) null material, which is used by null-polygons, we have “dynamic_null” shader with no textures assigned.
+
+Primary texture ID (2) camo material has “dynamic_masked_chrome_bump” shader. It has a diffuse texture, cube map environment texture and combined normal/specular texture inputs.
+
+ID (3) glass material uses “dynamic_glass_chrome” shader with only a cube map assigned. It also can have some additional adjustable parameters which are used to control reflections and overall opacity. These parameters can be added by “Add” button under the “Emissive:” color swatch. Usually only opacity is to be added and adjusted. Other settings are kept at their default values. Diffuse color swatch can also be tweaked to colorize glass (to a certain extent).
+
+Next typical material is for the “_inside” texture, which utilizes alpha channel. Please note that it has special “atest = 127” parameter which cuts pixels with brightness 127 and below in the alpha channel to make these areas completely transparent. This parameter has to be added to material in order to display alpha channel in the “dynamic_masked_chrome_bump” shader.
+
+A shader called “dynamic_alpha_blend” is used for objects like antennae or wire bracing. It can show smooth alpha transitions in the 0-255 range by default and typically uses only diffuse texture with an alpha channel as input.
+
+Gunfire material for muzzle flashes uses “aces_weapon_fire” shader and flipbook gunfire texture for input (provided with the sample scene).
+
+In order to use the model in game it has to be exported from your 3d application into appropriate folder using “Dagor Scene Export” tool (1). This tool is also located in the Utilities tab. The model is exported into *.dag geometry files and *.a2d animation file.
+
+Naming convention for exported files is following:
+%aircraft_name%.lod#.dag - files for your aircraft lods
+%aircraft_name%_anim.a2d - animation file
+%aircraft_name%_dm.a2d - file for dm parts
+Complete set of files for a chosen aircraft will look similar to this:
+f2h_2.lod00.dag
+f2h_2.lod01.dag
+f2h_2.lod02.dag
+f2h_2.lod03.dag
+f2h_2_anim.a2d
+f2h_2_dm.dag
+Objects in the following layers have to be exported to corresponding *.dag files. Only visible objects inside of these layers are exported by default.
+
+*.lod00.dag: GUN LOD0 nodes_gunner pilot prop_side
+
+*.lod01.dag: GUN LOD1 prop_side
+
+*.lod02.dag: GUN LOD2 prop_side
+
+*.lod00.dag: GUN LOD3
+
+*_dm.dag DM
+
+
+Geometry is exported by pressing “Export DAG” button (2). The file dialog appears and you may save *.dag files where you need them. Object types to be exported are listed under the button and are set correctly by default.
+
+Animation keys are also exported for objects currently visible in the scene so it is a good idea to unhide LOD0 layer and hide everything else before exporting the animation. Animation is exported to *.a2d file in the same folder as your *.dag files. Please make sure animation range checkbox is checked and the range is from 0 to 100 frames. Right below the animation range are thresholds for key optimizations during export. Most notably the position “~pos:” and rotation “~rot:” thresholds are important. Position is measured in your current system units. Rotation is measured in degrees. These values show the amount of change necessary to save out a key if there is one. Default values are used most of the times. If you have undesired animation behaviour in the exported model you may try to lower these values.
+
+
+
+
+Several warning messages may appear during the export process.
+
+The model has degenerate triangles
+Pieces of geometry have no smoothing groups
+Some parts in the model to be exported are lacking DagorMat2 materials
+All of these warnings are written down into the “Export Log” window (4) for each of the object in question. You may want to copy the contents of this window to a text file for convenience.
+
+Degenerate triangles are faces with 0 surface area. It is best practice not to have triangles with surface area less than 1 mm squared. If 3 vertices forming a triangle belong to the same object and share same position this triangle is counted as degenerate. Please weld such vertices with small thresholds. As stated previously all surfaces of the model must have smoothing groups assigned. This will solve the second warning issue. As for missing materials please make sure that you export only geometry mesh objects with DagorMat2 materials assigned to those objects. Helper objects or splines in the scene may result in such a warning. The final scene to export must contain only mesh objects with Dagor2 materials assigned.
+
+download guide link:
+https://cdk.warthunder.com/docs/aircraft_tr_en.pdf
+
+Checking 3D model of the aircraft in game:
+Exporting aircraft model
+To check in the game the aircraft model you created you should:
+
+Create a folder in <game directory>\WarThunderCDK\develop\assets\gameres\aircrafts\<your aircraft's name>
+Put all the textures required for your aircraft in the folder (see. model requirements)
+Export all the LOD's of undamaged and damaged plane's condition in DAG format to this folder.
+Tip: by default you need 4 lods with names <aircraft name>.lod0X.dag, <aircraft name>_dmg2.lod0X.dag where X is LOD's number, from 0 to 3, but amount of levels of detalization as well as their filenames can be changed in .folder.blk or in special file <your aircraft name>.dynmodel.blk and <your aircraft name>_dmg2.dynmodel.blk
+Export collision models and penetration models with the name <your aircraft name>_dm.dag. Similar you can change this names in .folder.blk or in <your aircraft name>_dm.aces.blk
+If aircraft has special animations, then you need to load animation in A2D format: <aircraft name>_anim.a2d
+Then you should start AssetViewer - program to view and export models to the game. If you see that model looks fine and after you make sure that console displays no error messages, in program menu (or context menu of your aircraft's folder ) select Export All
+
+Preparing aircraft for the flight
+In folder <game directory>\content\pkg_user\gameData\flightModels\ create a file <aircraft name>.blk, add parameter model:t= name of your aircraft's model. SAmple of such file and its settings you can find in War Thunder CDK package.
+Now in folder <game directory>\UserMissions you should create or change one of the existing missions, adding your aircraft as player's aircraft.
+In Menu -> User Missions choose this mission and if everything was done right you will see your aircraft flying in game
+
+If your aircraft has cockpit
+To create cockpit you should create a separate modelm which you should upload to <game directory>\WarThunderCDK\develop\assets\gameres\cockpits\<your aircraft name>.
+Undamaged condition, damage condition _dmg2, and animations are uploaded from 3ds Max' similar to the name <aircraft name>_cockpit.lod00.dag, <aircraft name>_cockpit_dmg2.lod00.dag and <aircraft name>_cockpit_anim.a2d.
+Detalization levels and collision models are obviously not needed.
+Config file of the aircraft should have block cockpit{} or near config file there should be a file <aircraft name>.cockpit.blk with this block (sa,ple is in WarThunderCDK package).
+
+Adding cockpit to already existing aircraft
+To add cockpit to already existing aircraft do the following:
+
+Create cockpit modelСоздать модель кабины (see. Technical Requirements for cockpit models) and export it to the game from assetviewer.
+Create a file <game directory>\content\pkg_user\gameData\flightModels\<internal aircraft name>.cockpit.blk
+Sample of such a config file is in WarThunderCDK package
+Notes: You can get a list of internal aircraft names using mission editor which you can find in War Thunder CDK package.
+You can create cockpits only for aircraft which do not have cockpit in the game yet.
+
+Creating a 3D tank model:
+Introduction
+The result of our work in this file will be a *.max format model and a set of baked textures, each corresponding to the passport (provided materials for the model’s historical accuracy) and to this technical specification. In addition, a separate *.max file with a scene for AO baking, normal maps and ColorID maps from high poly to low poly.
+
+This document describes the creation of a tank or SPG (Self-Propelled Gun). But all the requirements, pipelines, naming rules, resource hierarchies, file structure and so on also apply to other player-controlled ground units.
+
+As an illustrative example, will soon be provided for download.
+
+Model
+The final *.max file will contain a tank, damaged tank parts, additional invisible supportive geometry, nodes and bones:
+
+A model of a whole, undamaged tank with four LODs
+Damaged parts with four LODs (DMG)
+Invisible geometry for calculating hits and damage to the tank’s armor and damaged modules (crew members, engine, fuel tanks, etc.) (DM)
+Supportive nodes for orientating particles and affixing additional modules (tankers, machine guns, machine gun mounts)
+Bones for procedural and physical animation
+Geometry for visualizing hits, damage (XRAY)
+Textures
+A tank usually has four texture packs:
+
+the hull
+the turret
+the gun and gun mantlet
+the tracks
+In some cases, if a specific tank has no modifications available or if parts of the tank are inseparable (the hull and turret of certain SPGs, for example), we ‘merge’ the textures into a single map. But if several SPGs use one and the same undercarriage, then we lay out this undercarriage in a separate, shared texture and nominally consider it a hull, and the entire part of the hull that is above the undercarriage we lay out in separate, unique textures and nominally consider them turrets.
+
+Each individual case is agreed on in advance.
+
+UV mapping
+The greater part of the tank has two texture coordinate channels. The second UV channel is used for placing a camouflage tile on the tank. In principle, only one part of the tank can lack the second texture channel – the tracks. The final version of the second texture channel is made in one of the last phases of model creation – when all the geometry is done in all states and all LODs. Important! In texture mapping on tracks, a tile from 7 to -7 is allowed. In most cases, the full-height tracks do not fit; they have to be broken into two-three segments and the offset of the edge segments of the tracks must be altered with the help of a UVW Xform modifier, so that they don’t exceed their maximum and minimum values.
+
+General requirements for scene
+
+The final scene must be in a *.max file for 3DSmax2015.
+The model must have a real scale in metric measurement units.
+ System Units = Meters.
+ 1 Unit = 1 cm. 
+The tank’s rotational center is at the center of the world (center of the area at the bottom border of the tracks).
+The movement’s tank direction in the *.max file must be on the X axis.
+The tank’s tracks ‘sink’ by 2 cm in height from the level of the center of the world. I.e. the tank stands on the earth on its tracks, not its wheels.
+There must not be modifiers on any objects (objects must be Editable Poly). Objects participating in animation are exceptions, such as antennae or tracks with the Skin modifier.
+Machine guns do not need to be modeled. They are sent along with the passport. They merely need to be placed.
+All objects must have a scale = 100, 100, 100 (use Hierarchy/Reset Scale).
+All objects must have a scale = 100, 100, 100 (use Hierarchy/Reset Scale).
+All individual parts of the tank and modules: turrets, guns, lights, fuel tanks, boxes, covers on exhausts, inventory (shovels, picks, jacks, etc.), lighting implements, track chains, wheels, etc. must be separate objects.
+All objects of the ‘skeleton’ layer must have a block specified in ‘object properties’.
+ renderable:b=yes
+ cast_shadows:b=yes
+ normals:t="disable"
+ dir:p3=0, 0, 0
+ cast_on_self:b=yes
+ unwrapScheme:i=0
+ collidable:b=no
+ collision:t="box"
+ phmat:t=""
+ massType:t="none"
+ preferMass:b=yes
+ mass:r=-1
+ density:r=-1
+ animated_node:b=yes
+ billboard:b=no
+ occluder:b=no
+In objects of the DM and XRAY layers
+
+ className:t="aces"
+ animated_node:b=yes
+All objects that can fly off (with the prefix ex_ and the suffix _dstr), wheels, and suspension must be registered in all layers. animated_node:b=yes
+
+Node axes
+For all objects except hatches, direct the axis X along the movement direction and Z upwards.
+For hatches, the X axis is the rotational axis, the Y axis is along the same surface as the hatch, and the Z is inside the hull.
+For all the tank’s elements and nodes, the pivots are located at the object’s rotational center, if the object rotates (wheel, turret, gun, frontal machine gun mantlet, etc.).
+For all nodes apart from particle notes and rotating objects, direct the axis X along the movement direction and Y upwards.
+For all supportive nodes for affixing particles, the X axis is the direction of movement of the particles.
+For machine gun attachment parts, place the axes at their rotational center.
+
+Important! The axes and coordinates of all parts with identical names must correspond in the undamaged model, in the damaged one (DMG), and in the geometry for calculating modules (DM). This is necessary so that when replacing a damaged fender with an undamaged one, for example, the position and rotation of the tank’s parts don’t change.
+
+Naming files, resource hierarchies
+File names must begin with a lower case letter. The tank’s name is provided with the passport. Example: m4a2_sherman_1944.max Space marks cannot be used, only underscores. Dashes and hyphens cannot be used, only underscores. Try not to use enumeration. Only use it where it is really necessary – when you have many parts that do not functionally differ from each other and do not particularly influence gameplay.
+
+General provisions for enumerating files and objects inside the *.max: if you use a numerical order, then be sure to use a two-digit value! For example ex_armor_07 is an object inside a *.max file, a piece of external add-on armor, one of many others.
+
+Tank shaders
+dynamic_masked_tank – shader for base objects (body, turret, gun, additional objects on the tank)
+dynamic_tank_atest – shader for tracks (for the right track: texoord_anim -1, for the left: 1)
+dynamic_tank_atest – shader for objects with alpha test.
+dynamic_pbr_glass – shader for light glass.
+dynamic_masked_chrome_bump – shader for lightbulbs and light reflectors.
+dynamic_masked_chrome_bump – shader for barrel rifling.
+gi_black – shader for all objects in the DM layer
+hatching – shader for all objects in the XRAY layer
+
+Building a *.max file and geometry requirements
+Building a *.max file and naming objects
+
+All objects in the *.max file must be in the correct layers. Our final file universally contains the following: Geometry of the tank with four LODs. Geometry of damaged parts with four LODs (DMG). Supportive geometry for calculating damage (DM). Nodes for binding effects, additional modules, animation of tracks and antennas. Supportive geometry for visualizing hits (XRAY).
+
+All supportive nodes and bones for animation lie in a separate layer: skeleton.
+
+Names of objects with visible geometry in the file:
+Object, Object Name
+Hull	body
+Turret	turret
+Mobile part of gun (animation with recoil from shot)	gun_barrel
+Gun mantlet	gun_mask
+Machine gun mantlet	mg_mask
+Hatches	hatch
+Track	track
+Antenna	Antenna
+Lamps, headlights, spotlights	ex_lantern
+External static mortar, grenade launcher, mine launcher	ex_mortar
+Pieces of external decor influencing the armor level. Such as spare tracks, sandbags, boards, add-on armor screens.	ex_armor
+External spare fuel tanks	ex_fuel_tank
+Pieces of external decor that do not influence the armor level and do not have any effect on gameplay functions (shovels, picks, buckets, etc.)	ex_decor
+Wheel, roller (more detail in the subsection Wheels and undercarriage).	wheel
+Mobile element of the undercarriage (more detail in the subsection Wheels and undercarriage).	suspension4
+Smoke generators	ex_smoke
+If the file contains several objects of a single type, and separating them into left-right is important, then add suffixes (with the exception of hatch):
+
+ _r – for objects on the right side of the tank
+ _l – for objects on the left side of the tank
+This is important for tracks, for example:
+
+ track_r, track_l
+If the file has several objects of a single type, add an ordered number on the end. If possible, number them from front to back based on the tank’s direction of movement. For example, a multi-turreted tank will have the turrets:
+
+ turret_01, turret_02
+If the tank has several turrets, then the enumeration of the guns and gun mantlets must correspond to the enumeration of the turrets. If the tank has external engines or lights, that means they will be separate detachable modules. At the same time, they participate in the game process and their names must indicate their position.
+
+Firstly, if they are on the hull and the turret, this must be reflected in the title. Secondly, their position based on the tank’s direction of movement must be indicated (r or l), and thirdly – they must be numbered. Based on these requirements, mortars and lights will be numbered like so:
+
+ex_mortar_turret_r_01
+ex_mortar_turret_r_02
+ex_mortar_turret_r_03
+ex_mortar_body_r_01
+ex_mortar_body_r_02
+ex_mortar_body_r_03
+If this tank had one light or spotlight on the turret roof, it would be called: ex_lantern_turret , while a light on the body would be: ex_lantern_body Lights located on the front end of the tank are called ex_lantern_01, ex_lantern_02, etc. Lights located on the rear end of the tank are called ex_lantern_b_01, ex_lantern_b_02, etc.
+
+In the case of decor elements (ex_decor), objects in one file can be simultaneously named either with the suffix _r or _l or without a side indication. The logical differentiation is this: if the decor is on the side and at the same time has a brother on the opposite side, then there is a suffix. If the object has no symmetrical relative, then there is no suffix. For example:
+
+The Tiger’s fenders are called: ex_decor_l_01 and ex_decor_r_01
+
+But its shovels and so on on the hull around the turret are: Ex_decor_01
+
+Important notes on names:
+
+The names of all objects consist of lowercase letters, do not use uppercase.
+Do not use space marks – only underscores.
+In the names of objects whose locations do not particularly matter (inventory such as shovels and jacks, for example), there is no need to use suffixes to indicate their location on the tank (r or l). It is enough #to simply enumerate them.
+The names of nodes must strictly match for all LODs and all states in all layers – i.e. the tank’s turret must be called ‘turret’ in all layers, regardless of which LOD it is.
+Any potential deviation from the naming system must be discussed.
+Wheels and suspension:
+
+Each wheel and all mobile parts of the suspension must be separate objects with pivots and a center of the rotational axis.
+Names for wheels and suspensions must be written like so: a wheel is called wheel, and a suspension is called suspension.
+All wheels and the suspension must have the suffixes _r_ and _l_ for each side of the tank. For example: wheel_r_01 is a right wheel, and wheel_l_01 is a left wheel.
+Numbering increases in ascending order from the front of the tank to the rear.
+The numbering of lower track wheels, supporting wheels, and suspension may differ. In other words, it may happen that one suspension has two wheels at once. In this case, suspension_r_03 will have the wheels wheel_r_05 and #wheel_r_06.
+The wheels from the upper row, which the track ‘slides’ along in the opposite direction, have the suffix _top_ and the same numbering as the roller wheels: wheel_r_top_04 is the upper wheel on the right side and the fourth #in the row.
+If the wheel is a drive wheel, use the suffix _drive instead of a number. For example, wheel_r_drive is a drive wheel on the right side.
+If the wheel is a trailing wheel if looked at from the front of the tank to the rear, but is not a drive wheel, give it the suffix _back. For example: wheel_r_back is the last in order, non-drive wheel on the right side.
+If the wheel is the first in order from the front of the tank to the rear, but is not a drive wheel, give it the suffix _front. For example: wheel_r_front is the first in order, non-drive wheel on the right side.
+Bones. Animation skeleton
+When we talk about linking objects to bones or to each other, we always mean that this hierarchy should be maintained in all LODs, i.e. in all layers.
+
+Bones lie in the separate skeleton layer.
+
+The names of all bones apart from the root bone begin with the prefix bones_. If necessary, they can end with an ordered number – if For example:
+
+ bone_wheel_r_01_01
+this is the bone responsible for animating vertices on the track right below the wheel
+
+ wheel_r_01_01
+The overall structure of the tank’s skeleton looks like this:
+
+Bone function, Bone name
+Root bone. Located at null coordinates in the file, turned on axis X by axis X in the direction of the tank and axis Y upwards.	root
+The bone to which the turret and all its parts are linked is located in the turret’s center of rotation and turned by the X axis precisely along the direction of the turret, and by the Y axis upwards. I.e. if the tank’s turret is on the side, aiming to the side instead of toward the tank’s direction of movement, then the X axis will also ‘look’ in the same direction. This bone is a child of the root bone.	bone_turret
+The bone to which the gun mantlet, twin machine gun and all other parts animated along with the main gun are linked. Located at the main gun’s center of rotation. Turned by the X axis in the direction of the gun, and by the Y axis upwards. This bone is a child of the root bone.	bone_gun
+The bone to which the gun barrel is linked. Participates in the animation of the gun’s recoil when firing. In the center of the cylinder somewhere near the base of the gun. Turned by the X axis precisely in the direction of the main gun and by the Y axis upwards.	bone_gun_barrel
+A bone for attaching a mounting under a machine gun.	bone_mg_mount
+A root bone for procedural physics animations at the base of an antenna.	bone_antenna
+A bone at the end of an antenna for procedural physics animations. Attached to the antenna root bone.	bone_phx_antenna
+
+If certain bones are procedurally animated according to physics (as with a bone at the end of an antenna), then we add a clarification after the _bone suffix: _phx Cases when we use procedural physics animation:
+
+antennae
+upper overhanging part of track
+cloth/canvas cover on the gun mantlet
+springs (on suspension, on gun), but only those which move in time to the movement of the tank or gun.
+Important! For physical animation, you must have a vector along two bones – from the procedural rotational base to the end. I.e. create two bones for each part which has a physics animation. The root bone in this mini-hierarchy has no _phx suffix, only the last bone does. We do not plan to have more than two bones to animate a single object.
+
+Bone hooks for attaching machine guns:
+Bone function, Bone name
+Twin machine gun.	bone_mg_gun_twin
+Machine gun in tank body.	bone_mg_body
+Machine gun in tank turret, not twinned with main gun.	bone_mg_turret
+Node for animating a single machine gun. Hinged system, i.e. a solid mantlet that rotates on all axes.	bone_mg_body_mask_sphere
+Node for animating a single machine gun. The part of the mantlet that moves vertically.	bone_mg_body_mask_v
+Node for animating a single machine gun. The part of the mantlet that moves horizontally.	bone_mg_body_mask_h
+
+The last three bones have _body_ in their name. If an untwinned machine gun is in the tank’s hull, but is a frontal machine gun on the tank’s turret (for example on the IS-2), then the location specification will be _turret_ instead of _body_. Bones can be enumerated when necessary if there are several turrets. Or if there are several frontal machine guns.
+
+EMTR Supportive nodes for attaching particles and additional external modules
+In places where effect emitters will be created during movement, supportive nodes must be created in 3DSmax. In our case, these are bone objects. The nodes must be directed along axis X in the direction of the particles’ movement.
+
+The node’s function will be tied to the function of the object to which the node is attached, but sometimes they are independent. Hence the requirement: dependent nodes must carry a link to the object to which they are attached in their name. Independent nodes must be named by their function and numbered.
+
+Function and names of dependent nodes:
+Node function, Node name
+Main gun shot	emtr_gun_flame
+Mortar shot	emtr_mortar_flame
+Machine gun shot	emtr_mg_flame
+Light from a lantern or spotlight	emtr_lantern
+A trail of fire and smoke from a blown-off tank part	emtr_<part name>_explosion
+
+- if the parent of the dependent node has a number in the title, the node copies it.
+Function and names of independent nodes:
+
+Node function, Node name
+Exhaust smoke	emtr_exhaust_01(02,03 etc. if there are several exhaust outlets)
+Fire in the engine compartment	emtr_fire_engine
+Fire outbreak in ammo rack	emtr_fire_ammo
+Ammo rack explosion center, full destruction of tank	emtr_explosion_center
+Fire on destroyed tank	emtr_fire_dmg
+Small source of fire on destroyed tank	emtr_fire_small_dmg
+Smoke on destroyed tank	emtr_smoke_dmg
+Small source of smoke on destroyed tank	emtr_smoke_small_dmg
+Fire on torn-off external fuel tank	emtr_<name of fuel tank>
+
+Function and names of track nodes:
+Node function, Node name
+Dirt flying backwards from underneath the right track when moving forwards.	emtr_track_r_back_bottom
+Dirt flying forwards from underneath the right track when moving backwards.	emtr_track_r_front_bottom
+Dirt flying backwards from above the right track when moving backwards.	emtr_track_r_back_top
+Dirt flying forwards from above the right track when moving forwards.	emtr_track_r_front_top
+
+We use the same ones for the left track, simply with _l_ instead of _r_. All supportive modes for attaching emitters must be linked to objects based on a logical hierarchy. I.e. if this node turns with the turret, gun or other object – it is attached to it. If the node is responsible for attaching a smoke or fire emitter on a part of the tank that can be blown off, the node is attached to this dmg object.
+
+EX Decorators, external modules
+All external elements of the tank that can be shot off by a machine gun or main gun must be separate objects and their names must start with the prefix ex_.
+
+If the element is tilted (for example a shovel) then the object’s pivot must correspond to the angle of tilt.
+
+The types of these elements and the rules for naming them are described in the section “Names of objects with visible geometry in the file”.
+
+Each of these objects has its own dm and dmg model.
+
+DM Supportive geometry for calculating hits, damage
+Apart from the tank, the final *.max file will contain a geometric pattern that we use to calculate hits on the tank – the Damage Model, or DM.
+
+Since players can see this geometric pattern, it is very important that all angles correspond to the tank’s passport data.
+
+Each individual object has its own corresponding DM. List of names for all modules in a separate file
+These are simplified objects.
+
+Principle of creating geometry
+
+Make a geometric pattern primitive in shape that repeats the main contours of the tank. For the tank’s hull and turret, you can take the first LOD and cut it into pieces. It is very important that the armor angles are the same as in the vehicle’s passport and schematics.
+Name these objects the same as the objects to which they correspond, but with the suffix *_dm. For example, for the object wheel_l_1, the DM will be called wheel_l_1_dm, and the body object’s DM will be body_dm. Included is a file of names that can be used for the DMs of tank parts.
+The thickness of the armor in the hull, turret and gun differ in terms of area, and we need to show this in the DM. The hull, turret, gun mantlet etc. must be cut into pieces. The cuts must be made based on the thickness indicated in the passport.
+Name all the resulting pieces according to the list shown below. The location and name may vary in all tanks. This is discussed separately when necessary.
+Internal modules must be located in accordance with the passport and references.
+Cut a hole for the barrel in the gun mantlet.
+The geometry must describe the module from the XRAY layer.
+The barrel must reach the breech housing of the gun.
+There must not be any gaps between the parts.
+The part must have 2 walls (i.e. have a thickness).
+List of parts for armor layout
+If a dm is responsible for calculating damage to an individual module, that means its title copies the module and has the suffix _dm. For example, a fuel tank with the name:
+
+ ex_fuel_tank_01
+has a dm with the name:
+
+ ex_fuel_tank_01_dm
+The hull is split into two large areas: The upper part – the turret platform The lower part above the suspension – the hull Turret platform armor:
+
+DM function, DM name
+Turret platform side armor, both left and right.	superstructure_side_dm
+Wheel arch cover armor, the upper vertical part of the armor of the turret platform above the tracks	superstructure_bottom_dm
+Frontal armor of the turret platform	superstructure_front_dm
+Rear armor of the turret platform	superstructure_back_dm
+Roof of the turret platform (the plate on which the turret sits)	superstructure_top_dm
+
+Hull armor:
+
+DM function, DM name
+Side hull armor, both left and right (usually the side is located behind the tracks)	body_side_dm
+Tank underside armor	body_bottom_dm
+Front hull armor	body_front_dm
+Rear hull armor	body_back_dm
+Hull roof (horizontal armor at the front of the hull on the Pz.IV, for example)	body_top_dm
+
+Turret armor:
+
+DM function, DM name
+Frontal turret armor	turret_front_dm
+Lower turret armor	turret_bottom_dm
+Side turret armor	turret_side_dm
+Roof turret armor, including hatches on turret	turret_top_dm
+Rear turret armor	turret_back_dm
+Command cupola armor (vertical part of armor)	turret_commander_dm
+
+Gun armor:
+
+DM function, DM name
+Gun mantlet armor:	gun_mask_dm
+Gun	gun_barrel_dm
+
+Internal damaged vehicle modules
+
+A list of DMs of invisible internal modules:
+
+DM function, DM name
+Engine	engine_dm
+Fuel tanks	fuel_tank_dm
+Transmission	transmission_dm
+Ammunition in hull	ammo_body_dm
+Ammunition in turret	ammo_turret_dm
+Turret horizontal turning mechanism	drive_turret_h_dm
+Vertical aiming mechanism	drive_turret_v_dm
+Gun breech	cannon_breech_dm
+Optical instruments for observation and aiming	optic_dm
+Radio	radio_station_dm
+
+List of crew DMs:
+
+DM function, DM name
+Tank commander	commander_dm
+Gunner	gunner_dm
+Driver	driver_dm
+Gunner / Radio operator	machine_gunner_dm
+Loader	loader_dm
+
+Mandatory requirement for DMs: all normals in the geometry must be aimed at the external side.
+
+There can be several of some modules, so suffixes must be enumerated where necessary. For example, if we make several engines, we call them engine_01_dm, engine_02_dm etc. The same for the crew – if there are several loaders, their names will be loader_01_dm, loader_02_dm etc.
+
+If the DM geometry is responsible for penetrability of an animated object, as in the case of the turret and gun – the DM is attached to the same nodes as the geometry of the turret and gun. The DMs of various turret modules are also attached to the turret node – the crew members, ammunition racks, optical instruments, externally suspended modules on the turret etc. (i.e. everything that can rotate with the turret).
+
+CLS – geometry for collisions with outside world
+
+The tank collides with the earth’s surface using a DM of the wheel modules. Additional geometry for collision with the outside world is required for:
+
+the hull
+the turret
+the gun
+In the scene, this geometry is kept in one layer along with the DM. Collision geometry is simple topology! The collision geometry is called:
+
+ cls_body
+ cls_turret
+ cls_gun
+When one box is not enough to convey the general shapes of the hull or turret, we make several boxes and enumerate them like so:
+
+ cls_body_01
+ cls_body_02
+ cls_body_03
+etc. Important! When turning a box, move the entire object, not the elements within the object. The box’s direction of pivot must correspond to the geometry’s incline.
+
+XRAY Supportive geometry for visualizing hits, damage
+
+Principle of creating geometry
+
+Mandatory requirement for XRAY: all normals in the geometry must be aimed at the external side!
+We place modules in accordance with the passport and with provided references (the same for modules for the DM layer). For the majority of tanks, all you need to do is place already existing modules, but in some cases it will be necessary to model internal modules (non-standard engines, transmission etc.). This is discussed when necessary separately.
+Name these objects the same as the objects from the DM layer to which they correspond, but with the suffix *_xray. For example, transmission_dm should be called transmission_xray.
+Parts should not intersect each other (in very small tanks, a small amount of geometric intersection is acceptable).
+The crew can be scaled to within 5%.
+The number, size and location of shells must correspond to the passport data (in the case of tanks with separate loading, both the shells and charges will need to be modeled). The placement of the shells is described in profile. The ammunition complement must also be divided into modules of 8-15 shells each (they are usually laid out like that). For separately loaded ammunition, the amount of shells and charges in the modules must be identical.
+Mandatory requirement for XRAY: all normals in the geometry must be aimed at the external side! There can be several of some modules, so suffixes must be enumerated where necessary. For example, if we make several engines, we call them ammo_body_01_xray, ammo_body_02_xray etc. The same for the crew – if there are several loaders, their names will be loader_01_xray, loader_02_xray etc.
+
+DMG Models for destroyed tank parts
+When the tank or an individual internal module is damaged or destroyed, it is replaced by the damaged model – dmg. A damaged model of any part replaces the geometry of the entire module when it is damaged. A damaged model does not have its own separate set of textures – the base texture of the tank is used. For the entire dmg geometry, we make LODs, just as we make them for a whole, undamaged geometry as well. The dmg geometry of tracks must have a skin modifier, otherwise the tank’s tracks would disappear when damaged instead of being replaced by the dmg model. The dmg geometry lies in separate layers in the *.max files. See section: 2.1. Building a *.max file and naming objects Model dmg types
+
+Function, Name
+An undamaged model is replaced with a dmg and remains in the same place. Usually, these are parts that are welded to the tank, which deteriorate from hits but do not fly off.	Duplicates the name of the undamaged model, with the suffix _dmg.
+The undamaged model is replaced with the dmg and flies off the tank. These are usually non-welded modules such as inventory (shovels, picks).	Duplicates the name of the undamaged model, but with the suffix _dstr.
+One undamaged model is replaced by two dmg models: one part remains on the tank, the second flies off. For example, a spare external fuel tank with fuel.	The part that remains on the tank copies the name of the undamaged model with the suffix _dmg, and the part that flies off copies the name of the undamaged model, but with the suffix _dstr.
+
+In summary:
+
+A dmg geometry which remains in the same position as an undamaged model copies the name of the undamaged geometry.
+The suffix _dstr has the dmg geometry that flies off the hull.
+Some elements split into two pieces after destruction, being replaced with several dmg objects. For example, an external fuel container on the tank: ex_fuel_tank_02 in the explosion, it is replaced with the following dmg geometry: ex_fuel_tank_02 – the part of the container and fixings that remain on the hull. ex_fuel_tank_02_dstr – the part of the container that flies off.
+
+Some elements in the dmg model do not have an independent and separate ancestor in the entire geometry. For example, a cover that flies off the engine compartment is a part of the hull in the whole geometry, but during an explosion, it flies away. This new geometry can have any sane descriptive title, but it must end on _dstr.
+
+We do not plan to separate any individual elements by more than two parts – with the original name and _dstr. I.e. a single object cannot have several _dstr suffixes.
+
+All objects with the _dstr suffix fly off in various directions during an explosion and have attached nodes for emitters for fire and smoke trails.
+
+At the same time, certain dmg models that do not fly off the hull, but remain with it, can also have attached nodes for emitters. For example, a fuel tank – one part flies off, leaving a smoke trail behind it, but the second part continues to burn.
+
+More about this in the section: 2.3. EMTR. Supportive nodes for attaching particles and additional external modules
+
+Low poly
+The model must not exceed 140k triangles in LOD00, but it is not necessary to strive to make each tank fit this polygon limit, it is necessary to use polygons properly. A model includes:
+
+banded tracks
+tank hull with suspension, wheel rollers and internals
+turret with internals
+gun with breech
+The tank should be modeled based on the benchmark photograph indicated in the passport. For modeling, it is best to use factory schematics with sizes, but alas, far from all tanks still have such schematics available, and usually we have to use outline drawings which are very inaccurate. For this reason, it is important to double-check every modeled part based on available photographs. When there are no precise sizes, we use proportions of size juxtapositions on the photograph and the model in Photoshop. This is the best way to check models, and far fewer corrections are required when this method is used.
+
+General requirements
+All elements that influence the tank’s silhouette must be modeled in the null LOD. All levers, hatches, lights and all inventory on the hull such as shovels and crowbars. This requirement concerns all ‘convex’ elements and large ‘concave’ elements. The only thing we don’t model are very small elements such as rivets, welds and other tiny things. But if the tank itself is weakly detailed and there is a large surplus of polygons, we can model things like rivets and screws.
+
+Large elements should not be made ‘flat’, i.e. duplicated and attached to the normals of the polygons! The null LOD contains only the faithful volume, all elements have their own thickness. An exception is grills with an alpha test.
+
+Lateral splits must be sufficient on soft bends, so that they can be perceived as smooth even without a normal map.
+
+What we are aiming for: a low-poly model without normal maps, covered with a simple gray diffuse, that should look accurate and detailed, without corruption or fractures in the vertex normals.
+
+We use various smoothing groups if the edge of the model is hard. This must be taken into account when baking the normal maps!
+
+The greatest detalization in a low-poly model must be in the turret, where the in-game camera may be moved at point-blank range.
+
+We faithfully extrude the internal walls of the turret or the hull to the thickness of the armor in that spot. For example, here is the 75 mm turret wall of the KV-2:
+
+We extrude all walls based on the passport thickness, then carefully stitch them together to eliminate skew and bending. This is all done for a more accurate internal section, so as to more accurately make/house equipment for the XRAY, seat the dummy crew members and have an accurate DM.
+
+This is a little more complex to do for cast hulls or turrets (for example the turrets of the T-54, T-10, IS-3 etc.), where the armor zones have flowing inward/outward tapers. For this reason, we have to break them into a large number of extruded sections and then collapse the resulting steps at the edges.
+
+On the external sections, all parts larger than nuts and bolts are modeled with the exception of hidden or poorly visible parts (pieces of the suspension covered by wheel rollers), where we economize on polygons.
+
+During modeling, use instances for all identical/symmetrical objects right up to the creation of the texture map.
+
+During modeling, immediately construct edges in improper polygons by breaking them into proper ones. This directly affects the baking of the AO and normal maps due to crooked projection.
+
+Immediately set smoothing groups (hard/soft edges for maya) on all polygons, since catching these ‘blocks’ during upload to the engine later is not a very pleasant process.
+
+All large hatches are faithfully modeled with the ability to be opened.
+
+Exceptions are made for evacuation and maintenance hatches on the bottom and for hatches for which it is unknown what is underneath them (these are usually found above the engine transmission compartment).
+
+The internal section is modeled on the base sizes and large parts. That which is more directly visible from the tank hatches is done in more detail. Usually, 5-8 thousand triangles are spent on all the tank’s internals.
+
+An aperture in the turret is modeled for the gun and gun mantlet. The trunnions should be made and checked at this same stage, so that the gun mantlet turns in them to the passport angles.
+
+Detalization
+In modeling cylindrical objects, we choose number of edges as a multiple of 2 or 6, i.e. 2, 4, 6, 8, 12, 16, 18, 24, 32, 36, 48, 64 etc. With the rare exception that, for example, leading wheels may use 20, 28 or 40 edges. Using an odd number is forbidden, since LOD01 will be curved as a result. In modeling the gun barrel, we orient ourselves based on the caliber and select the corresponding number of edges:
+
+<30 mm – 12 edges.
+30-45 mm – 16 edges.
+45-120mm – 24 edges.
+>120 – 32 edges.
+In modeling wheel rollers, you must take into account their amount, suspension type and diameter. This also applies to all other cylindrical objects. On average:
+
+12 edges – <200 mm
+16 edges – 200-300 mm
+18 edges – 300-400 mm
+24 edges – 400-500 mm
+32 edges – 500-650 mm
+36 edges – 650-900 mm
+48 edges – 900-1500 mm
+64 edges – >1500 mm
+
+High poly
+Rule number one: our main goal with high poly is not to make a hundred-million-polygon model, but to model all the elements such as locks, bolts and fasteners and to smooth out round surfaces. In other words, our high-poly geometry does not significantly differ from the low-poly version. But it is smoother and more detailed. In principle, we’re not dealing with high-poly geometry in the traditional sense of the word, but with medium-full poly.
+
+We use Zbrush or another program for high-poly modeling, to bruise pieces made of soft metal. These are objects such as mufflers on exhaust pipes, tin mudguards covering the tracks, fuel tanks, and other pieces made of tin. We always sculpt welds, gas cuts, digits, stamps and all large uneven points on cast armor (other small reliefs such as flakes of paint, mud, rust are unnecessary), damage to rubber on the roller wheels. At the same time we bake all AOs and normal maps with such a geometry, using the DecimationMaster plugin in Zbrush to optimize the high-poly geometry. Additionally, we do not accept *.ztl format files or files in any other format for sculpting. We do not need them. We need only a medium poly geometry in *.max format.
+
+For those parts that are baked with a high-poly geometry in low poly, it is mandatory to adhere to the following rules:
+
+In a high-poly model with a drop in height relative to the low-poly model, you cannot make edges parallel to the vertices of the normals in the low-poly model, i.e. perpendicular to the polygons of the low-poly geometry.
+When modeling joints (junctions of armor plates, hatches) or apertures, we do not make them separate pieces above the main high-poly geometry! Joints must be concave and embedded! This requirement is due to the fact that we remove not only the normal map from the high-poly model (in which there is no difference at all between the approaches), but also the AO.
+Also, due to our texturing technology, you must indicate the material in the high-poly model distribute IDs of materials depending on their real material (cast and rolled armor, metal, fine metal, wood, cloth, rubber etc.). This is best done at the very beginning of the project, otherwise it will be very difficult to mark out IDs on high-poly objects from Zbrush. A list of real materials and the material itself is attached.
+
+LODs
+Maximum distribution of triangles:
+
+LOD00 140,000 triangles
+LOD01 70,000 triangles
+LOD02 5,000 triangles
+LOD03 500 triangles
+In-game FOV camera – 90 degrees
+
+A more precise amount of triangles in a low-poly (game) model and in the LODs for it is confirmed for each tank separately. It can also change to be lower during the creation process.
+
+Switching between LODs should be barely noticeable. If the optimization of a group of triangles is too noticeable (for example, removing wheels, tracks and other parts of the suspension on lod02), the null LOD must be rebaked to the current, optimized one. In doing this, we use the same textures that are used for the null LOD without spawning new ones. We look for free space in the texture map.
+
+Note: groups of LODs in 3DSmax are the only point in our process where we do not use underscores in the title before enumeration. This is for historical reasons.
+
+Important! If the complex configuration of parts in the suspension does not allow for cutting enough triangles to reach the acceptable minimum, but removing elements of the suspension would be too noticeable when switching between LODs, we make a primitive geometry in the LOD that ‘captures’ and repeats its main volumes, and bake the entire suspension into this geometry specially for the LODs. We do not make an additional texture while doing this – we place it all in the tank’s hull.
+
+Tracks
+All tanks have 4 vertically tiled tracks which will scroll. Please note, this is important: 4, not 3 or 6.
+The number of segments in a low-poly model around the drive wheel must be divisible by the number of teeth where the wheel meets the tracks. I.e. by 5 teeth. For example, we make 5 or 10 or 15 splits – as many as are necessary for the texture to smoothly scroll along the track geometry, without sharp bends on the splits.
+The texture around the drive wheel must be clearly mapped – one tooth = one track. No guess-work can be used here! Distinctly – segments corresponding to one step of a tooth are a fourth of the map in height.
+We use alpha test to make all the voluminous elements that influence the track silhouettes in the texture, we do not use a geometry under any circumstances (for example, the teeth along the internal part of the tracks or the external projections of the tracks).
+To animate the suspension, it is necessary to make a split on the track precisely underneath each wheel, which will ‘roll along the ground’. If the wheel touches the upper part of the track also, then a split is required above as well.
+Tracks only use AO mapping.
+In the texture map, tiles from 7 to -7 are allowed on the tracks.
+Skin modifier for tracks
+
+The skin modifier is applied to tracks. Bones are created specially to animate the tracks. They influence nothing but the tracks. All the track animation is procedural, nothing has to be animated in 3DSmax. We need the bones to imitate the behavior of the real tank’s tracks: correspondence to the surface on which the tank travels, bending and tension on the tracks when noticeable (for example with the tank).
+
+The wheels are procedurally animated, reacting to uneven surfaces. The tracks will repeat this reaction. What is required for this:
+
+Along the bottom of the track, we cut a geometry with additional splits based on the amount of carrying wheels.
+Each split is precisely underneath the center of the corresponding wheel.
+In the center of the carrying wheels we create a bone which will duplicate the behavior of the wheel. We name this bone the same as the wheel, but with the prefix bone_.
+We roughly skin each split to the corresponding bone.
+All the vertices that don’t touch the ground and are not attached to the bone of the road wheels, we skin to the root bone.
+We will also animate the upper section of the tracks that hangs down between the guide rollers. To do this, we must:
+
+Add splits to the tracks above the supporting wheels, all supporting directional parts, generally above everything that the tracks hang on from above.
+Add two to four splits in the middle of the spot where the track should hang.
+Drop the track down to the state possible for this tank. We look at the references.
+Create bones in the centers of any ‘sags’ with the same axis direction as the bones on the lower row of the track.
+Name the bones: bone_phx_track_r_top_01, bone_phx_track_r_top_02 etc. Number them from front to back based on the tank’s movement direction.
+Attach the corresponding vertices to it.
+
+In creating bones for tracks, the following must be considered: we add the suffix _phx only on the upper, dangling bones. The lower bones collide with the ground, but do not have physics animations. They do not need such suffixes.
+
+More detail about this in the section: 2.2. Bones. Animation skeleton
+
+Alpha channel for tracks.
+
+Tracks use a two-sided shader. With the help of the alpha channel, we try to emulate the volume of the tracks. The geometry can be multi-layered to emulate external and internal surfaces. The configuration and profile of tracks is usually unique and must be chosen. Here is an example of using a multi-layered geometry to emulate the external surface:
+
+
+We add polygons without an alpha channel inside the track to avoid transparent holes when looking directly from the side. These additional polygons must have a unique place on the UV.
+
+Damaged track model. The model of a broken track also uses the Skin modifier. But with an amendment so that only the lower vertices of the broken track, ‘lying’ on the ground, are skinned to separate bones. All other vertices are skinned to the root bone. Bones for the drooping of the tracks during movement are not involved with the skin of a broken track.
+
+Creating tracks
+
+high-poly track model and duplicate it 6 times, since we need 4 tiles and baked unique tracks
+
+
+Step 2) Create a low-poly out of spacers step-by-step start with the external size
+
+
+Step 3) then from the reverse side
+
+
+Step 4) Since this volume continues from the reverse side as well, add these surfaces to describe the internal volume of the track.
+
+
+Step 5) Next, add a spacer for the ridge. In this case it practically has no volume, it is very thin, so we make do with a single spacer. The reverse side and the second row of ridges will be duplicates of this surface in the texture map.
+
+Note: all small spacers are duplicated along the track’s line of symmetry. There is no need to litter the UV with elements that are basically identical. We need the track to remain as detailed as possible.
+
+Step 6) The volumes of the thresholds of the tooth apertures for the drive wheel will also be placed by overlap in the texture map, since geometrically the high-poly is identical in this place.
+
+
+Step 7) As a result, we get a fake volume like this
+
+
+Step 8) Now we need to make the map. We map spacers vertically along the line of movement in such a way that the lower points on the map look forward along the X axis.
+
+
+Step 9) The resolution of the baked texture is 2048x512, so it is desirable that the resulting spacers fit into 4 tiles, but if this is not possible and we end up with roughly 5, we simply press them together. If there are more, then we have overcomplicated the model and not made use of overlapping identical elements.
+
+
+Step 10)Next we look at the model and realize that there is too much space between these spacers
+
+
+Step 11)If we leave the model as it is now, then it will be very clear in the game that the model consists of infrequent spacers and a poor volume simulation.
+
+
+Step 12)In order to avoid this, we add additional internal spacers between the ones we already have. These new ones are duplicates of each other, i.e. overlapping UV shells, so we need to economize on space.
+
+
+Step 13)Now we consider the model ready and we bake it. The initial track bake is never perfect, it has to be touched up by hand in Photoshop.
+
+
+Step 14)We cut holes in the alpha channel where they are present in the high-poly model.
+
+
+Step 15)As we can see, the volume is too small. For this reason, we add another volume describing the cutaways on the cleats.
+
+exture map
+The final model should contain two texture channels: the first for all the base textures and a second for the camouflage tiling. In creating the map, it is important to take into account that it will contain the internal part of the hull and the engine. The texel is equal to 0.2 – 0.4 centimeter.
+
+ Hull – 4096х4096 
+ Turret – 2048х2048
+ Main gun – 2048х1024
+ Tracks – 1024х512 
+UV1: It is important to try to make fewer seams. This particularly concerns horizontal joints with normals aimed upwards:
+
+UV1: It is important to try to make fewer seams. This particularly concerns horizontal joints with normals aimed upwards:
+
+
+On the illustration: Joints like the red ones should not be broken in the map. The blue ones can be. This is important for properly making various streaks and movements from horizontal to vertical surfaces later in the texture
+UV2: The camouflage tiling takes place along the second, seamless mapping channel (UV2). We make this channel using spherical mapping. The center of the sphere is a little below the lowest point of the tank, and the entire tank is mapped into a seamless sphere.
+
+In some cases, if the turret configuration does not allow for applying coloring along a single texture map with the hull, it is acceptable to have a spherical map for the turret and gun separate from the hull. It makes sense to make the final map when all the parts of the tank are done on all LODs. This is so that the camouflage applies identically for all LODs. A script is also provided for convenience. How to use the script
+
+unhide all
+hide the skeleton, DM and Xray layers
+apply the script
+convert to editable poly
+If you are working by hand, it is very important not to separate elements with the skin modifier. Otherwise it will disappear during conversion.
+
+General mapping requirements
+
+Do not use auto-mapping!!!!!!
+If all the tank’s wheels are identical, you do not need to map them all in one place. Make two unique ones.
+Geometry which is almost invisible should be made with a larger texel (the reverse side of the gun mantlet, the bottom of the tank, the suspension sides looking inwards and all low-visibility surfaces).
+Map the objects to positions of the surfaces that are never visible.
+The internal section of the tank should be mapped separately with a scale of roughly 4 times more than the main texel (the ceiling of the internal section can have an even larger scale, since it is almost invisible).
+Try to make the object a whole one. If this cannot be done, place its parts in one spot. If you split an object into many small parts, useful space is eaten up by padding!
+The sides of the bottom can be mapped into one space.
+Various canisters, if there are several of them, do not have to be made unique
+We map the glass, reflector and light bulb of lights in a separate texture (we choose the light texture based on reference material).
+Principle of selecting a cut Based on the reference, the relationship between the width of the cut and the distance between the cut is calculated. If it does not fit these values:
+
+ type A 1/3 per section
+ type B 2/5 per section
+ type C 1/2 per section
+ type D 1/4 per section
+then it is rounded to the closest of these options and that option is used.
+
+Radiator grills and wire cloth are mapped separately. There are tiles for them.
+All hatches and not significantly protruding elements in the map are mapped to where these objects are located on the tank in reality. This is done so that when removing insignificant protruding elements in the very first LOD, we keep the hatches where they are in the null LOD.
+Wooden items should be mapped horizontally.
+Requirements for baked textures
+NormalMap – the normal map is baked via whatever means is most convenient to you (3DSmax, xNormal, Substance Designer) from the high-poly to the low-poly geometry with final definitions for smoothing groups in the low-poly geometry. It must be baked into a 16 bit TIFF. If the smoothing groups are changed, the normalmap will have to be retaken. The normalmap cannot be inverted. In our version, the green channel should ‘light up’ from below.
+
+Ambient Occlusion (the dispersed lighting map) is baked from the high-poly geometry via whatever means is most convenient for you (3DSmax, xNormal, Substance Designer etc.). Only shadows from the high-poly should end up in the AO, or, if necessary, only those from the low-poly geomtry! There should be no mix-ups in the shadows, shading from non-existent elements or any elements lacking shadows! The AO must be faithful! Exceptions: there should be no hard shading under animated elements and elements that fly off when hit (AO must be illuminated for these elements). For example, the hull should have AO from the turret, but not from the gun, and not from a box on the side of the turret, since they change their position with the turret (when it turns) relative to the hull during gameplay. It’s best not to bake points like these faithfully on the hull, but to do them separately, for example from a conditional, fake turret that extends equally on all sides. Be sure to make a field for the hull to get the effect on the bottom. The turret must also be baked on a plane to emulate the hull.
+
+The ColorID map is baked from the high-poly to the low-poly model. Before baking, you must set the ID of the material in the high-poly based on our material. This is best done in the initial stage. Materials will be set in Substance Designer based on this map. The map contains the colors which will be used to mix materials. They should be pure colors, without gradients etc. This map can be obtained directly in Substance Designer or 3DSmax.
+
+Pipelines, development stages and work acceptance
+We ask all our outsourcers to conform to these rules:
+
+Always keep us in the loop with regards to your model creation process to avoid serious alterations to the finished model.
+All stages of model creation must be confirmed with us.
+Tell us about any problems in the development process immediately so that we do not find out too late that deadlines have been missed because <...> – at that point it no longer matters.
+Please inform us about all independently detected flaws in models and textures which require further work – this will make both our work and your work easier and save time for all parties.
+If anything is unclear or questions arise about the pipeline, ask your questions immediately. We may be able to help you more quickly than you can solve the problem yourself.
+Stages of model development and acceptance
+The base mesh is the base geometry in 3DSmax format. At this stage, it is required to correctly name folders and files. Units of measurement, model turns and axes must be correctly set in the file. This model must be the base geometry (dummy) of the tank. It is important that the model’s size matches those of the diagrams or other references used to create the model in 3DSmax. This model is required to confirm all the real sizes of all the tank’s parts and objects (size of the hull and wheels, length of the gun, caliber), the armor angles, turret turn angles, gun aiming angles etc. Do not make any complex geometry. The file must include planes with diagrams (designated as textures) of the side, front and upper projections and other projections if they are present in the model references. Along with the *.max file with the base geometry, it is necessary to send all diagrams used as textures. It is also necessary at this stage to check the accuracy of the diagrams in terms of the alignment of large parts – the hull, turret and gun – in the following manner: the turret must turn on its axis without intersecting with the hull geometry. The same is true for the gun – it must not enter the hull geometry when at standby.
+
+Low Poly – a model that meets our technical requirements – all the tank’s elements must be modeled and the number of triangles must correspond to the requirements of the null LOD. All low-poly objects which form the null LOD of the in-game tank must be named correctly in the *.max file.
+
+High Poly – a model with tank elements modeled in detail including small bevels, locks, springs etc. If the file turns out too polygon-heavy (2 million triangles or more), then there is no need to clone all elements in the high-poly model that are duplicated in reality, for example wheels and tracks. The model must clearly match the historical prototype. It is important to remember that far from all diagrams are accurate to the last detail – sometimes photographs can be used to get a clearer picture of the character of a surface. In our experience, this stage is rarely accepted the first time around, since it will be demonstrated to our historical consultants who will offer their own observations. The names of objects in the high-poly model in the *.max file are not important to us – name them in whatever way is more convenient to you.
+
+Sculpt – in this iteration we crumple all the tank’s tin parts. We always sculpt welds, gas cuts, digits, stamps and all large uneven points on cast armor (other small reliefs such as flakes of paint, mud, rust are unnecessary), and damage to rubber on the roller wheels. The designer can choose which program to use for sculpting, it is the result that is important to us: tin and fine bent iron must look natural and pleasant, welds and other uneven areas on a cast turret must look natural. The goal of this stage is to breathe life into our tank, show signs of use, add a sense of presence for the player.
+
+UV – on our tanks, one texel is equal to 0.2 - 0.4 centimeters. In the game, the texel will be twice as large. Not all tanks and not all turrets or guns can fit into these borders. If they cannot, be sure to let us know and show us the model with the current texture map. We will decide whether it is viable to increase the texture resolution for this tank. We welcome reducing the resolution for small light tanks. It is possible that for some of them, the entire tank can fit into a 4K by 2K total texture space.
+
+Bake – after this iteration, we must receive a correct AO, Normal Map and ColorID Map. The textures must correspond to the technical requirements. There should be no unpleasant artifacts, the model should look correct and pleasant. There should be padding where necessary, none where none is necessary. It’s important to remember that for rotating elements (wheels) a neutral AO must be baked. This is so that there is no lighting clearly from top to bottom.
+
+After the bake is accepted, the other processes can be run in parallel and sent in when ready.
+
+Bones’n’nodes – make bones and nodes for attaching machine guns and particles, name them correctly and orient them correctly. Set a skin for the objects requiring it (tracks, antennae, canvas cover, springs etc.).
+
+LODs – make LODs for the tank and damaged parts. Distribute them across the layers ensuring that the names and pivots in the various layers and states match each other.
+
+DM, XRAY – make a geometry and name it correctly.
+
+Final model – the final model has all the geometry named correctly, the axes turned correctly, object matrices at the source size (100 percent scale along all axes), a correct hierarchy of all objects, bones and nodes, the tank uploaded into the engine with everything working. There are no errors in the upload (degeneration, undesignated smooth groups etc.).
+
+Approve – acceptance of all the materials for the tank. In the root folder of the tank, there is a *.max file with the final tank ready for upload to the engine. There is nothing superfluous in the file, only the game model. It also contains *.tga format textures. The work folder with the file *_bake.max, which contains the scene with the high-poly and low-poly model ready for texture baking.

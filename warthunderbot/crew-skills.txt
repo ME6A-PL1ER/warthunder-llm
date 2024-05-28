@@ -1,0 +1,203 @@
+Crew skills
+Crew Skills are a way to improve crew performance and effectiveness, being for pilots, gunners, drivers, tank gunners, ship captains, radiomen, airfield/hangar/port mechanics, and more.
+
+Basics
+Crew skills are War Thunder's way of simulating the experience and skill gained by air, ground, and naval crews through combat missions, allowing them to perform/endure tasks more efficiently and effectively as they increase in skill over time. These can be how quickly aircraft are repaired by the ground crew on the airfield, how fast a tank's loader can fit shells into the gun breech, how accurate bombers' gunners' fire is, the amount of g-force that can be sustained by a pilot before they begin blacking out, or how efficiently a ship's crew can put out a fire.
+
+Crew experience is gained in the form of "Crew XP Points", earned by participating in battles. The number of points accrued for crew experience depends on the research points (Rp) obtained in a battle, as well as the game mode of the battle. In Realistic and Simulator battles, for every 100 Rp the player will receive 1 crew XP point which can be distributed to the crew of the vehicle used in that battle. In Arcade battles, every 100 Rp will grant the player 3 crew XP points, but this higher rate also has the crew experience spread out among multiple available crews. Another way to obtain crew XP points is by purchasing them with Golden Eagles (Ge) via the "Accelerated Training" tab on the top right corner of the Crew Training window.
+
+During lulls in between matches in the hangar, look at the bottom left corner of the crew slots. This has a numerical value representing the crew level. The colour of this text indicates crew XP point accumulation: a regular silver font shows a regular amount of unused crew XP points and a glowing gold font shows a large amount of unused crew XP points.
+
+Crew XP points can be used by either clicking the "Crew Training" button on the Crew tab of the info card on the left side of the Hangar UI or by selecting the desired crew and clicking the "Crew" button. Both methods will open a window where crew XP points can be spent by pressing the "+" button next to desired skills. The more points invested, the more skilled the crew is, and the more points will be needed to upgrade to the next level.
+
+Shared crew skills
+Logistical services
+Repair Speed - Affects the speed at which vehicles are repaired. Repair time can be shortened up to three times when fully researched.
+For example, the base repair time of the Bf 109 F-4/trop in AB is 7 hours and 50 minutes, while with Repair Speed it is reduced to 2 hours and 36 minutes. This skill also affects the repair time of aircraft that have landed on a friendly airfield during a battle.
+Repair Rank - Determines the maximum aircraft rank to which the "Repair Speed" skill is applied. Has a total of five stages corresponding with the number of vehicles ranks in the game.
+For instance, the Bf 109 F-4/trop requires Repair Rank 3, because the plane is situated at Rank III in the German Air tech tree. If the Repair Rank is lower than Rank 3, the repair time will remain at 7 hours and 50 minutes no matter how high the repair speed skill is. This skill is one of the few not affected by crew qualification levels. Note: With the addition of vehicle ranks beyond five, the Repair Rank is no longer linear, as shown in the following table.
+Repair Rank	Max Vehicle Rank
+1	1
+2	2
+3	3
+4	6
+5	8
+These two crew skills do not affect in-game combat, but rather allow you to repair your vehicles for free over time, if you uncheck "automatic repair" on the right of your line-up bar. This function is mostly used by players who play many nations at once and don't mind waiting in order to save some precious Silver Lions (Sl).
+
+These skills are shared between crew types, which means that points in these skills will affect a crewed vehicle no matter what type of vehicle it is.
+
+Air vehicle crew skills
+General
+G-Tolerance - Influences the tolerance of the pilot to acceleration in manoeuvres (g-forces), increasing the critical amount of "G's" that the pilot can sustain without the player's vision being darkened/reddened and losing control of the plane after a certain period of time, representing the pilot's loss of consciousness (also known as G-LOC). In "Mouse Aim" mode, this skill also affects the control accuracy of the aircraft.
+Stamina - Allows the crew to resist fatigue for a longer period of time. Accuracy and G-Tolerance gradually decrease, depending on the time spent in the session and the amount of G-forces sustained, representing fatigue and its effect on aircrew's performance. In addition, this skill has an effect on aiming accuracy in Mouse Aim mode.
+Vitality - Reduces the likelihood of the pilot receiving a mortal wound. For the beginner pilot with no points attributed to Vitality, a second .303 bullet hit (from MG 15 or similar), or comparable shrapnel impact, is usually fatal, while a pilot with their Vitality maxed out can, with a measure of luck, survive one hit from a .50 (12.7 mm) M2 Browning machine gun.
+Pilot
+Keen Vision - Enhances the detection range when spotting enemies, i.e. the maximum distance at which the target indicator may appear. This ranges between 4 km (untrained) to 8 km (maxed) (3-5 km in RB/SB). Detection is only made if the enemy is in a cone in the direction of view of the player. Maximum detection distance is also dependent on the size of the target, lighting conditions, cloud cover, weather, and other factors.
+Awareness - Enhances the detection range of enemy targets between 400 m (untrained) to 800 m (maxed) (300-500 m in RB/SB). Detection is carried out in a sphere (all directions) around the aircraft, regardless of the direction that the player is observing.
+Defensive armament
+Number of Experienced Gunners - All skills with gunners are reduced proportionally to the difference between the number of gunners on the selected aircraft and the number of experienced gunners in the crew. For example, an He 111 H-6 bomber has 5 gunner positions. If there are only two experienced gunners in the crew, the gunner's average skill will be reduced by 60%, with four - 20%. With all five experienced positions filled, their skills will be fully effective.
+Fire Accuracy - This skill only applies when the gunner is controlled by AI (when the player is not manually controlling them). Increases the traverse speed of a turret, the maximum burst length by up to 3 times, the distance at which gunners can start firing at a target by up to 275% (55% in RB/SB), the distance at which the targets direction can be anticipated, the chance of simultaneous fire and "leading" the target, and reduces miscalculation in "leading" the target (decreased by 7 times for RB/SB when maxed out).
+Fire Precision - This skill only applies when the gunner is controlled by AI (when the player is not manually controlling them). Reduces the scatter of the gun by 2.5 times (2 times in RB/SB), increases the burst length by up to a third, increases the distance at which the gunners open fire in arcade battles by a marginal amount (up to 8%), and increases the chance of simultaneous fire and "leading" the target just like fire accuracy\.
+Logistical services
+Reload Speed - Increases the rate at which the weapons are reloaded in the air and on the airfield. Reduces the rearming time by three times for cannons & machine guns, two times for bombs, rockets, and torpedoes, and four times for turrets when fully researched. For example, fully leveling up a La-5FN crew's Reload Speed skill will cause the rearmament time of cannons to go down from 40 seconds to 13.3; bombs will be reloaded in 20 seconds instead of 40.
+Weapon Maintenance - Increases the efficiency of the vehicle's weaponry. Reduces the overheating speed of primary weapons, as well as the spread of bombs and rockets for aircraft, reduces the chance of weapon jamming due to overheating by up to 3 times, and reduces the angular velocity of bombs, rockets, and torpedoes by up to 3 times, thereby significantly improving their accuracy.
+Ground vehicle crew skills
+General
+Keen Vision - Determines at what distance the player can see an enemy ground vehicle, as well as the ability to see ones that are behind cover. The game server only sends information about a vehicle that's concealed to the client when the player is at a minimal distance from the enemy. This distance is around 563 m if the player is looking directly at them, with a non-maxed-out crew. The distance of direct vision spotting is tripled when the player uses binoculars or fire control view, but vision becomes narrower. Players can also use the third-person camera to spot enemies within 235 m of the hull's front and 97m around the vehicle. Leveling up keen vision to the maximum level on all of the crew members adds bonus vision up to 63% from the base. The crew can be "Aced" for another 63% to get a total of 222% vision effectiveness.
+Vehicles with Scouting have access to the modification "Improved Optics", which multiplies the skill's base power by 30%, helping them to scout and notice danger earlier than anyone else (at best, 1621 m without binoculars).
+In Arcade mode it also affects the distance at which a player can see markers on the enemy (through non-solid obstacles) and affects how much it tells you about the enemy (if the enemy is too far it simply says the class of the enemy's vehicle without displaying the full vehicle name), and affects how much of an enemy vehicle must be exposed to notice and mark them. When maxed out, this skill even allows the player to see enemies through solid walls, although at very close range, and only when looking directly at them. Note that in Arcade "absolute detection" doesn't mark everything in a 360-degree radius around the player. Only line-of-sight and line-of-movement spots work, so it is recommended for players to keep turning the camera around when driving in towns and mountains.
+Field repair - Increases the basic rate at which damaged parts are repaired (by up to 50%). It most strongly affects track repair. The average level of this skill of all crew members is taken into account when calculating the total multiplier.
+Agility - Determines the speed with which a crew member can replace another fallen one. The average value of agility in the crew is what counts - spending all of the points on one disposable crew member won't benefit the player any more than distributing the points across all of them would.
+Vitality - Reduces the likelihood of a crew member receiving a mortal wound.
+Driver
+Tank Driving - Affects the rate at which the driver automatically switches gears and applies the brake, thus improving the acceleration and responsiveness when turning. The default gear switching time of drivers is 1 second, the skill itself can reduce pause by 0.36 sec, and together with other factors it can be reduced to 0.1 sec. Braking time reaction is 0.14 sec, reduced by skill to 0.11 sec, and together with other factors it can go down to 0.07 sec.
+Gunner
+Targeting - Influences the speed and precision of the gun's traverse and elevation. An experienced gunner aims horizontally and vertically at the same time. An inexperienced gunner does this one axis at a time. An experienced gunner can also improve turret traverse speed. In the case of ATGM carriers, the skill may affect the responsiveness of missiles to control inputs.
+Rangefinding - Affects how accurate and precise the gunner's estimate of distance is upon using the "Rangefinder" function.
+Tank Commander
+Leadership - Improves all crew member's skills by up to 10%. This skill isn't affected by the qualification level of the crew with the vehicle in question and is one of the most expensive to train.
+
+Loader
+Weapon Reloading - Decrease the time required for loading the weapon by up to 23%. Full skill level shortens reloading time by roughly 11% on it's own. This skill has no effect on Ground vehicles with autoloader systems as an autoloader relies on a set mechanical action over manual personnel work in lifting and loading rounds.
+
+Radio Operator Gunner
+Artillery Strike Calling Time - Decreases the time between calling an artillery strike and the shells being fired (from a base level of 13 seconds to a minimum of 10 seconds).
+Artillery Targeting Accuracy - Increases the targeting accuracy of artillery by reducing the shells' scattering (from a base level of 57 m to a minimum of 45 m).
+Radio Communication - In Arcade mode, it highlights all enemies around the player on the minimap, if any allied vehicle sees them (including aircraft), with a default range of 500 m, which is very helpful during and against flank attacks. In Realistic mode, it increases the range at which the enemy players detected by the allied team are displayed (through red arrows pointing downward on the borders of the screen). Either effect can be increased up to 1,000 m.
+Naval vehicle crew skills
+Ship commander
+Leadership - Improves all crew member's skills by up to 5%. This skill isn't affected by the qualification level of a crew with the vehicle in question, and is one of the most expensive to train.
+Crew interchangeability - Lowers the required number of crew for your vessel to remain seaworthy.
+Radio Communication - In Arcade mode, it highlights all enemies around the player on the minimap. This happens if any allied vehicle sees them (including aircraft), with a default range of 250 m. This is very helpful during and against flank attacks. In Realistic mode, it increases the range at which the enemy players detected by the allied team are displayed (through red arrows pointing downward on the borders of the screen). Either effect can be increased up to 500 m.
+Observers
+Air targets detection distance - Increases the distance at which aircraft will be outlined by a marker.
+Surface targets detection distance - Increases the distance at which ground and naval vehicles will be outlined by a marker. This skill also increases the distance at which the full vehicle name is displayed (otherwise, simply the class of the vehicle is displayed instead).
+Enemy torpedoes detection distance - Increases the distance at which torpedoes and their trails are marked.
+Engine room
+Ship control - Reduces the time between sending a command for engine speed mode or rudder turn and applying the change.
+Fire prevention - Reduces the chances of a fire in the engine room, engine compartment, or transmission house.
+Gunners
+Main caliber reload speed - Reduces the reload time of the main guns.
+Auxiliary caliber reload speed - Reduces the reload time of the auxiliary guns.
+AAA caliber reload speed - Reduces the reload time of the AAA guns.
+AAA gunner accuracy - Improves the accuracy of the AI gunners when firing the AAA guns. This skill has no effect when the AAA guns are being manually aimed.
+Auxiliary gunner accuracy - Improves the accuracy of the AI gunners when firing the auxiliary guns. This skill has no effect when the auxiliary guns are being manually aimed.
+Distance fuse set accuracy - Improves the accuracy of the distance fuse when using an airburst-capable shell.
+Damage control
+Unwatering time - Reduces the time required to remove water from the vessel.
+Fire extinguishing - Reduces the time taken to extinguish a fire, reducing the damage received from a fire.
+Breach repair - Reduces the time required to repair the hull of the vessel.
+Survival leadership - Reduces the penalty gained for attempting to unwater, extinguish fires, and repair the vehicle simultaneously.
+Qualification Levels
+Players can level up their crews' skills in two ways - spending the aforementioned crew XP points and investing in crew qualification through Silver Lions (Sl).
+
+Unlike skills, qualification levels (beyond "Basic" - the training achieved by spending crew points) are acquired only for a specific vehicle. Qualification is an exceptional skill for a crew in control of this particular vehicle. To learn it, a certain crew level needs to be achieved. Crew level is the sum of the levels of all skills learned by the crew. For example, a level 5 crew will not be able to be Qualified for an M6A1, which is Rank III, and will have to be leveled up higher to have this option available.
+
+Air vehicles
+Spending crew points on aircraft crews accounts for 50% of the attainable skill levels. There are three levels of qualification altogether before one can reach the full 100% of the crew: "Basic", "Expert" and "Ace".
+
+The first level of qualification, "Expert," increases all skills by 3 levels, meaning a full 30% increase in efficiency. The second level afterward, "Ace," increases these skills by another 2 levels, adding up to a total 50% increase with a jump of 5 levels.
+
+In order to use these skills at their maximum level, a pilot needs to research them up to level 5 and obtain two qualifications to reach level 10. For instance, a pilot who leveled the "Keen Vision" skill up to 5 will detect targets approximately 6 km away; after getting the "Expert" qualification he will then see enemy targets at 7.2 km; finally, reaching the "Ace" qualification will increase this detection distance to the maximum of 8 km.
+
+Ground and Naval vehicles
+In the case of ground crews, "Current skill level" accounts for 40% of the required qualification to reach the maximum skill level, the "Top" level. The remaining 60% are delegated to the two qualification levels - "Expert", and "Ace", as well as the bonus provided by the Tank/Ship Commander's "Leadership" skill.
+
+Crew points to level
+The following charts should be used to gauge the amount of crew XP points needed to level up a skill. Every skill with the exception of the "Repair Rank" skill is increased by increments of 0.5 levels.
+
+The maximum achievable crew level for aviation crews is 75. For tank crews, the maximum is 150. For naval crews, the maximum is 100.
+
+Highlighted skills - the unique skills of a specific crew member
+
+Air crew
+Skill	1	2	3	4	5	Total
+Pilot
+Keen Vision	15	50	90	145	195	270	340	415	500	600	2,620
+Awareness	15	50	90	145	195	270	340	415	500	600	2,620
+G-Tolerance	22	64	110	160	215	275	330	395	470	530	2,571
+Stamina	22	64	110	160	215	275	330	395	470	530	2,571
+Vitality	27	80	150	225	320	415	520	640	760	890	4,027
+Defensive armament
+Number of Experienced Gunners	0	170	230	300	360	430	490	560	630	690	3,860
+Fire Accuracy	12	29	55	80	110	135	165	195	235	265	1,281
+Fire Precision	12	29	55	80	110	135	165	195	235	265	1,281
+G-Tolerance	17	40	60	100	110	150	160	200	215	250	1,302
+Stamina	17	40	60	100	110	150	160	200	215	250	1,302
+Vitality	17	40	60	100	110	150	160	200	215	250	1,302
+Logistical services
+Repair Speed	12	35	55	80	110	140	170	205	240	275	1,322
+Repair Rank	0	120	240	390	590	1,340
+Reload Speed	16	60	120	190	285	385	505	640	780	930	3,911
+Weapon Maintenance	22	64	110	160	215	275	330	395	470	530	2,571
+Total	33,881
+Ground crew
+Skill	1	2	3	4	5	Total
+Driver
+Keen Vision	20	47	100	135	175	215	260	310	360	410	2,032
+Field Repair	15	50	100	155	230	310	395	495	600	710	3,060
+Agility	15	50	100	155	230	310	395	495	600	710	3,060
+Vitality	23	70	125	185	255	325	400	480	570	660	3,093
+Tank Driving	11	24	50	70	85	110	130	155	180	205	1,020
+Gunner
+Keen Vision	20	47	100	135	175	215	260	310	360	410	2,032
+Field Repair	15	50	100	155	230	310	395	495	600	710	3,060
+Agility	15	50	100	155	230	310	395	495	600	710	3,060
+Vitality	23	70	125	185	255	325	400	480	570	660	3,093
+Targeting	11	24	50	70	85	110	130	155	180	205	1,020
+Rangefinding	11	24	50	70	85	110	130	155	180	205	1,020
+Tank Commander
+Keen Vision	20	47	100	135	175	215	260	310	360	410	2,032
+Field Repair	15	50	100	155	230	310	395	495	600	710	3,060
+Agility	15	50	100	155	230	310	395	495	600	710	3,060
+Vitality	23	70	125	185	255	325	400	480	570	660	3,093
+Leadership	16	60	120	200	290	400	515	650	800	970	4,021
+Tank Loader
+Keen Vision	20	47	100	135	175	215	260	310	360	410	2,032
+Field Repair	15	50	100	155	230	310	395	495	600	710	3,060
+Agility	15	50	100	155	230	310	395	495	600	710	3,060
+Vitality	23	70	125	185	255	325	400	480	570	660	3,093
+Weapon Reloading	15	50	100	155	230	310	395	495	600	710	3,060
+Radio Operator Gunner
+Keen Vision	20	47	100	135	175	215	260	310	360	410	2,032
+Field Repair	15	50	100	155	230	310	395	495	600	710	3,060
+Agility	15	50	100	155	230	310	395	495	600	710	3,060
+Vitality	23	70	125	185	255	325	400	480	570	660	3,093
+Artillery Targeting Accuracy	8	18	25	45	50	55	75	75	90	100	541
+Artillery Strike Calling Time	8	18	25	45	50	55	75	75	90	100	541
+Radio Communication	11	24	50	70	85	110	130	155	180	205	1,020
+Logistical services
+Repair Speed	12	35	55	80	110	140	170	205	240	275	1,322
+Repair Rank	0	120	240	390	590	1,340
+Total	71,130
+Naval crew
+Skill	1	2	3	4	5	Total
+Ship commander
+Leadership	16	60	120	200	290	400	515	650	800	970	4,021
+Crew interchangeability	15	50	100	155	230	310	395	495	600	710	3,060
+Radio Communication	12	29	55	80	110	135	165	195	235	265	1,281
+Observers
+Air targets detection distance	15	50	100	155	230	310	395	495	600	710	3,060
+Surface targets detection distance	16	60	120	200	290	400	515	650	800	970	4,021
+Enemy torpedoes detection distance	15	50	100	155	230	310	395	495	600	710	3,060
+Engine room
+Ship control	15	50	100	155	230	310	395	495	600	710	3,060
+Fire prevention	20	47	100	135	175	215	260	310	360	410	2,032
+Gunners
+Main caliber reload speed	16	60	120	200	290	400	515	650	800	970	4,021
+Auxiliary caliber reload speed	20	47	100	135	175	215	260	310	360	410	2,032
+AAA caliber reload speed	20	47	100	135	175	215	260	310	360	410	2,032
+AAA gunner accuracy	20	47	100	135	175	215	260	310	360	410	2,032
+Auxiliary gunner accuracy	20	47	100	135	175	215	260	310	360	410	2,032
+Distance fuse set accuracy	11	24	50	70	85	110	130	155	180	205	1,020
+Damage control
+Unwatering time	20	47	100	135	175	215	260	310	360	410	2,032
+Fire extinguishing	15	50	100	155	230	310	395	495	600	710	3,060
+Breach repair	16	60	120	200	290	400	515	650	800	970	4,021
+Survive leadership	20	47	100	135	175	215	260	310	360	410	2,032
+Logistical services
+Repair Speed	12	35	55	80	110	140	170	205	240	275	1,322
+Repair Rank	0	120	240	390	590	1,340
+Total	50,571
+Tips
+When using a high-tier premium vehicle, remember that crew training cost for premiums is maxed at 10,000 SL, so you can use them to train multiple crews easily

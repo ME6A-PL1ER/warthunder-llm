@@ -1,0 +1,159 @@
+Multiplayer
+Arcade Battles
+Aviation:
+In Arcade mode, the game draws two teams of players (up to 32 people) with planes of different nations with similar battle ratings. It is possible to see aircraft of the same type on opposing teams. Damage models, flight models, and physics are greatly simplified (e.g. in very high-speed dives, planes do not have their wings ripped off and are still controllable), but retain some realism (e.g. bombers are not as manoeuvrable as fighters), and ammunition reloads after a certain period of time without players needing to return to an airfield. To help simplify aiming, a 'leading marker' appears when an enemy plane is in range. This shows where the enemy plane will be by the time your shots reach it if the plane continues its current trajectory. Multiple views are available: third person view, cockpit view (if the aircraft has a cockpit model), gunner view (if the aircraft has a gunner), and virtual cockpit view. Arcade mode games are played in either "Ground Strike" mode - where in order to win you must destroy all enemy ground units, shoot down all enemy aircraft, or destroy the enemy bombing points and airfield - or "Domination" mode, which consists of seizing enemy airfields by landing your aircraft on them, causing the opposing team to slowly lose 'tickets'; the team whose tickets reach zero first or lose all of their aircraft loses. Players are able to keep respawning with as many aircraft and backups as they have in their lineup.
+
+Ground Forces:
+In Arcade ground battles, tank handling is simplified (tanks move faster, and turn faster than they would do in reality), spotted enemy vehicles are displayed on the minimap and have visible nametags above them. There is also an "Aim assistant" - a crosshair indicating where a shot would land if fired at the current elevation, together with an indication of how likely the shell will be able to penetrate the target.
+
+Teams are composed with no regard to nationality, the only factor is the vehicle's battle rating. Lastly, when your vehicle is knocked out, you can respawn with a different vehicle (from your line-up), up to 3 spawns total (+ 1 reserve tank).
+
+During the battles, the player can collect "airstrike points" by scoring kills or assists to play as a random aircraft from three different classes: fighters (costing one point), strike aircraft (two points), or bombers (three points). Each aircraft can be controlled for only one minute. In a battle of BR 6.0 or higher, you can spawn as a nuclear bomb-equipped bomber for 15 airstrike points. The side who were able to drop the nuclear bomb will instantly win the round.
+
+Naval Forces:
+In Arcade naval battles, all naval vessels receive a significant boost of engine power and traverse speed to make them easier to control, and spotted enemy vehicles are displayed on the minimap and have visible nametags on them (similar to Ground Arcade battles). There is an "aim assistant" similar to the aircraft lead marker, and simplified ranging mechanics that will always aim where your mouse is pointed. Additionally, various secondary weapons are deployed instantaneously and will be reloaded anywhere on the map once depleted, similar to Air Arcade battles.
+
+In this mode, you can spawn as a naval vessel up to 3 times, and all reserve vessels can be respawned for free up to 3 times without the use of backups.
+
+Similar to Ground Realistic battles, you can collect "spawn points" for aircraft by performing actions within the battle, and are able to choose aircraft from your own preselected line-up, provided the aircraft is not more than one BR step higher than your highest-rated vessel (for example, a BR 3.3 boat would allow up to BR 3.7 aircraft to be used). A random aircraft from game-generated pools of the same nation can also be selected instead (with a BR lower than your highest-rated vessel by up to 1.0), divided into two categories: fighters and bombers/strike aircraft. You can spawn as an aircraft up to 2 times. If you wanted to respawn the same type of aircraft again (e.g. respawning as a fighter for second time), the respawn price for said category of aircraft will be doubled.
+
+Air Assault/Ground Assault:
+In Assault mode, the same rules as in other Arcade modes apply to flight and damage models and in-flight rearming. The main objective is for a team of 10 players to defend their base from growing waves (15 in Air Assault or 11 in Ground Assault) of enemy AI-controlled vehicles. In Air Assault, the bomber's gunners are active but most of the fighters and howitzers do not pose a direct threat to the player. There is also an unlimited number of respawns at 80% AB Silver Lion repair cost.
+
+Realistic Battles
+Aviation:
+Realistic mode is designed for more experienced players. More realistic damage models, flight models, and physics makes gameplay less forgiving, and aircraft fly much more similarly to their historical counterparts, with their strengths and weaknesses more apparent than in Arcade mode. Also, once all ammunition and ordnance are expended, players will have to return to their airfield to reload, and there is no 'leading marker' to assist with aiming. In this mode, unlike Arcade, teams often feature aircraft from specific nations, making gameplay more accurately reflect historical encounters such as the Battle of Stalingrad, fought between the USSR and Germany, or the Battle of Midway, fought between the Japanese Empire and the US. These historical scenarios will all have different objectives similar to the battles they represent, such as destroying a German tank advance at Kursk or repelling a Japanese attack at Pearl Harbor.
+
+Ground Forces:
+In Ground Realistic battles, characteristics of the Realistic mode are similar to that of the Aviation Realistic mode - Tank behaviour is more realistic. Tanks feel overall much more "heavy" - they accelerate slower, lose much more speed in turns, do not slide so much, and handle much more "jerky" as real tanks do. Traversing the turret and aiming the gun at the target also takes much more time, some crew skills become very obvious (an inexperienced gunner first rotates the turret horizontally, and only then slowly adjusts the gun elevation, while an experienced gunner can do both tasks at the same time). Then, when your tank is hit, and needs a field repair, doing it takes much longer than it does in Arcade battles (often up to 2 minutes).
+
+Unlike its Arcade counterpart, Ground Realistic battles use a "spawn points" mechanic. Players are given a starting amount of spawn points to spawn their first ground vehicles. They can collect spawn points via various actions within the battle to respawn when they are knocked out. Different types of vehicles have different spawn costs (i.e. light tanks usually have lower spawn cost than heavy tanks), and the battle rating of the vehicle relative to the maximum battle rating of the battle will also affect the cost. You can respawn as long as you have enough spawn points and vehicles that are still allowed to spawn (i.e. a non-reserve vehicle can be respawned one more time provided that you have a backup).
+
+During the battle, you are also able to choose an aircraft/helicopter from your own preselected line-up to spawn. Unlike ground Arcade battles, aircraft/helicopters spawned in ground Realistic battles can be controlled indefinitely, and various properties from air Realistic battles (i.e. limited fuel and ammunition) are also applied.
+
+In a battle of BR 6.7 or higher, you can spawn as a nuclear bomb-equipped bomber for 2,500 spawn points, a team that is able to drop the nuclear bomb will instantly win the round. Dropping the nuclear bomb also rewards the player with "Doomsday" award.
+
+Last important differences are visual - there is no coloured crosshair to tell you where your shot will go after being fired, or whether it can penetrate your target. Enemy vehicles are also not displayed on the minimap, and have no name tags on them - instead, only a red coloured icon is briefly displayed on the minimap when nearby allies scout or hit a vehicle, approximately showing you the position of an enemy.
+
+Naval Forces:
+In Naval Realistic battles, all naval vessels behave more realistically, being noticeably slower to accelerate and traverse around. The ship's damage model is also slightly less forgiving, with some modules, such as ammunition elevators, being more prone to damage and negatively affecting the ship. Secondary weapons are also more limited, having a slightly longer delay to deploy the weapon and, once empty, can only be refilled in captured points (similar to Ground Realistic battles). Hit enemy vehicles are displayed on the minimap, and name tags about the model of the vehicle and the player's name is not shown, like in Ground Realistic battles.
+
+The aiming mechanics are also more limited. A simple horizontal-only lead marker (shaped like a small "V") is displayed, which takes time to calculate and update. The measured range to the enemy will only be updated periodically with a noticeable margin of error. While it is possible to adjust range by moving the mouse like in Naval Arcade battles, precise aiming requires the use of the "distance correction" controls to adjust the range of the guns independently of mouse movement.
+
+Naval Realistic battles have the same spawn mechanics as Naval Arcade battles.
+
+In addition, aircraft also behave the same as in Air Realistic, with mid-air reload being unavailable. As such, if the player has expended their payload, they must land on an airfield or an aircraft carrier to reload. In some maps where only aircraft carriers are present, some larger planes will have great difficulty in landing.
+
+Simulator Battles
+SB mode is based on the most realistic simulation settings; only the first-person view in the cockpit or gunner views are available, there are no ally indications or kill confirmations, and flight physics are at their most realistic settings, reflecting the real-world attributes of aircraft to a fairly accurate level. The gameplay of Simulator mode is similar to that of realistic battles - two teams of different nations are fighting each other for dominance in the sky and on the ground to achieve their objectives, but the realism of the game at this level is even higher. Simulator settings also require players to play with a joystick, gamepad or 'mousejoy' as opposed to mouse-aim available in other modes, lead indicators are not present and players must return to airfields to rearm and repair their aircraft.
+
+Enduring Confrontation
+Enduring Confrontation (also known as "EC") is a separate game mode for aircraft and ships in War Thunder. Unlike in traditional random battles, this mode allows you to join a battle at any point in the battle's progression. You also have unlimited respawns, subject to certain rules. In EC, the emphasis is on the players’ ability to influence the situation on the battlefield.
+
+Battles in EC occur as Events, so you can find this mode in the "Events and Tournaments" tab. EC is the primary game mode for aircraft in Simulator Battles, and a simplified version of it in Arcade mode is the only separate game mode for helicopters. To join a battle in Enduring Confrontation, you can either wait in the general queue as you would in random battles, or call up a list of active rooms (ongoing battles) sorted by country and rank and, if there are available spots on a team, join your preferred side in that room. You can call up a list of rooms by pressing the button of the same name near the bottom of the screen.
+
+[Enduring Confrontation] Naval Battles
+The Naval version of Enduring Confrontation allows players to bring a lineup of vessels and aircraft to battle on large Air battle maps with significant open water that have been specially adapted for Naval EC. It is available only between Thursday 11:00 GMT and Sunday 11:00 GMT every week, rotating between Arcade and Realistic difficulty every 24 hours. The "Arcade" difficulty of Naval EC is actually a mix of Arcade and Realistic; being essentially the same as Realistic, but allowing vessels and aircraft to reload secondary weapons in mid-air and at sea, as well as showing the exact vehicles currently used by the enemy players in the "Statistics" tab.
+
+You need to have a BR 4.7-5.0 vessel in your lineup in order to participate in Naval EC. Naval EC uses a special spawn points system. Vessels of BR 5.0 and below do not cost any spawn points, and vessels above BR 5.0 will cost a certain amount of spawn points depending on the BR. Spawning in an aircraft also costs a certain amount of spawn points depending on the aircraft type and loadout (similar to Ground Realistic battles). Every respawn will cost Silver Lions depending on the repair cost of the vehicle. The longer combat distances mean that Naval EC is more fit for larger vessels, such as late cruisers and capital ships. While many of the tasks found in the Air Simulator version are carried over, gameplay remains focused on the naval battle, with port assaults and convoy actions being the typical gameplay experience. Ports serve both as objectives and respawn points, with the potential to shift the frontline and deal massive ticket bleed. However, ports are difficult to capture due to their defenses — AI-controlled coastal artillery guard the ports alongside enemy players, and these need to be eliminated before you can start capturing a port.
+
+Tasks include:
+
+Gain Air Superiority - fly into the indicated zone with an aircraft and capture it.
+Destroy/Escort the convoy - a naval convoy will spawn in open water, alongside nearby respawn points for boats and ships.
+Destroy/Escort the bombers/surveillance aircraft - a group of aircraft/a single aircraft will spawn, then fly around in circles, slowly moving in a certain direction.
+Help allied forces capture the port - a group of friendly ships will spawn near a friendly port, then proceed to sail towards an enemy port.
+Locate/Destroy the carrier - get within a certain distance to the enemy carrier, then sink it.
+[PvE] Helicopter Battles
+Helicopter PvE is a multiplayer mode in which a player team of helicopters fights against waves of AI targets and completes different tasks.
+
+Tasks include:
+
+Destroy a base - destroy an enemy base which is protected by SPAA
+Destroy the convoy - destroy a convoy moving somewhere on the map
+Destroy the bombers - destroy a group of strike aircraft
+Capture a pad - "pick up an agent" by landing on the helipad marked with a red A and capturing it
+Land on any pad - land on any friendly helipad after "picking up the agent" without being shot down
+Front line - assist ground forces in attacking or defending a sector
+Events
+Historic missions
+Events mode is often available in Realistic and Simulator battle settings, allowing players to partake in battles recreated as accurately as possible using historical sets of aircraft, rather than using the regular matchmaking system of battle ratings. This allows for a more challenging experience for players wishing to play less advanced nations, whilst still providing balanced gameplay through different numbers of players on each team - the more technologically advanced team will often have several less aircraft than the disadvantaged team, whilst the opposition will retain numerical superiority. Occasionally, special community events will be held with Arcade mode settings.
+
+Examples:
+
+Flight of the swallows
+German team has sole access to the Me 262 Schwalbe jet fighter and must bring down a bomber formation of B-17G Flying Fortresses. All while they are under attack by their escorts, the legendary P-51D Mustang. "In 1944, on the threshold of the battle of the Bulge, the US was concerned about the increasing numbers of jet-propelled aircraft in German hands. In order to put an end to this threat, an armada of B-17’s were tasked with bombing the airfields that the "swallows" were based at."
+Operation Uranus
+German forces are trying to break through the encircled city of Stalingrad.
+Operation "Chastise"
+Night time escort mission. Lancaster formation must break through German air defense on their way to an industrial night raid. RAF equivalent to 'Guardian Angels' event. "On the 5th of March, 1943, the Battle of Ruhr was begun; a campaign of strategic bombing that took place during the Second World War. This campaign was planned as an assault on the German industrial area of Ruhr, and both British and American forces took part."
+Guardian Angels
+USAAF equivalent to 'Guardian Angels' event, but in the daytime and B-17s"Schweinfurt was the location of most of the ball-bearing production in Germany at the onset of World War II, it was eventually devastated following a series of Allied strategic bombing raids. It was hoped that the destruction of the factories located in the city would cripple the production of new tanks and aircraft."
+Squadron battles
+For Arcade and matched by ranks, this mode lets teams of 8 players per side duel each other for air supremacy. Matchmaker will only put squadron members of the same clan into the teams, so have 8 fellow pilots ready! Maximum opponent dispersion is one rank e.g. rank III vs rank IV is possible, but not rank II vs rank IV.
+
+For Realistic a different setup is in use known as Tactical Battles with fixed line-ups and a team count of 7v7. Unlike common tank RB matches, all markers are enabled. There is also a Battle Rating cap that slowly decreases.
+
+Due low attendance this event is limited to the following times:
+
+17:00 -> 23:00 (West coast US time)
+20:00 -> 02:00 (East coast & Peru & Columbia & Ecuador & Cuba & Jamaica time)
+22:00 -> 04:00 (East Brazilian & Argentinian & Greenland time)
+01:00 -> 07:00 GMT (British, Irish & Portuguese time)
+02:00 -> 08:00 (Central European time)
+03:00 -> 09:00 (East European & Near East & South Africa time)
+09:00 -> 15:00 (Manila & Perth time)
+Often enough, no available opposition caused teams of players to wait almost indefinitely, or the matchmaker to go haywire and put jet versus piston aircraft. Official forum announcement detailing these changes.
+A Question and answer session script can be found on the War Thunder forum: Q&A session about Squadron Battles
+
+Racing
+Players use the plane at his disposal to fly through a marked course to get to the finish line first. The matchmaker only takes eras into account. Rockets, bombs and guns are disabled.
+
+In the "Formula War Thunder" time is of the essence. Players are sorted via the ELO system and the best racers win in-game prizes.
+
+Floats
+All era I boat- and hydro-planes of War Thunder gather in this mode to try and conquer capture zones on the water.
+
+Rapid fire!
+Lightly armoured anti-air vehicles duels each other here without the interference of their bigger brothers. For balancing reasons Era V & the Kugelblitz are not participating.
+
+PvE
+Exclusive for the Victory Day a special mission was available for play in War Thunder's event browser. "Victory Hour" was a scripted Berlin map wherein a four men tank platoon (the players) were on to repel a German counterattack and then press forwards to capture the Reichstag. In style it was similar to the singleplayer missions available for aviation, albeit earning more Silver Lions and Research Points and having the earlier in "March to Victory!" introduced spawn point system for special vehicles (here: IS-2 mod.44).
+
+War in Mid Air
+In this event, teams are split between attackers and defenders. The task of the attacking aircraft team is to destroy the armoured vehicles that are positioned inside the city and subsequently the anti-air units as well.
+
+The task of the defending anti-aircraft vehicles is to stop the attack from happening and hold the city. Tickets for the attacking team will reduce up to the point when all the city ground vehicles have been destroyed. If the aviation team succeeds in its task, the ticket bleed stops and the task will switch to destroying the remaining anti-air vehicles.
+
+'100' Team Deathmatch
+The '100' event features in both Air and Ground Force battles and is currently exclusive to Arcade mode. In Air Battles, the event is played on the Khalkhin Gol map, in Ground Battles the Poland map is used. Teams battle it out to be the first team to reach 100 destroyed enemies vehicles and win. The event has unlimited respawns.
+
+Tank Football
+Special event for ground forces. It features a modified M551 Sheridan and the Football Field map. This game mode appeared for the first time in "A fiery ball" event. The objective is to have scored more goals than the enemy team within the time limit. If either team reaches a three-goal advantage in 3v3 matches (or five in 5v5) over the other, the match will end instantly regardless of remaining time. The match features 2 regular 5 minute halves in each game. In case of a draw, players will get 2 additional periods of 1.5 minutes each. Only game time is taken into account (as in five a side or mini football). If the results after the two additional periods is still a draw - victory will not be awarded to either team.
+
+April Fools (1st April) Events
+Every year on the 1st April, War Thunder has held special one time only events. From Giant Japanese Snails and Flying Ponies to Russian Mechs and Inflatable tanks, players could be faced with absolutely anything on this day! Past events can be found here: April Fool's Day.
+
+World War Mode
+A game mode involving battles on a global map. Conflict will occur in the format of "operations", which include dozens of individual battles. The game mode differs significantly for the commander, officers and ordinary members of a squadron. Commanders and officers are able to choose which operations their squadrons will participate in, move forces in real time on the operational map and initiate battles.
+
+In the World War game, RB game mode will be used with the marker mechanics of AB.
+
+Singleplayer
+Single Missions
+Each mission unlocked by fulfilling criteria similar to achievements. Short missions usually with a gameplay twist and a short narrative, alongside a .
+
+Dynamic Campaign
+Via selecting settings a historic campaign can be played where vehicles and missions are given by the game. After each sortie, the available missions change and the previous mission's impacts the military campaign on the strategic map.
+
+Historical Campaign
+Available only after purchasing in the store. Currently, the Pacific Campaign for the US or Japan is playable.
+
+User Missions
+Community created sorties. Visit live.warthunder.
+
+Mission Editor
+Available in the lower left corner of the test flight window once the vehicle in question is bought. Allows for creating missions with set parameters and style like Dynamic Campaign.
+
+Test drive/flight/sail
+For testing various configurations of the vehicle, in different weather settings as well as with the possibility to chose the quantity of ammunition on-board (tanks/ships).

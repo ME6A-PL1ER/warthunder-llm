@@ -1,0 +1,64 @@
+War Thunder CDK
+War Thunder CDK (Content Development Kit) is a set of tools for user content creation available to every player.
+The CDK is installed in the game folder and allows the player to edit or create new unique missions and locations, as well as helps create game models. Players can share created content with each other on LIVE and take part in the Revenue Share program by adding their content to the game and earning real money.
+In the War Thunder Wiki, you will find the main series of how-to articles that will help you create your first piece of user content. Open the main category to see all articles related to War Thunder CDK, or learn about the tools one by one.
+
+How to earn money by creating user content
+With its Revenue Share program, War Thunder supports the creation of user content. Participants in the program can add their own user content to the game and receive remuneration if their creations are used. Learn more about the program in the Contribution Agreement.
+
+Helpful tips and FAQs
+Q: What do I need to make my own content and add it to the game?
+A: You need the War Thunder client updated to the latest version. After updating, download War Thunder CDK and install it. Read our short wiki guides on how to create your first mission, location, or model.
+
+Q: I created a new mission – what do I need to do to share it with other players?
+A: You can share created missions, locations, cockpits, models, and skins in the relevant section on live.warthunder.com. Your content will be available for other players to download and rate.
+
+Q: I created a mission/location/aircraft – how do I use it with my friends?
+A: There are several ways to do this. In an online game session, you can only run a created mission that is based on an existing location in the game – to do this, you simply need to own one of the game store items costing more than $10. To run a check of locations and models made entirely by users, you must play in single-player mode.
+
+Q: How do I join the Revenue Share program?
+A: Create your own game content – missions, locations, vehicle models – and upload it to LIVE. Get your content rated by the community. If your content is good enough to be rated highly by the majority of the players, we will consider the possibility of adding it to the game.
+
+
+All user content has a chance of being added to the game. Even a cockpit without an aircraft has every chance of ending up in the game (if the aircraft itself already exists in the game but its cockpit does not, or has been replaced by a full-scale prototype).
+
+Q: How can content creators earn remuneration for this?
+A: Firstly, the content needs to be of a very high standard. It’s possible that your first model or mission will attract limited attention from players, but practice makes perfect. Study reviews and other players’ content to learn from your mistakes.
+
+Secondly, you need to gain the recognition of players. If your creation has a high rating, a large number of downloads, and a slew of positive reviews, this increases the chances of it being added to the game. Your content must also pass our selection process. User content must strictly meet our documentation and quality recommendations. War Thunder is aimed at a wide range of players, so in the event that your content is added to the game, performance and optimization will be just as important as quality of execution or attention to detail.
+
+Any finished model that appears in the game, the author will receive guaranteed payments of between $6,000 and $10,000 (the final amount will be determined by the development team depending on the model’s complexity).
+
+And finally, the ways of making money differ depending on the content type. Player-created vehicle models added to the game will be available only as premium vehicles for a certain period. This means that the creator will receive a share of the money spent by players on this aircraft. If or when this model is added to the main development line, the creator will receive a share of the earnings from RPs spent on unlocking the aircraft. When cockpits for existing aircraft are added to the game, the creator earns money in the same way as for aircraft added to the main line (taking into account that the cockpit is not a complete aircraft).
+
+Missions and campaigns will be included in paid packs. Any user-created mission can be played for free after downloading, but not in a group – co-op mode is only available for missions that have passed selection and quality control. This also applies to locations created exclusively for co-op missions or campaigns.
+
+Skins in the game are sold for Golden Eagles and a corresponding share of the earnings from skins sales are passed on to their creators.
+
+Things get complicated when it comes to locations (and in future, PvP missions) as these do not generate any direct earnings, and there is not a single way to even calculate an estimate. In all likelihood, we will assess locations in a competition format i.e. there will be fixed payments made to creators of missions that are rated highly by players (by poll).
+
+Q: Is there currently any limit on the size of created locations?
+A: There is no size limit on locations, in the sense that you will not be prohibited from creating a location that is 200x200 kilometers. There is no specified size limit because level of detail is just as important.
+
+
+By prioritizing the level of detail in your location, you sacrifice size, and vice versa. In addition, errors in rendering accuracy and game physics will likely prevent full enjoyment of flying at points more than 120–150 km away from zero (i.e. the natural limit is approximately 300x300 km). In the future, we may increase accuracy at such distances if there is demand for it among location creators.
+
+Q: How do I create missions in War Thunder? I don’t know any programming languages. Can I create missions?
+A: Missions are created using a system of triggers (event based) and by placing objects on a map. The system might seem complicated, but it is actually quite simple to learn and understand. You simply set a sequence of events in the mission and the conditions for triggering them.
+
+
+Q: When a new version is released, will my locations/aircraft/models/missions still be compatible?
+A: The game is regularly updated, so it is entirely possible that compatibility will be lost. However, this is highly unlikely and even if it were to happen, we will strive to inform all creators in advance of the changes as soon as it is clear that they are unavoidable.
+
+Q: Will PSD files (layered image files) be provided for all aircraft textures?
+A. There are no plans for this at present. It’s possible that in the future, we will hold contests to find the best skins, and that PSD files will be uploaded for those aircraft.
+
+Q: Will I be able to change the number of players on each side? In the editor, you can have battles of 40 bots on each side. Will the CDK let me have this many players or will this module be cut?
+A: Conditions for battle are already set by us in mission settings on the server. With players, the mission starts with all standard settings for training ground missions, and the 16x16 player limits will remain for the foreseeable future. This is necessary mostly due to client performance issues – 40x40 bots of identical models is easier to run in the network infrastructure. If the situation changes, we will inform you in advance.
+
+Q: Will I be able to change the victory conditions?
+A: Yes, you have free rein to change the victory conditions. For example, you can set a constant reduction of points for a selected team, cut their points entirely or partially when specified units are destroyed, and set them as the mission objective. So yes, you can.
+
+Q: What is the maximum number of units (bots) allowed in a mission?
+
+A: There is no limit on units. The CDK testers created a mission with 14,000 units (infantry, tanks, and artillery). However, the number of objects affects performance, so missions with 30,000 units would be virtually unplayable on the average PC.

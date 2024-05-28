@@ -1,0 +1,291 @@
+info to soldiers:
+world war: to the combat troops-
+
+This mode has significantly different gameplay for commanders and combat troops. If you are one of the commanders, we have an article that may be useful for you.
+Game mode with battles on the global map that are run in “Operations” format and are based on historical events.
+
+World War mode battles are run in Realistic mode without markers. Including aircraft vs aircraft battles.
+
+Participation
+World War is available to all players that have at least one purchased rank 3 vehicle.
+The World War mode in War Thunder is represented by Operations that two opposing regiments participate in. Regular players can find Operations via the "Find Operations" button in the main menu of World War and participate in them as "mercenaries".
+
+World War can be divided into seasons, each with its own fixed schedule of active scenarios and valuable prizes for the random players, regiments, and their commanders. World War can also play out as a regular event with minor prizes, in order to familiarize the players with this mode, to train the regiments and test out the mode's mechanics.
+
+Each participant of World War has their own role:
+
+Squadrons	Squadron members	Free players
+Take a role in one of the contesting parties and lead the Operation until it's over, commanding the armies and initiating battles and participating in them.	May fight both for their own squadrons within an Operation or participate as free players joining any available battles.	Can play a role of reinforcements taking any vacant places in available battles and helping one of the battling parties.
+Interface
+You can enter the World War interface using the “TO BATTLE” button menu, by selecting the “World War” option.
+
+World War main menu
+From here participation begins in the World War as the commanders of squadrons, their members or free players. The main menu consists of three parts:
+
+Operation Search: Pressing the "Find Operation" button starts the search for a new game. The player can specify search options, such as preferred side, and check the list of the game servers that match the criteria. After finding an Operation, the game will join it automatically.
+
+Join an Operation: Leaving an Operation doesn't make you unable to rejoin it. Press the "Return to (Operation number)" button to rejoin the last found Operation. Additionally, for regiment members there's always an active "Join (Operation number)" button if the regiment currently participates in a World War Operation. Also squadron members with the rank of Sergeant or higher can invite players from their contact list to join the operation.
+
+Create an Operation: Regiment members who have a rank of Sergeant or higher can create new Operations. You need to have at least 20 players with vehicles of rank III or higher in your regiment.
+
+Also in the World War main menu you can find information on prizes for participation in the battles, and an option to choose priority servers for the game.
+
+Preparing for battle
+Having joined an Operation, the player is taken to the Operation main window. The current battles can be joined by clicking on them on the map.
+
+Joining the battle, the players can find its description, the participating forces, and tactical map of the location where the battle will be fought.
+
+You are only able to use vehicles that form part of the battle army. Players will always receive one vehicle from each vehicle group of the army. If the player has already purchased other suitable vehicles from the vehicle group, those vehicles may be placed into a vehicle slot instead.
+
+The vehicle will join the battle with all researched and installed modifications, but the player’s crew level will be whatever that crew’s slot is normally.
+
+The process of placing vehicles into vehicle slots can be done automatically by pushing the “Generate vehicle preset” button. The mechanism will select, from all of the player’s vehicles, those vehicles with the highest BR for each vehicle group in the army and will put them into the vehicle slots with the maximum crew levels and highest crew qualifications in them.
+
+Participation in the battle
+Main article: World War: Battle Respawn Rules
+After completing preparation for battle, a player selects "To battle!" and enters the mission, the tasks of which depend on many factors, including: the type of armies encountered, their composition, the conditions under which the battle has begun, and much more.
+
+Upon entering battle, a player will receive from 1 to 3 randomly selected vehicles from the army and must complete the mission tasks in the allotted time.
+
+Every lost vehicle is deducted from the army! Try to protect your vehicle.
+Read the main article regarding the rules on distribution of vehicles among the participants, peculiarities of aviation armament and symbols.
+
+In the squad
+The mechanism of participation in battles in a squad is not particularly different from the mechanics of participation in random battles, except that the possibility of assembling a squad of up to 10 participants - this mechanics works only in battles in World War.
+
+Squad members who remain in the hangar see which Operation their leader is joining and must join it to participate in the battles of this Operation. The “Ready” button is replaced with a button with the number of the Operation that the leader selected (the globe icon in the squad widget serves the same function). When the squad leader enters the battle of the current Operation, all players are brought to the battle preparations window. In this window they can create a list of vehicles (or do it automatically by pressing the “Create a vehicle list” button) and confirm the readiness of their crews. After that the leader can join the battle.
+
+Mechanics
+Safe exit area
+There are no airfields in World War aviation missions, and the air reserve and aviation fuel reserves are limited. In order that a vehicle is not lost from the army, it is enough to fly to a special safe exit zone. A pilot in such a zone will be able to take the vehicle out of battle (button J) without losing it for the army.
+
+Army morale
+Defeat in one World War battle does not entail catastrophic consequences for the entire Operation, as it was in reality, and often commanders resort to creating lost battles deliberately - for example, in order to delay an enemy attack. But every army has a morale index, which decreases with every defeat and increases with victory. An army whose morale index has fallen to zero will surrender to the enemy and disappear from the Operation map. Consider this in battle, even when fighting on the side of an unfamiliar squadron.
+
+Reinforcement
+If you don't have an aviation army at your side in battle, the commander can send reinforcements in the form of aircraft at any time: fighters, attackers or helicopters. Aircraft will begin to be distributed among the members of the allied side according to the usual rules.
+
+Battle re-spawn rules-
+World War: Battle Respawn Rules
+A confrontation between two armies in World War mode initiates a battle where the participants may only use the combat units in their respective armies. Each army’s units are placed in the pool  and distributed between the combatants.
+
+Unit Distribution
+At the start of a battle, each combatant receives 1-3 combat units, which are randomly selected from the pool. The number of units received is determined by the total number and variety of combat units in the army, while the chance of receiving a particular vehicle solely depends on how many of these units there are in the pool. 
+
+When playing with other players from your regiment, a common vehicle pool for your group is created. For example, 3 players from one regiment participate in a battle, and each of them has 3 vehicles. These are united in a single pool of 9 vehicles that are available for all three regiment members.
+
+The respawn window shows all the vehicles available for the army.
+
+When the player loses a vehicle during the battle, they receive a random vehicle from the army pool (if there are any vehicles left).
+
+The number of the army’s vehicles in the battle
+The number of vehicles or each group that remains in the army can be checked in the respawn window. In white is the number of vehicles remaining in the army, in yellow is the number of vehicles assigned to all players.
+
+When a player exits the battle, all vehicles assigned to them are returned to the army pool and can be assigned to other players.
+
+For the enemy army only the number of vehicles remaining is shown, not counting the vehicles assigned to the players.
+
+Preparation for battle
+Before the battle, the participant will always receive one fully researched vehicle from each vehicle group of the army and will be able to put them into their vehicle slots. The level of respective crew and its qualification on the selected vehicle in the vehicle slots are taken into account.
+
+If the player has their own suitable vehicles for the battle, that can be used instead. You can take one vehicle from each vehicle group represented in the army into the battle.
+
+You can automatically place your vehicles eligible for battle with the maximum battle rating from each group in the vehicle slots by pressing “Generate vehicle preset”.
+
+Over the course of a battle, players earn Spawn Points, which allow them to use the units placed in their vehicle slots even if they didn’t receive the said vehicles during the distribution stage. You can purchase for spawn points special vehicles that can be urgently needed in certain battle situations: SPAAGs and aircraft.
+
+Unspent spawn points in World War are carried over to the next battle.
+Air Reinforcements
+The commander can call in for air reinforcements if there are no allied air units in battle.
+
+The distribution of the newly arrived air units follows the standard rule of replacing the next aircraft lost.
+
+Information for commanders:
+World War: For Commanders-
+
+The game mode with battles occurs on the global map in the form of “Operations”, which are based on historical events. 
+
+Battles in World War happen at Realistic Mode without markers. Including aircraft vs aircraft battles.
+
+Participation
+Regiment members who have a rank of Sergeant or higher can create new Operations. You need to have at least 20 players with vehicles of rank III or higher in your regiment.
+
+Squadrons: Take on the role of one of the warring parties and conduct operations to their end, controlling armies, initiating battles and participating in them.
+
+Squadron Members: Can act for their own squadron within an operation and in the role of unassigned players by connecting to any available battles.
+
+Unassigned Players: Can act as reinforcements, taking open spots in any available battle and helping one side win.
+
+Before creating an Operation for your regiment, you need to make a priority list of regional server clusters. When creating an Operation, a cluster with the highest rating for both Operation creators (you and your opponent) is selected; this cluster is assigned to the Operation and you can find it in the top right corner of the Operation screen. All the battles created in this Operation will start on the servers of this cluster.
+
+Entry fees and awards
+However, it is worth remembering that the creation of WWM operation is a paid service. Its cost will currently be 70,000 SL that will be deducted from the player who has declared the squadron for a WWM operation at the time the squadron will enter the operation.
+
+In turn, at the end of the operation, commanders also receive an award in SL which is calculated on the base the sum of the mission points of all players in all battles of the operation and distributed evenly to all commanders of that operation based on their activity. The additional reward multiplier is different in case of victory (1.1) or defeat (0.9).
+
+For example if there are two commanders with an activity of 25% and 75% and the sum of all players points in all battles of the operation is 100000 they will receive 0.25 * 100000 * 1.1 = 27500 and 0.75 * 100000 * 1.1 = 82500 Silver Lions respectively for their efforts in command.
+
+At the same time, if the calculated reward of the commander-applicant will be less than the activity times the operation creation costs - it will increase to that value.
+
+For example in the case of a quick victory over the enemy in which only 20,000 mission points have been earned in battles if there are two commanders - 80% activity for applicant and 20% activity of second commander the commanders rewards will be calculated as follows. Calculated reward for applicant will be 0.8 * 20000 * 1.1 = 17600 SL which is less than the product of the activity by the creation cost of the operation (0.8 x 75,000 = 60,000), so his reward will be raised to 60,000 SL. For the second commander the reward will be 0.2 * 20000 * 1.1 = 4400 without any additional recalculations.
+
+Interface
+A squadron commander controls armies through a tactical board, which is divided into two sections: the Operation Screen and the Information Panel.
+
+Operation Screen
+Military operations run in this part of the screen.
+
+Sectors
+The operation map is divided into sectors that define control of the territory and the front line. Each sector can be neutral or belong to one of the sides.
+
+Sectors that are not connected to the rear will not be considered to be controlled.
+Special sectors:
+
+Rear Sector – reinforcements may be deployed through a rear sector. In addition, troops receive supplies via the rear sectors.
+Key Sector (bright border) – as a rule, this is a target area to capture or hold in an operation. Also, the more key sectors a side holds, the quicker reinforcements arrive.
+Armies
+This is the primary combat unit in the Operation. They can participate in battles and capture sectors by advancing the front line. Armies are marked on the operation map with a specific symbol.
+
+Airfields
+Separate sectors where runways for aviation forces are located.
+
+When you select an airfield, you can see detailed information about available aircraft and armament, as well as form an aviation army.
+
+Information Panel
+Additional data regarding objects on the operation map are available here.
+
+Operation Objectives
+In each operation, both sides of the conflict have a list of objectives that will lead to a victory if fulfilled. In this menu, you can see the full list of tasks and detailed descriptions of them.
+
+Operation Log
+The log stores all events that have occurred since the operation began. The operation log has interactive features. Hovering the cursor over the name of a sector will display it on the map, and clicking on a battle will take you to the screen for this battle if it is still in progress or, if not, show its results.
+
+Tactics
+Operation victories may be awarded for fulfilling various objectives, but to achieve any of them, you will need to move your armies around the Operation map and capture or hold sectors.
+
+Army Management
+You can select an army by left-clicking on it and give orders to move or attack by right-clicking.
+
+Ground Army Management
+You control all armies with the following keys:
+
+Right-clicking orders an army to move to a specified point.
+Shift + left-click allows you to create a route with several points or add points to an existing route.
+S gives the order to stop. It can also cancel the current action, such as entrenching or an artillery salvo.
+Aside from the tactical aspect of army management, you must also consider the type of terrain over which your armies will travel. The type of terrain affects both the speed of your ground forces and the missions created for ground battles in this map section.
+
+Road – x1.4
+Village – x1.2
+Off-road – x1.0
+Snow or sand – x0.9
+Forest or fortifications – x0.7
+River – х0.33
+Large bodies of water or mountains – impassable for ground forces
+Ground Army Confrontation
+A confrontation between two opposing armies leads to a battle.
+In a confrontation, armies move to the battle point and lose the ability to move until the battle is over.
+Ground forces cannot cut through an ongoing battle. If an army attempts to do this, it will be pushed back and stopped.
+Determining whether passage is possible or not is simple – no part of the army piece may contact the battle in progress.
+
+Aviation Army Management
+Available aircraft are considered as part of an army only at the time of takeoff. At all other times, they are located at the airfield.
+
+Takeoff
+To create an aviation army you need to select the airfield and then select the target by clicking the right mouse button (like ground armies). In the opened window select the vehicle groups that will be part of the army. Also you can specify the role of the fighter army as attacker which will allow it to attack ground and naval vehicles in full-fledged battle and not auto battle and also use suspended weaponry. In this case the battle with a bomber army such fighters will enter the battle in auto battle mode.
+
+Armament
+Aircraft will join with full ammunition load in each battle including suspended weaponry for attackers and bombers. In the battle the pilot will be able to choose how to arm his aircraft.
+
+Fuel
+Aircraft armies can spend a limited amount of time in the air. Each aircraft’s maximum flight time depends on its maximum possible fuel load. The maximum flight range of an air army is calculated based on the lowest flight range value of all its aircraft. The air army always stows an untouchable fuel provision, which is needed to return to the airfield. If, during the flight, all fuel outside of this reserve runs out, the army stops responding to commands and automatically returns to the base.
+
+Air Army Confrontation
+Only an air army can intercept another air army. An aviation army will only attack a ground army when it has received the appropriate order.
+
+An air army will remember a target if you specify the enemy’s army as the end point of its flight path. It will not pursue targets, but if it stops above several enemy armies, it will attack specifically the targeted army.
+Deploying Reinforcements
+The Reinforcements menu in the Information Panel contains a list of the armies in the process of arriving to the operation map. When the timer runs out, these armies can be deployed in the rear sectors and participate in the battle.
+
+Click on the army, then on any rear sector you control for the ground army or on an airfield for your air army. The ground army will deploy immediately. Aircraft will first go to the selected airfield to refuel and load ammunition, after which it will become available.
+
+Army Panel
+The army panel contains all information about an army.
+
+An icon displays the army’s status. Possible statuses: Waiting, Moving, In Combat, Entrenched, or Entrenching.
+Main vehicle type and quantity. If the army does not have enough vehicles, it is considered eliminated and disappears from the operation map.
+Morale (depends on confrontation outcomes. The army that has lost the remainder of its morale by the end of the fight surrenders to the enemy).
+Vehicle List A complete list of an army’s vehicles, where you can see the quantity and their ammunition (for air armies).
+Capturing Sectors
+To capture sectors, several conditions must be met:
+
+The sector must not contain the ground armies of the side that previously controlled it.
+The sector must contain at least one ground army from the capturing side OR the sector must be cut off from support (the capturing side must surround the sector on all sides).
+When these conditions are met, the other side gains control of the sector.
+
+Battle
+A confrontation between two armies begins a battle that members of opposing squadrons and unassigned players may join.
+
+Battles in World War are PvP or PvPvE missions, in which players must complete tasks using the vehicles of opposing armies to achieve victory.
+
+Start of Battle
+All generated battles form an operation battle queue and become active as previous battles end. Only four battles may be active at one time during an operation, regardless of occupancy.
+
+The battle will start automatically if there are not enough vehicles to distribute between 20 players, or if the battle has "Not Started" for more than 30 minutes.
+
+Vehicles in Battle
+Vehicle groups will be used in battle that are available for participation in the battle armies. However, they may not be available to the players. Depending on the mission, the AI may control some of an army’s vehicles. Any vehicle losses are recorded as army losses, regardless who controlled them (players or the AI). If all of an army’s available vehicles are lost during battle, players in this army can no longer respawn.
+
+Incidentally, during battle, you may view a list of the remaining forces for each side in the vehicle selection window. It is displayed in the upper right corner of the interface.
+Battle Type
+Main article: World War: Missions
+Battle tasks depend on the confrontation conditions.
+
+Defence – an attack on an entrenched army with the goal of capturing the defended point.
+Convoy – an attack on a moving formation of armoured vehicles and/or motorized infantry.
+Air Cover - attack on enemy bombers or attackers under air cover.
+Head-On Course – a direct confrontation between two armies with the goal of mutual elimination.
+Auto Battle – a battle without player participation.
+Reinforcements
+You may send air army reinforcements into land battle already in progress if your aircraft have yet to engage during this battle. Aircraft will become available to the fighters after the next respawn.
+
+In this case you can not add reinforcements in the form of ground armies but you can “catch” an enemy army leaving a battle with your own more powerful army.
+Artillery Attack
+An area-effect attack is available to the artillery army directly on the operation map. All armies, including allied armies, located inside the strike radius lose vehicles. An army’s loss depends on how accurately the strike landed the range of fire at the time of each volley. Entrenched armies will sustain significantly fewer losses.
+
+An artillery strike occurs in several stages. First is the guidance stage, followed by a series of volleys. Firing artillery consumes the existing stock of shells. The maximum reserve is enough for a series of 3 volleys. Spent shells are replenished at regular intervals, one volley at a time.
+
+The artillery army sustains heavy losses in direct confrontations! In an air raid, the battle begins in Anti-Air Defenсe Mode, where fighters can access SPAAG. An attack on a ground army begins an automatic battle.
+Army Destruction
+An army with too few vehicles is considered eliminated and disappears from the Operation map.
+
+Also, an army that suffers defeat too often and does not achieve victories loses morale. If its morale reaches 0, that army surrenders and disappears from the Operation map.
+
+Mechanics Features
+Entrenchment
+Tank and infantry armies have the ability to entrench themselves. An entrenched army receives significantly less damage from an artillery strike and in case of attack on such, the army will start the “Defense” battle which is advantageous for the defenders. Entrenchment takes time.
+
+Retreat
+A defeated army that has not been destroyed according to the battle results retreats in the opposite direction, away from the opponent, losing its previously held position and its “Entrenched” status, if it had it. Retreating air armies stop responding to orders and return to the airfield.
+
+Morale
+Indicates an army’s morale level. Morale rises with each victory and falls with each defeat. An army with zero morale based on the battle results surrenders to the enemy and disappears from the operation map.
+
+Encirclement
+Ground forces located in a sector without a link to the rear are considered encircled. These armies begin losing supplies and will be destroyed after a certain period, which you can track in the army’s information.
+
+Additional Information
+This information will become separate, detailed articles in the future.
+Respawn in World War Battles
+World War uses a respawn mode that reflects the confrontation between the armies. Armies have a limited preset of vehicles available to participate in battle, and they are randomly distributed among the players. Several vehicles are available to the player for respawn at any given time. Vehicles are selected at random from the list. The probability of obtaining a particular model depends on the quantity of that vehicle.
+
+Available vehicles are distributed among the squadron’s players. If the player chooses to respawn available vehicles, other members of the squad or squadron will be able to join the battle in the remaining vehicles.
+
+After taking a vehicle into battle, you must wait at least 60 seconds before taking the next vehicle.
+
+Safe Exit Zones in World War Battles
+Since each mission follows a confrontation between aircraft already in flight, another defining feature of World War missions is the absence of airfields. Instead, the maps have safe exit zones. If a player abandons an aircraft in a safe exit zone, the aircraft is recorded as a survivor and will not be deducted from the army. However, it will no longer be available for use in that battle.
+
+Good command skills will come with time. In War Thunder’s World War!
+
+Missions in World War
+The mission for each battle is selected based on the type and status of the battling armies.

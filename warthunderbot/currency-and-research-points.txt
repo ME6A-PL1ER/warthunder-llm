@@ -1,0 +1,43 @@
+In-Game Economy
+The economy in War Thunder consists of three different aspects: the currencies with the earnable Silver Lions (SL) and "premium" Golden Eagles (GE), which can be bought with real money or more rarely given out as login prizes, the progression with Research Points (RP), and the bonus Warbonds (WB). The economy is largely based on two aspects. Research is done via the eponymous research points, and every other aspect within the game is managed via silver lions. Research can be boosted by using "convertible RP" (after a match some of your RP will be received as convertible RP which can only be used with Golden Eagles to convert to bonus RP towards the research of a vehicle). You get research and silver lions based on individual match performance, plus a large bonus if your team manages to win the match.
+
+For silver lions, you pay to not only buy each vehicle, but also to place each vehicle in a crew slot. For example, a vehicle costing 77,000 SL will actually need 99,000 SL to use, as once purchased the vehicle cannot be used unless you pay an additional 22,000 to the 77,000 to place it into a crew slot. The cost of crew training is available on each vehicle page in the section "Modifications and economy".
+
+Simply researching a vehicle does not mean that you can use it, unless the vehicle is purchased and crewed. In addition you must research several vehicles in every tier to progress into the next tier, and most lines in War Thunder prevent you from even researching vehicles unless you have researched vehicles directly above it, indicated by the arrows connecting vehicles in the vehicle research interface. In addition, vehicles connected by the arrow require that the preceding vehicle be bought (but not necessarily crewed) before the latter vehicle is able to be bought.
+
+Lastly, SL is used to buy modifications, which can be unlocked either by Golden Eagles or by playing the vehicle the modification is on in any match. Modifications use the same type of sequential progression.
+
+Whilst you do earn SL in every battle, you also can also lose SL via paying for ammunition and repair costs (expenses charged to instantly repair a vehicle) and whilst you can freely repair vehicles, some vehicles take in excess of one week to be fully repaired. As there is no SL loss cap, it is not uncommon to actually lose SL at the end of a match, as the SL you are told that you have gained on the victory/defeat screen does not take into account the repair cost(s) and ammunition costs you need to pay. You never can lose research, but you cannot shift research from one vehicle to the next, locking all research put into that vehicle solely into that vehicle.
+
+Currencies
+Silver Lions
+Main article: Silver Lions
+Silver lions are the main War Thunder currency, used in-game to purchase new crew slots (#3-5), standard vehicles, and modifications, as well as repairing damaged vehicles and purchasing ammunition and ordnance. These can be earned by playing games and destroying enemies and ground units, achieving kill assists, completing Single Missions and from battle trophies. With a premium account, players will earn an increased amount of silver lions per battle, helping to speed up their advancement through nations' aircraft and ground unit trees. Golden eagles can also be converted into silver lions if a player is running low and needs some quickly.
+
+Golden Eagles
+Main article: Golden Eagles
+Golden eagles are a premium in-game currency, which can be spent on a Premium Account, which increases Silver Lion and RP gain, and other additional content: premium machines, faster crew development, additional places in a hangar, boost research, purchase talismans, and purchase Battle Trophies in the Item Shop. They can also be exchanged to another in-game currency — Silver Lions.
+
+Researching
+Main article: Research Points
+Vehicle Research
+Vehicle research points are used for researching new aircraft and ground units in War Thunder. These are earned in a similar way to silver lions - by playing games and achieving air and ground unit kills, and by achieving kill assists. Like with silver lions, research point gain can be increased by purchasing premium account time, to help players unlock their desired aircraft and ground units faster.
+
+Convertible Research Points
+Convertible research points (CRP) are a backup pool of extra research points that players gain each game. Usually, the gain is equal to the normal research points, but bonus CRP can be received as a reward for completing single-player missions, tutorials, and some achievements. CRP can be converted into vehicle RP with golden eagles under a tagged "researching" vehicle with Boost Research at any time if a player wants to research faster than by simply playing. 1 Golden Eagle will convert 45 CRP into 45 vehicle RP.
+
+Module Research Points
+Module research points (MRP) are separate research units for individual vehicles meant to be used to unlock vehicle modules, which would then require Silver Lions to be bought. MRP are scaled like research point rewards in-game, though more dependent on an individual tank's performance in the game rather than the overall match time. The amount of MRP needed to unlock a module as well as its cost in SL is available on each vehicle page in the section "Modifications and economy".
+
+Crew Experience Points
+Main article: Crew skills
+Crew experience points are points allocated to the individual crews of the hangar/garage for a particular vehicle slot. They can be spent on Crew skills, which improve the capabilities of your crew.
+
+Crew experience points are calculated based on research points as follows:
+
+In Arcade battles - 30 experience points for 1,000 RP
+In Realistic battles - 11.3 experience points for 1,000 RP
+In Simulator battles - 9 experience points for 1,000 RP
+War Bonds
+Main article: Warbonds
+War bonds are a special currency that can be earned by achieving progress in the current Battle Pass Season. These can be spent in the Warbond shop for premium vehicles or other in-game items such as boosters and universal backups.

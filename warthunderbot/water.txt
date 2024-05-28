@@ -1,0 +1,829 @@
+USA:
+C
+Carmi (PC-466)
+K
+Kim Qui
+L
+LCM(6) Zippo
+LCS(L)(3)
+P
+PC-451
+PT-103
+PT-109
+PT-174
+PT-20
+PT-200
+PT-3
+PT-314
+PT-565
+PT-59
+PT-6
+PT-658
+PT-71
+PT-810
+PT-811
+PT-812
+PTF-7
+S
+SC-497
+T
+Thunderbolt (PT-556)
+U
+USS Alaska
+USS Arizona
+USS Arkansas
+USS Asheville
+USS Atlanta
+USS Aylwin
+USS Baltimore
+USS Barker
+USS Bennion
+USS Brooklyn
+USS Candid
+USS Cleveland
+USS Cowell
+USS Cyclone
+USS Davis
+USS Dealey
+USS Des Moines
+USS Detroit
+USS Douglas
+USS Fargo
+USS Fletcher
+USS Frank Knox
+USS Gearing
+USS Helena
+USS Hoquiam
+USS Litchfield
+USS Mississippi
+USS Mitscher
+USS Moffett
+USS Nevada
+USS New Orleans
+USS Newport News
+USS North Dakota
+USS Northampton
+USS Pensacola
+USS Phelps
+USS Pittsburgh
+USS Porter
+USS Portland
+USS Raleigh
+USS Roanoke
+USS Somers
+USS Sumner
+USS Texas
+USS Trenton
+USS Tucumcari
+USS Welborn C. Wood
+USS Wilkinson
+USS Wyoming
+
+Germany:
+A
+Admiral Graf Spee
+Admiral Hipper
+AF D1
+AF D3
+Albatros
+B
+Bussard
+D
+Drache
+E
+Emden
+H
+Hugin
+J
+Jaguar
+Jaguar-Klasse
+K
+K2
+Karl Marx
+Karlsruhe
+KM-5
+Krischan der Große
+Köln
+Köln F220
+L
+Leipzig
+Leopard
+LS 3
+LS 4 Esau
+Luchs
+Lübeck
+M
+M-17
+M-802
+MZ1
+N
+Nürnberg
+P
+Pfeil
+Pr. 206 (Germany)
+Prinz Eugen
+R
+R-130
+R-301
+R-41
+S
+S-100
+S-100 (1944)
+S-204 Lang
+S-38
+S-38b
+S-701
+Scharnhorst
+SF40 Heavy
+SF40 Light
+SMS Baden
+SMS Bayern
+SMS Elbing
+SMS Helgoland
+SMS Kaiser
+SMS Nassau
+SMS Ostfriesland
+SMS Sachsen
+SMS Von der Tann
+SMS Westfalen
+T
+T22
+T31
+V
+V-990
+VS-10
+VS-8
+Z
+Z12 Erich Giese
+Z15 Erich Steinbrinck
+Z20 Karl Galster
+Z22 Anton Schmitt
+Z25
+Z32
+Z43
+Z46
+Z47
+
+USSR:
+B
+Besposhchadny
+Bezuprechny
+Blagorodnyy
+BMO
+Bravy
+C
+Chapayev
+D
+D-3
+F
+Frunze
+G
+G-5
+G-5 (ShVAK)
+Groza
+I
+Imperatritsa Mariya
+K
+Kerch (cruiser)
+Kerch (destroyer)
+Kirov
+Krasny Kavkaz
+Krasny Krym
+Kronshtadt
+L
+Leningrad
+Letuchiy
+M
+Marat
+Maxim Gorky
+MBK pr.186
+MBK pr.186 (MK 85)
+MBK-161 early
+MBK-161 late
+Mikhail Kutuzov
+MO-4
+Moskva
+MPK pr.122A
+MPK Pr.122bis
+MPK Pr.12412
+MPK Pr.12412P
+MPK Pr.1331M
+MPK Pr.201K
+MPK Pr.201M
+MPK Pr.204
+MPK-163
+N
+Neustrashimy
+Novorossiysk
+O
+OD-200
+Ognevoy
+Opytny
+P
+Parizhskaya Kommuna
+Poltava
+Pr. 206
+Pr.1124 early
+Pr.1124 late
+Pr.1124 MLRS
+Pr.1204
+Pr.1204 late
+Pr.123-bis
+Pr.123K
+Pr.123K (A-11)
+Pr.183
+Pr.183 BM-21
+Pr.191
+Pr.191M
+Pr.206-M
+R
+Rosomacha
+Ryany
+S
+Shcherbakov
+SKR-1
+SKR-7
+Smelyi
+Soobrazitelny
+Spokoinyy
+Stroyny
+Sverdlov
+T
+Tashkent
+TKA-106
+V
+Voroshilov
+Y
+Ya-5M
+Yenot
+Z
+Zheleznyakov
+
+Great Britan:
+B
+Brave Borderer
+D
+Dark Adventurer
+Dark Aggressor
+Dark Aggressor TD
+F
+Fairmile A (ML100)
+Fairmile B (ML345)
+Fairmile C (312)
+Fairmile C (332)
+Fairmile D (5001)
+Fairmile D (601)
+Fairmile D (617)
+Fairmile D (697)
+Fairmile H LCS(L)(2)
+H
+HMAS Arrow
+HMAS Nepal
+HMAS Tobruk
+HMCS Brantford
+HMCS Haida
+HMCS Terra Nova
+HMNZS Leander
+HMS Abdiel
+HMS Arethusa
+HMS Armada
+HMS Belfast
+HMS Blackpool
+HMS Brissenden
+HMS Cadiz
+HMS Calpe
+HMS Churchill
+HMS Colossus
+HMS Daring
+HMS Diamond
+HMS Diana
+HMS Dido
+HMS Dreadnought
+HMS Enterprise
+HMS Eskimo
+HMS Gay Archer
+HMS Glorious
+HMS Grafton
+HMS Hawkins
+HMS Hood
+HMS Invincible
+HMS Iron Duke
+HMS Jervis
+HMS Kelvin
+HMS Kent
+HMS Leopard
+HMS Liscomb
+HMS Liverpool
+HMS London
+HMS Marlborough
+HMS Mohawk
+HMS Montgomery
+HMS Norfolk
+HMS Orion
+HMS Peacock
+HMS Renown
+HMS Southampton
+HMS Spey
+HMS Tiger
+HMS Valhalla
+HMS Vega
+HMS Verdun
+HMS Whitby
+HMS York
+L
+LÉ Orla
+M
+MGB-61
+MGB-75
+ML 1383
+MTB Vosper
+MTB Vosper(2)
+MTB-1(1)
+MTB-1(2)
+MTB-422
+O
+ORP Garland
+S
+SGB Grey Fox
+SGB Grey Goose
+
+Japan:
+A
+Akebono
+Asagao (YTE-01)
+C
+Chidori
+Chikugo
+H
+Ha-Go (mod. 1)
+I
+IJN Agano
+IJN Akizuki
+IJN Aoba
+IJN Ayanami
+IJN Furutaka
+IJN Fuso
+IJN Haruna
+IJN Hatsuharu
+IJN Hatsuzuki (WT Mobile)
+IJN Hayanami
+IJN Hyuga
+IJN Ikoma
+IJN Ise
+IJN Isuzu
+IJN Kako
+IJN Kiyoshimo
+IJN Kongo
+IJN Kuma
+IJN Kurama
+IJN Mikuma
+IJN Mogami
+IJN Momi
+IJN Mutsu
+IJN Mutsuki
+IJN Myoko
+IJN Nenohi
+IJN Satsuki
+IJN Sendai
+IJN Settsu
+IJN Shimakaze
+IJN Suzuya
+IJN Tone
+IJN Yamashiro
+IJN Yubari
+IJN Yugumo
+IJN Yuudachi
+Ikazuchi
+Isuzu
+J
+JDS Ayanami (DD-103)
+JDS Harukaze (DD-101)
+JDS Yūgure (DD-184)
+P
+PG 02
+PT-15
+PT-808
+S
+Soukou-Tei
+Soukou-Tei No.4
+Syonan
+T
+Type 4 (Mod 4)
+Type 4 (mod. 2)
+Type 5
+Type K-3 No.1
+Type K-7 No.4
+Type K-8 No.13
+Type K-8 No.13 late
+Type T-1
+Type T-14
+Type T-14 (mod. 1)
+Type T-38
+Type T-51a
+Type T-51b
+
+Italy:
+A
+Albatros F543
+F
+Folaga
+Freccia P-493
+G
+Geniere
+GIS 811
+I
+Impetuoso
+M
+MAS 555
+MAS 561
+MAS 569
+MC 485
+MC-490
+MS-15
+MS-472
+MS-473
+MS-53
+MV-611
+R
+RN Andrea Doria
+RN Aquila
+RN Aquilone
+RN Attilio Regolo
+RN Aviere
+RN Bartolomeo Colleoni
+RN Bolzano
+RN Comandante Margottini
+RN Conte di Cavour
+RN Corazziere
+RN Da Verazzano
+RN Dante Alighieri
+RN Dardo
+RN Duca degli Abruzzi
+RN Duilio
+RN Etna
+RN Eugenio di Savoia
+RN Gabbiano
+RN Geniere
+RN Leonardo da Vinci
+RN Leone
+RN Pola
+RN Raimondo Montecuccoli
+RN Tigre
+RN Trento
+RN Turbine
+RN Zara
+S
+Saetta P-494
+Sparviero
+Stefano Turr
+V
+VAS 201
+
+France:
+A
+Aigle
+B
+Bourrasque
+Bretagne
+C
+Chacal
+Colbert
+Courbet
+D
+Duguay-Trouin
+Dupleix
+E
+Emile Bertin
+J
+Jeanne d'Arc
+K
+Kleber
+L
+La Combattante
+Le Malin
+Le Triomphant
+Leopard (France)
+Lorraine
+M
+Marceau
+Milan (destroyer)
+P
+Panthere
+Paris
+Primauguet
+V
+Vauquelin
+Vautour
+
+Barges:
+A
+AF D1
+AF D3
+S
+SF40 Heavy
+SF40 Light
+
+Boats:
+
+USA boats:
+Motor torpedo boats 	PT-3 · PT-6 · PT-20 · PT-71 · PT-103 · PT-109 · PT-174
+ 	PT-200 · PT-314 · Thunderbolt (PT-556) · PT-565 · PT-658 · PT-810 · PT-811 · PT-812
+Motor gun boats 	Kim Qui · LCS(L)(3) · PT-59 · PTF-7 · USS Candid · USS Asheville · USS Douglas · USS Tucumcari · USS Cyclone
+Armoured gun boats 	LCM(6) Zippo
+
+Germany boats:
+Motor torpedo boats 	LS 3 · LS 4 Esau · KM-5 · VS-10
+ 	S-38 · S-38b · S-100 · S-100 (1944) · S-204 Lang · S-701
+ 	R-301
+ 	V-990
+ 	Jaguar · Hugin · Pfeil
+Motor gun boats 	R-41 · R-130 · Krischan der Große
+Motor torpedo gun boats 	Albatros · Bussard · MZ1 · Pr. 206
+Minelayers 	VS-8
+
+USSR boats:
+Motor torpedo boats 	D-3 · G-5 · G-5 (ShVAK) · Pr.123-bis · Pr.123K (A-11) · Pr.123K · Pr.183
+Motor gun boats 	TKA-106 · MO-4 · OD-200 · Pr.183 BM-21 · Ya-5M
+Motor torpedo gun boats 	Pr. 206 · Pr.206-M · MPK Pr.12412 · MPK Pr.12412P
+Gunboats 	Groza
+Armoured gun boats 	BMO · MBK-161 early · MBK-161 late · MBK pr.186 · MBK pr.186 (MK 85) · Pr.1124 early · Pr.1124 late · Pr.1124 MLRS
+ 	Pr.191 · Pr.191M · Pr.1204 · Pr.1204 late
+
+Britain boats:
+Motor torpedo boats 	Brave Borderer · Dark Aggressor · Dark Aggressor TD · Fairmile D (617) · Fairmile D (697) · Fairmile D (5001) · HMS Gay Archer
+ 	MTB-1(1) · MTB-1(2) · MTB Vosper · MTB Vosper(2) · MTB-422
+Motor gun boats 	Dark Adventurer · Fairmile A (ML100) · Fairmile B (ML345) · Fairmile C (312) · Fairmile C (332) · Fairmile D (601) · Fairmile H LCS(L)(2)
+ 	HMAS Arrow · MGB-61 · MGB-75 · ML 1383 · SGB Grey Fox · SGB Grey Goose
+Gunboats 	HMS Spey
+
+Japan boats:
+Motor torpedo boats 	Type T-1 · Type T-14 · Type T-14 (mod. 1) · Type T-38 · Type T-51a · Type T-51b · PT-15 · PT-808
+Motor gun boats 	Ha-Go (mod. 1) · Type 4 (mod. 2) · Type 4 (Mod 4) · Asagao (YTE-01) · PG 02
+Armoured gun boats 	Soukou-Tei · Soukou-Tei No.4
+Gunboats 	Chidori
+
+Italy boats:
+Motor torpedo boats 	MC-490 · Freccia P-493 · MAS 555 · MAS 561 · MAS 569
+ 	MS-15 · MS-53 · MS-472 · Stefano Turr · VAS 201 · GIS 811 · MC 485
+Motor gun boats 	MS-473 · MV-611 · Sparviero
+Motor torpedo gun boats 	Saetta P-494
+Gunboats 	Albatros
+
+Submarine chasers:
+C
+Carmi (PC-466)
+D
+Drache
+F
+Folaga
+H
+HMCS Brantford
+HMS Liscomb
+HMS Peacock
+L
+LÉ Orla
+M
+M-17
+M-802
+MPK pr.122A
+MPK Pr.122bis
+MPK Pr.201K
+MPK Pr.201M
+MPK Pr.204
+MPK-163
+P
+PC-451
+R
+RN Gabbiano
+S
+SC-497
+T
+Type 5
+Type K-3 No.1
+Type K-7 No.4
+Type K-8 No.13
+Type K-8 No.13 late
+
+Destroyers:
+
+USA destroyers:
+Clemson-class 	USS Welborn C. Wood · USS Barker · USS Litchfield
+Farragut-class 	USS Aylwin
+Porter-class 	USS Porter · USS Phelps · USS Moffett
+Somers-class 	USS Somers · USS Davis
+Fletcher-class 	USS Fletcher · USS Bennion · USS Cowell
+Allen M. Sumner-class 	USS Sumner
+Gearing-class 	USS Gearing · USS Frank Knox
+Mitscher-class 	USS Mitscher · USS Wilkinson
+
+Germany destroyers:
+ 	Torpedo boats
+Type 1924 	Jaguar · Leopard · Luchs
+Type 1939 	T22 · T31
+ 	Destoyers
+Type 1934A 	Z12 Erich Giese · Z15 Erich Steinbrinck
+Type 1936 	Z20 Karl Galster · Z22 Anton Schmitt
+Type 1936A 	Z25 · Z32
+Type 1936B 	Z43
+Type 1936C 	Z46 · Z47
+
+USSR destroyers:
+ 	Imperial Russia
+Derzky-class 	Frunze
+Fidonisy-class 	Kerch
+ 	Soviet Union
+Pr. 1 	Leningrad · Moskva
+Pr. 45 	Opytny
+Pr. 7 	Besposhchadny · Ryany
+Pr. 7U 	Soobrazitelny · Stroyny
+Pr. 20 	Tashkent
+Pr. 30 	Ognevoy
+Pr. 30-bis 	Smelyi · Bezuprechny
+Pr. 41 	Neustrashimy
+Pr. 56 	Spokoinyy · Blagorodnyy · Bravy
+Trophies 	Romania
+Regele Ferdinand-class 	Letuchiy
+
+Britain destroyers:
+Town-class 	HMS Churchill · HMS Montgomery
+V-class 	HMS Valhalla · HMS Vega · HMS Verdun
+G-class 	HMS Grafton · ORP Garland
+Hunt-class 	HMS Calpe · HMS Brissenden
+Tribal-class 	HMCS Haida · HMS Eskimo · HMS Mohawk
+J-class 	HMS Jervis
+K-class 	HMS Kelvin
+N-class 	HMAS Nepal
+Battle-class 	HMS Armada · HMS Cadiz · HMAS Tobruk
+Daring-class 	HMS Daring · HMS Diamond · HMS Diana
+
+Japan destroyers:
+ 	IJN
+Momi-class 	IJN Momi
+Mutsuki-class 	IJN Mutsuki · IJN Satsuki
+Fubuki-class 	IJN Ayanami
+Hatsuharu-class 	IJN Hatsuharu · IJN Nenohi
+Shiratsuyu-class 	IJN Yuudachi
+Yugumo-class 	IJN Yugumo · IJN Hayanami · IJN Kiyoshimo
+Shimakaze-class 	IJN Shimakaze
+Akizuki-class 	IJN Akizuki · IJN Hatsuzuki
+ 	JMSDF
+Ariake-class* 	JDS Yūgure (DD-184)
+Harukaze-class 	JDS Harukaze (DD-101)
+
+Italy destroyers:
+ 	Regia Marina
+Aquila-class 	RN Aquila
+Leone-class 	RN Leone · RN Tigre
+Turbine-class 	RN Aquilone · RN Turbine
+Navigatori-class 	RN Da Verazzano
+Dardo-class 	RN Dardo
+Soldati-class 	RN Aviere · RN Corazziere · RN Geniere
+Comandanti Medaglie d'Oro-class 	RN Comandante Margottini
+ 	Marina Militare
+Fante-class* 	Geniere
+Indomito-class 	Impetuoso
+
+France destroyers:
+Bourrasque-class 	Bourrasque
+Chacal-class 	Chacal · Leopard · Panthere
+Aigle-class 	Aigle · Vautour · Milan
+Vauquelin-class 	Vauquelin
+Le Fantasque-class 	Le Malin · Le Triomphant
+Hunt-class 	La Combattante
+Trophies 	Germany
+Desaix-class* 	Kleber
+Type 1936 	Marceau
+
+Cruisers:
+
+USA heavy cruisers:
+Pensacola-class 	USS Pensacola
+Northampton-class 	USS Northampton
+Portland-class 	USS Portland
+New Orleans-class 	USS New Orleans
+Baltimore-class 	USS Baltimore · USS Pittsburgh
+Des Moines-class 	USS Des Moines · USS Newport News
+
+Germany heavy cruisers:
+Admiral Hipper-class 	Admiral Hipper · Prinz Eugen
+Deutschland-class 	Admiral Graf Spee
+
+Britain heavy cruisers:
+Hawkins-class 	HMS Hawkins
+York-class 	HMS York
+County-class 	HMS Kent · HMS London · HMS Norfolk
+
+Japan heavy cruisers:
+Furutaka-class 	IJN Furutaka · IJN Kako
+Aoba-class 	IJN Aoba
+Myōkō-class 	IJN Myoko
+Mogami-class 	IJN Mogami
+Tone-class 	IJN Tone
+
+Italy heavy cruisers:
+Trento-class 	RN Trento · RN Bolzano
+Zara-class 	RN Zara · RN Pola
+
+France heavy cruisers:
+Suffren-class 	Colbert · Dupleix
+
+USA light cruisers:
+Omaha-class 	USS Detroit · USS Raleigh · USS Trenton
+Atlanta-class 	USS Atlanta
+Brooklyn-class 	USS Brooklyn · USS Helena
+Cleveland-class 	USS Cleveland
+Fargo-class 	USS Fargo
+Worcester-class 	USS Roanoke
+
+Germany light cruisers:
+Pillau-class 	SMS Elbing
+ 	Emden*
+Königsberg-class 	Karlsruhe · Köln
+Leipzig-class 	Leipzig · Nürnberg
+
+USSR light cruisers:
+ 	Imperial Russia
+Svetlana-class 	Krasny Krym* · Krasny Kavkaz*
+ 	* Laid down by Imperial Russian Navy; Finished and renamed by the USSR
+Project 	Soviet Union
+Pr.26 	Kirov · Voroshilov · Maxim Gorky
+Pr.68 	Chapayev · Zheleznyakov
+Pr.68-bis 	Sverdlov · Mikhail Kutuzov
+Pr.68-bis-ZiF 	Shcherbakov
+Trophies 	Italy
+Condottieri-class 	Kerch
+
+Britain light cruisers:
+Emerald-class 	HMS Enterprise
+Dido-class 	HMS Dido
+Leander-class 	HMNZS Leander
+Arethusa-class 	HMS Arethusa
+Town-class 	HMS Belfast · HMS Liverpool · HMS Southampton
+Tiger-class 	HMS Tiger
+Abdiel-class* 	HMS Abdiel
+
+Japan light cruisers:
+Kuma-class 	IJN Kuma
+ 	IJN Yubari*
+Nagara-class 	IJN Isuzu
+Sendai-class 	IJN Sendai
+Agano-class 	IJN Agano
+Mogami-class 	IJN Mikuma · IJN Suzuya
+
+Italy light cruisers:
+Condottieri-class 	RN Bartolomeo Colleoni · RN Raimondo Montecuccoli · RN Eugenio di Savoia · RN Duca degli Abruzzi
+Capitani Romani-class 	RN Attilio Regolo
+Etna-class 	RN Etna
+
+France light cruisers:
+Duguay-Trouin-class 	Duguay-Trouin · Primauguet
+ 	Jeanne d'Arc*
+ 	Emile Bertin*
+
+Battleships:
+
+USA battleships:
+Delaware-class 	USS North Dakota
+Wyoming-class 	USS Wyoming · USS Arkansas
+New York-class 	USS Texas
+Nevada-class 	USS Nevada
+Pennsylvania-class 	USS Arizona
+New Mexico-class 	USS Mississippi
+
+Germany battleships:
+Nassau-class 	SMS Nassau · SMS Westfalen
+Helgoland-class 	SMS Helgoland · SMS Ostfriesland
+Kaiser-class 	SMS Kaiser
+Bayern-class 	SMS Bayern · SMS Baden · SMS Sachsen
+
+USSR battleships:
+ 	Imperial Russia
+Sevastopol-class 	Marat* · Parizhskaya Kommuna** · Poltava
+Imperatritsa Mariya-class 	Imperatritsa Mariya
+ 	* Laid down as Petropavlovsk; renamed and remodeled by the USSR
+** Laid down as Sevastopol; renamed and remodeled by the USSR
+Trophies 	Italy
+Conte di Cavour-class 	Novorossiysk*
+ 	* Laid down as RN Giulio Cesare for the Regia Marina
+
+Britain battleships:
+ 	HMS Dreadnought*
+Colossus-class 	HMS Colossus
+Orion-class 	HMS Orion
+Iron Duke-class 	HMS Iron Duke · HMS Marlborough
+
+Japan battleships:
+Kawachi-class 	IJN Settsu
+Fusō-class 	IJN Fuso · IJN Yamashiro
+Ise-class 	IJN Ise · IJN Hyuga
+Kongō-class 	IJN Kongo · IJN Haruna
+Nagato-class 	IJN Mutsu
+
+Italy battleships:
+ 	RN Dante Alighieri*
+Conte di Cavour-class 	RN Conte di Cavour · RN Leonardo da Vinci
+Duilio-class 	RN Duilio · RN Andrea Doria
+
+France battleships:
+Courbet-class 	Courbet · Paris
+Bretagne-class 	Bretagne · Lorraine

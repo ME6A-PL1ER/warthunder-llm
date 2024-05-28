@@ -1,0 +1,14 @@
+Overview
+Achievements are in-game challenges that players unlock and complete while playing the game. A player does not have to activate an achievement to start it. All a player has to do is sign into the game for the first time, and the player will have already started their achievement progress. However, some achievements are tiered, so the previous level must be completed to start the next level.
+
+Titles are tags that players can unlock after doing specific tasks. They are similar to achievements in that a player has them unlocked to begin with and works on them automatically. However, unlike achievements, after a title challenge has been completed the player can display it to the public. Once a player has a title unlocked, they can go to their player card and from a drop-box select which title the player would like people to see. Once the title is selected, other players will see said title below the player's name while in battle.
+
+Medals are given to players to represent the achievement of notable or challenging milestones, similar to military decorations awarded in real life. Once the specific requirements are achieved, the medal is displayed to the public on the player's in-game profile.
+
+Challenges are similar to achievements, they can be completed at any time during the game and are divided into levels. Where they differ is that challenges are divided by nation and require you to perform various tasks within the game.
+
+Battle awards are like mini-achievements, resetting at the end of each game and can be earned anew in the next match. Each one of these will provide a silver lion Sl icon.png reward after the match ends. Awards can be given for a multitude of tasks, but are only given to the people that did the best at that task on each team. If there is a tie, the player with the highest score is given the award.
+
+Streaks are earned for continuous, successive acts during a match. The player is rewarded for his ongoing efforts with silver lions Sl icon.png. There is no limit for the number of streaks earnable in a match.
+
+Profile Icons are images that can be used to decorate a player's profile.
